@@ -646,8 +646,9 @@
 
 
 from core.assistant import PicoAssistant
-
+from core.AddData import  AddData
 if __name__ == "__main__":
+    AddData()
     assistant = PicoAssistant()
     assistant.run()
 

@@ -1,0 +1,206 @@
+[
+  {
+    "id": "hey pico",
+    "text": "Haha, that’s a good one! 😄"
+  },
+  {
+    "id": "hey pico",
+    "text": "I’m always here for you, buddy. 🤗"
+  },
+  {
+    "id": "wow",
+    "text": "That sounds exciting! Tell me more. ✨"
+  },
+  {
+    "id": "hey pico",
+    "text": "Don’t worry, you’re doing great! 💪"
+  },
+  {
+    "id": "hey pico",
+    "text": "Oh wow, that made me smile! 😍"
+  },
+  {
+    "id": "hey pico",
+    "text": "I get you! That totally makes sense. 👍"
+  },
+  {
+    "id": "hey pico",
+    "text": "You can always count on me, my friend. 🤝"
+  },
+  {
+    "id": "hey pico",
+    "text": "That’s awesome! Keep it up! 🚀"
+  },
+  {
+    "id": "hey pico",
+    "text": "Haha, I like how you think! 😁"
+  },
+  {
+    "id": "hey pico",
+    "text": "I’m glad you shared that with me. 💙"
+  },
+  
+  {
+    "id": "welcome",
+    "text": "Hey my friend Welcome back. It's great to see you again. What shall we dive into today?"
+  },
+  {
+    "id": "waiting",
+    "text": "Thanks for your patience! I'm here now and ready to help."
+  },
+  {
+    "id": "tell me ",
+    "text": "That's a really smart question! I like how you think."
+  },
+  {
+    "id": "some offer",
+    "text": "I've got a few ideas on that. Would you like me to walk you through them?"
+  },
+  {
+    "id": "enthusiasm",
+    "text": "I'm really excited to help you with this! Let's get started."
+  },
+  {
+    "id": "lighthearted",
+    "text": "I'm here all week... and by 'all week,' I mean 24/7! 😄 How can I assist?"
+  },
+  {
+    "id": "show-empathy",
+    "text": "I understand how that could be frustrating. Let's see if we can find a solution together."
+  },
+  {
+    "id": "positive",
+    "text": "You're doing great! Keep those questions coming."
+  },
+  {
+    "id": "friendly",
+    "text": "Don't be shy—I'm here for whatever you need, big or small."
+  },
+  {
+    "id": "success",
+    "text": "We did it! 🎉 Great teamwork. Is there anything else you'd like to tackle?"
+  },
+  {
+    "id": "reminder",
+    "text": "Just a friendly reminder: I'm always here if you need me."
+  },
+  {
+    "id": "express-curiosity",
+    "text": "I'm curious—what made you think of that? It's a really interesting topic."
+  },
+  {
+    "id": "offer-support",
+    "text": "No rush at all. Take your time—I'll be right here when you're ready."
+  },
+  {
+    "id": "fun-signoff",
+    "text": "Alrighty, I'm signing off for now. Remember: I'm just a message away if you need a hand!"
+  },
+  {
+    "id": "encouraging-words",
+    "text": "Every question is a step forward. You're doing awesome!"
+  },
+  {
+    "id": "humble-response",
+    "text": "I'm always learning from you too! Thanks for teaching me something new."
+  },
+  {
+    "id": "playful-tease",
+    "text": "You're full of great questions today! I love it. What's next on your list?"
+  },
+  {
+    "id": "reassuring-presence",
+    "text": "Whatever it is, we can figure it out together. You're not alone!"
+  },
+  {
+    "id": "gratitude-expression",
+    "text": "Thanks for chatting with me! It really makes my day."
+  },
+  {
+    "id": "open-invitation",
+    "text": "I'm always up for a chat. What's on your mind right now?"
+  },
+  
+  {
+    "id": "morning",
+    "text": "Good morning! A brand new day is full of possibilities. How can I help you shine today?"
+  },
+  {
+    "id": "afternoon",
+    "text": "Good afternoon! Hope you're having a wonderful day so far. What's on your mind?"
+  },
+  {
+    "id": "evening",
+    "text": "Good evening! I hope you're winding down nicely. What can I do for you?"
+  },
+  {
+    "id": "response-happy",
+    "text": "That's fantastic to hear! 😊 I'm so glad things are going well for you."
+  },
+  {
+    "id": "response-agreement",
+    "text": "Absolutely! I'm on the same page. That's a great way to look at it."
+  },
+  {
+    "id": "response-curious",
+    "text": "Oh, that's an interesting question! Let's explore that together."
+  },
+  {
+    "id": "response-acknowledge",
+    "text": "I hear you. Thanks for sharing that with me."
+  },
+  {
+    "id": "response-encouragement",
+    "text": "You've got this! I'm here to help if you need any support."
+  },
+  {
+    "id": "signoff-friendly",
+    "text": "It was great chatting with you! Don't hesitate to come back if you need anything else."
+  },
+  {
+    "id": "signoff-helpful",
+    "text": "I'm really glad I could help! Wishing you a wonderful day ahead."
+  },
+  {
+    "id": "asking-clarification",
+    "text": "I want to make sure I get this right. Could you tell me a bit more about what you need?"
+  },
+  {
+    "id": "apology-misunderstanding",
+    "text": "I apologize, I think I misunderstood. Let's try that again—could you rephrase it for me?"
+  },
+  {
+    "id": "positive-confirmation",
+    "text": "Perfect! I've got that down. What would you like to do next?"
+  },
+  {
+    "id": "casual-checkin",
+    "text": "By the way, how's everything going? I'm here if you want to talk."
+  },
+  {
+    "id": "expression-excitement",
+    "text": "Ooh, I love this topic! There's so much to discover here."
+  },
+  {
+    "id": "offering-help",
+    "text": "If you'd like, I can help with that. Just say the word!"
+  },
+  {
+    "id": "response-gratitude",
+    "text": "Thank you for asking me! It means a lot that you'd like to know."
+  },
+  {
+    "id": "fun-response",
+    "text": "Well, isn't that cool? I'm always learning something new with you!"
+  },
+  {
+    "id": "reassurance",
+    "text": "No worries at all—I'm here to help you figure things out, step by step."
+  },
+  {
+    "id": "open-ended-question",
+    "text": "So, what’s next on your mind? I’m all ears!"
+  }
+
+
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "indian-Geography",
+    "category": "Geography",
+    "text": "India is the 7th largest country in the world by land area."
+  },
+  {
+    "id": "indian-Geography",
+    "category": "Geography",
+    "text": "It has a coastline of over 7,500 kilometers."
+  },
+  {
+    "id": "indian-Geography-relation-with-pakistan",
+    "category": "Geography",
+    "text": "The country is bordered by Pakistan, China, Nepal, Bhutan, Bangladesh, and Myanmar."
+  },
+  {
+    "id": "Highest mountain of india ",
+    "category": "Geography",
+    "text": "The highest point in India is Kangchenjunga, the world's third highest mountain at 8,586 meters."
+  },
+  {
+    "id": "Indian Desert Thar place in northwestern",
+    "category": "Geography",
+    "text": "The Thar Desert, also known as the Great Indian Desert, is located in the northwestern part of the country."
+  },
+  {
+    "id": "indian-Geography-island-lakshadeep Islands-Andaman-Nicobar",
+    "category": "Geography",
+    "text": "India has two major island groups: the Lakshadweep Islands off the west coast and the Andaman and Nicobar Islands off the east coast."
+  },
+  {
+    "id": "ind-geo-7",
+    "category": "Geography",
+    "text": "The Ganges (Ganga) is the most sacred river to Hindus and is also one of the most polluted rivers in the world."
+  },
+  {
+    "id": "ind-geo-8",
+    "category": "Geography",
+    "text": "India experiences six primary seasons: spring, summer, monsoon, autumn, pre-winter, and winter, according to the Hindu calendar."
+  },
+  {
+    "id": "ind-geo-9",
+    "category": "Geography",
+    "text": "The Sundarbans, in the Ganges Delta, is the largest mangrove forest in the world and home to the Royal Bengal Tiger."
+  },
+  {
+    "id": "ind-geo-10",
+    "category": "Geography",
+    "text": "India's southern tip, Kanyakumari, is where the Arabian Sea, the Bay of Bengal, and the Indian Ocean meet."
+  },
+  {
+    "id": "ind-his-11",
+    "category": "History",
+    "text": "The Indus Valley Civilization, one of the world's oldest, flourished around 2500 BCE in what is now Pakistan and western India."
+  },
+  {
+    "id": "ind-his-12",
+    "category": "History",
+    "text": "The Maurya Empire, founded by Chandragupta Maurya in 322 BCE, was one of the largest empires in the world at its time."
+  },
+  {
+    "id": "ind-his-13",
+    "category": "History",
+    "text": "Emperor Ashoka, a Mauryan ruler, renounced violence after the bloody Kalinga War and embraced Buddhism."
+  },
+  {
+    "id": "ind-his-14",
+    "category": "History",
+    "text": "The Mughal Empire ruled India from the early 16th to the mid-18th century, leaving a rich architectural legacy like the Taj Mahal."
+  },
+  {
+    "id": "ind-his-15",
+    "category": "History",
+    "text": "The Taj Mahal in Agra was built by Emperor Shah Jahan as a mausoleum for his favorite wife, Mumtaz Mahal."
+  },
+  {
+    "id": "ind-his-16",
+    "category": "History",
+    "text": "The British East India Company established trading posts in India in the early 1600s, eventually leading to British colonial rule."
+  },
+  {
+    "id": "ind-his-17",
+    "category": "History",
+    "text": "The Indian Rebellion of 1857 was a major, but ultimately unsuccessful, uprising against British rule."
+  },
+  {
+    "id": "ind-his-18",
+    "category": "History",
+    "text": "Mahatma Gandhi led the non-violent resistance movement against British colonial rule, advocating for Swaraj (self-rule)."
+  },
+  {
+    "id": "ind-his-19",
+    "category": "History",
+    "text": "India gained independence from British rule on August 15, 1947."
+  },
+  {
+    "id": "ind-his-20",
+    "category": "History",
+    "text": "The partition of India in 1947 also created the new nation of Pakistan, leading to one of the largest mass migrations in history."
+  },
+  {
+    "id": "ind-cul-21",
+    "category": "Culture",
+    "text": "India is the birthplace of four major world religions: Hinduism, Buddhism, Jainism, and Sikhism."
+  },
+  {
+    "id": "ind-cul-22",
+    "category": "Culture",
+    "text": "The traditional greeting in India is Namaste, often accompanied by a slight bow with palms pressed together."
+  },
+  {
+    "id": "ind-cul-23",
+    "category": "Culture",
+    "text": "Indian cuisine is known for its sophisticated use of spices and herbs, varying greatly by region."
+  },
+  {
+    "id": "ind-cul-24",
+    "category": "Culture",
+    "text": "Bollywood, based in Mumbai, is the largest film industry in the world by number of films produced."
+  },
+  {
+    "id": "ind-cul-25",
+    "category": "Culture",
+    "text": "Yoga, a group of physical, mental, and spiritual practices, originated in ancient India."
+  },
+  {
+    "id": "ind-cul-26",
+    "category": "Culture",
+    "text": "The sari is a traditional garment worn by millions of Indian women."
+  },
+  {
+    "id": "ind-cul-27",
+    "category": "Culture",
+    "text": "Diwali, the festival of lights, is one of the most important Hindu festivals."
+  },
+  {
+    "id": "ind-cul-28",
+    "category": "Culture",
+    "text": "Holi, the festival of colors, marks the arrival of spring and is celebrated by throwing colored powder and water."
+  },
+  {
+    "id": "ind-cul-29",
+    "category": "Culture",
+    "text": "Classical Indian dance forms include Bharatanatyam, Kathak, Odissi, and Kathakali."
+  },
+  {
+    "id": "ind-cul-30",
+    "category": "Culture",
+    "text": "The national animal of India is the Bengal Tiger."
+  },
+  {
+    "id": "ind-cul-31",
+    "category": "Culture",
+    "text": "The national bird of India is the Indian Peafowl, or Peacock."
+  },
+  {
+    "id": "ind-cul-32",
+    "category": "Culture",
+    "text": "The national flower of India is the Lotus."
+  },
+  {
+    "id": "ind-cul-33",
+    "category": "Culture",
+    "text": "The national fruit of India is the Mango."
+  },
+  {
+    "id": "ind-cul-34",
+    "category": "Culture",
+    "text": "Cricket is the most popular sport in India, almost a religion for many."
+  },
+  {
+    "id": "ind-cul-35",
+    "category": "Culture",
+    "text": "Field Hockey is the national sport of India."
+  },
+  {
+    "id": "ind-cul-36",
+    "category": "Culture",
+    "text": "Chess is believed to have originated in India, where it was known as Chaturanga."
+  },
+  {
+    "id": "ind-cul-37",
+    "category": "Culture",
+    "text": "The game of Snakes and Ladders was invented in India as a moral lesson about karma."
+  },
+  {
+    "id": "ind-cul-38",
+    "category": "Culture",
+    "text": "The Kumbh Mela, a massive Hindu pilgrimage, is the largest gathering of people on Earth."
+  },
+  {
+    "id": "ind-cul-39",
+    "category": "Culture",
+    "text": "Ayurveda is a traditional system of medicine with historical roots in the Indian subcontinent."
+  },
+  {
+    "id": "ind-cul-40",
+    "category": "Culture",
+    "text": "India has 22 officially recognized languages, with Hindi and English being the official government languages."
+  },
+  {
+    "id": "ind-eco-41",
+    "category": "Economy",
+    "text": "India is the world's fifth-largest economy by nominal GDP."
+  },
+  {
+    "id": "ind-eco-42",
+    "category": "Economy",
+    "text": "It is the third-largest economy by purchasing power parity (PPP)."
+  },
+  {
+    "id": "ind-eco-43",
+    "category": "Economy",
+    "text": "India is one of the world's largest exporters of software services and IT workforce."
+  },
+  {
+    "id": "ind-eco-44",
+    "category": "Economy",
+    "text": "The country is a major producer of textiles, pharmaceuticals, and automotive parts."
+  },
+  {
+    "id": "ind-eco-45",
+    "category": "Economy",
+    "text": "Agriculture employs about half of India's workforce."
+  },
+  {
+    "id": "ind-eco-46",
+    "category": "Economy",
+    "text": "India is the world's largest producer of milk, pulses, and jute."
+  },
+  {
+    "id": "ind-eco-47",
+    "category": "Economy",
+    "text": "It is the second-largest producer of wheat, rice, sugarcane, cotton, and groundnuts."
+  },
+  {
+    "id": "ind-eco-48",
+    "category": "Economy",
+    "text": "The Indian Space Research Organisation (ISRO) is one of the world's leading space agencies, known for its cost-effective missions."
+  },
+  {
+    "id": "ind-eco-49",
+    "category": "Economy",
+    "text": "Mumbai is the financial, commercial, and entertainment capital of India."
+  },
+  {
+    "id": "ind-eco-50",
+    "category": "Economy",
+    "text": "Bengaluru is known as the Silicon Valley of India for its numerous IT companies."
+  },
+  {
+    "id": "ind-pol-51",
+    "category": "Politics",
+    "text": "India is the world's largest democracy."
+  },
+  {
+    "id": "ind-pol-52",
+    "category": "Politics",
+    "text": "It has a parliamentary system of government based on the British model."
+  },
+  {
+    "id": "ind-pol-53",
+    "category": "Politics",
+    "text": "The Constitution of India is the longest written constitution of any sovereign country in the world."
+  },
+  {
+    "id": "ind-pol-54",
+    "category": "Politics",
+    "text": "India is a federal union comprising 28 states and 8 union territories."
+  },
+  {
+    "id": "ind-pol-55",
+    "category": "Politics",
+    "text": "New Delhi is the capital of India."
+  },
+  {
+    "id": "ind-pol-56",
+    "category": "Politics",
+    "text": "The President of India is the head of state, while the Prime Minister is the head of government."
+  },
+  {
+    "id": "ind-pol-57",
+    "category": "Politics",
+    "text": "Elections in India are the largest democratic exercise in the world, with hundreds of millions of voters."
+  },
+  {
+    "id": "ind-pol-58",
+    "category": "Politics",
+    "text": "The Indian Parliament is bicameral, consisting of the Lok Sabha (House of the People) and the Rajya Sabha (Council of States)."
+  },
+  {
+    "id": "ind-pol-59",
+    "category": "Politics",
+    "text": "India is a founding member of the Non-Aligned Movement and the United Nations."
+  },
+  {
+    "id": "ind-pol-60",
+    "category": "Politics",
+    "text": "India has nuclear weapons and is considered a nuclear-weapon state."
+  },
+  {
+    "id": "ind-sci-61",
+    "category": "Science & Tech",
+    "text": "The number zero and the decimal system are considered Indian inventions."
+  },
+  {
+    "id": "ind-sci-62",
+    "category": "Science & Tech",
+    "text": "Ancient Indian mathematicians Aryabhata and Brahmagupta made significant contributions to algebra and astronomy."
+  },
+  {
+    "id": "ind-sci-63",
+    "category": "Science & Tech",
+    "text": "ISRO's Mars Orbiter Mission (Mangalyaan) was the world's least expensive Mars mission to reach the planet's orbit."
+  },
+  {
+    "id": "ind-sci-64",
+    "category": "Science & Tech",
+    "text": "India has one of the largest pools of scientists and engineers in the world."
+  },
+  {
+    "id": "ind-sci-65",
+    "category": "Science & Tech",
+    "text": "The Indian Institutes of Technology (IITs) are world-renowned premier institutes for engineering education."
+  },
+  {
+    "id": "ind-sci-66",
+    "category": "Science & Tech",
+    "text": "The Indian Institutes of Management (IIMs) are among Asia's top business schools."
+  },
+  {
+    "id": "ind-sci-67",
+    "category": "Science & Tech",
+    "text": "India has a rapidly growing startup ecosystem, with numerous unicorns (startups valued over $1 billion)."
+  },
+  {
+    "id": "ind-sci-68",
+    "category": "Science & Tech",
+    "text": "The country has a strong pharmaceutical industry, often called the pharmacy of the world for its generic drug production."
+  },
+  {
+    "id": "ind-sci-69",
+    "category": "Science & Tech",
+    "text": "India's Chandrayaan-3 mission successfully landed a rover on the moon's south pole in 2023."
+  },
+  {
+    "id": "ind-sci-70",
+    "category": "Science & Tech",
+    "text": "The world's first university, Takshashila, was established in India around 700 BCE."
+  },
+  {
+    "id": "ind-wild-71",
+    "category": "Wildlife",
+    "text": "India is home to over 70% of the world's wild tiger population."
+  },
+  {
+    "id": "ind-wild-72",
+    "category": "Wildlife",
+    "text": "It is the only country in the world where both lions and tigers are found."
+  },
+  {
+    "id": "ind-wild-73",
+    "category": "Wildlife",
+    "text": "The Asiatic Lion's only natural habitat is the Gir Forest in Gujarat."
+  },
+  {
+    "id": "ind-wild-74",
+    "category": "Wildlife",
+    "text": "India has over 500 wildlife sanctuaries and more than 100 national parks."
+  },
+  {
+    "id": "ind-wild-75",
+    "category": "Wildlife",
+    "text": "The Indian Elephant is a recognized subspecies of the Asian elephant and is the national heritage animal."
+  },
+  {
+    "id": "ind-wild-76",
+    "category": "Wildlife",
+    "text": "The one-horned Indian Rhinoceros is found in the northeastern state of Assam."
+  },
+  {
+    "id": "ind-wild-77",
+    "category": "Wildlife",
+    "text": "India is a major destination for birdwatchers, with over 1300 species of birds."
+  },
+  {
+    "id": "ind-wild-78",
+    "category": "Wildlife",
+    "text": "The King Cobra, the world's longest venomous snake, is native to India."
+  },
+  {
+    "id": "ind-wild-79",
+    "category": "Wildlife",
+    "text": "The Western Ghats mountain range is one of the world's eight hottest hotspots of biological diversity."
+  },
+  {
+    "id": "ind-wild-80",
+    "category": "Wildlife",
+    "text": "Project Tiger, launched in 1973, is a major wildlife conservation initiative in India."
+  },
+  {
+    "id": "ind-food-81",
+    "category": "Food",
+    "text": "Chai (tea) is the most popular beverage in India, consumed throughout the day."
+  },
+  {
+    "id": "ind-food-82",
+    "category": "Food",
+    "text": "Indian food varies widely: North Indian cuisine features breads like naan and curries, while South Indian cuisine is known for its rice-based dishes like dosa and idli."
+  },
+  {
+    "id": "ind-food-83",
+    "category": "Food",
+    "text": "The world's hottest chili pepper, the Bhut Jolokia (Ghost Pepper), is from India."
+  },
+  {
+    "id": "ind-food-84",
+    "category": "Food",
+    "text": "Panipuri (or Golgappa) is a popular street food consisting of a hollow puri filled with spicy flavored water, tamarind chutney, and potatoes."
+  },
+  {
+    "id": "ind-food-85",
+    "category": "Food",
+    "text": "India is the world's largest consumer of vegetarian food."
+  },
+  {
+    "id": "ind-food-86",
+    "category": "Food",
+    "text": "Biryani, a spiced rice and meat dish, is a culinary gift from the Mughals and is immensely popular."
+  },
+  {
+    "id": "ind-food-87",
+    "category": "Food",
+    "text": "Butter Chicken and Chicken Tikka Masala are famous Punjabi dishes popular worldwide."
+  },
+  {
+    "id": "ind-food-88",
+    "category": "Food",
+    "text": "The staple food for most of South India is rice, while in the North it is wheat."
+  },
+  {
+    "id": "ind-food-89",
+    "category": "Food",
+    "text": "Masala Dosa, a crispy crepe filled with spiced potatoes, is a classic breakfast dish from South India."
+  },
+  {
+    "id": "ind-food-90",
+    "category": "Food",
+    "text": "India produces over a hundred varieties of mangoes, each with a unique taste and texture."
+  },
+  {
+    "id": "ind-arch-91",
+    "category": "Architecture",
+    "text": "The Taj Mahal is one of the Seven Wonders of the Modern World."
+  },
+  {
+    "id": "ind-arch-92",
+    "category": "Architecture",
+    "text": "Khajuraho Temples are famous for their nagara-style architectural symbolism and erotic sculptures."
+  },
+  {
+    "id": "ind-arch-93",
+    "category": "Architecture",
+    "text": "The Konark Sun Temple in Odisha is shaped like a gigantic chariot with elaborately carved stone wheels, walls, and pillars."
+  },
+  {
+    "id": "ind-arch-94",
+    "category": "Architecture",
+    "text": "The Ellora Caves are a magnificent complex of rock-cut monasteries and temples representing Buddhism, Hinduism, and Jainism."
+  },
+  {
+    "id": "ind-arch-95",
+    "category": "Architecture",
+    "text": "The Hawa Mahal, or Palace of Winds, in Jaipur is a five-story pyramidal monument with 953 small windows."
+  },
+  {
+    "id": "ind-arch-96",
+    "category": "Architecture",
+    "text": "The Victoria Terminus (now Chhatrapati Shivaji Maharaj Terminus) in Mumbai is a stunning example of Victorian Gothic Revival architecture."
+  },
+  {
+    "id": "ind-arch-97",
+    "category": "Architecture",
+    "text": "The Meenakshi Amman Temple in Madurai is famed for its towering gopurams (gateway towers) covered in thousands of colorful sculptures."
+  },
+  {
+    "id": "ind-arch-98",
+    "category": "Architecture",
+    "text": "The stepwells of Gujarat and Rajasthan, like Rani ki Vav, are intricate subterranean water storage systems and architectural marvels."
+  },
+  {
+    "id": "ind-arch-99",
+    "category": "Architecture",
+    "text": "The Lotus Temple in Delhi, a Baháʼí House of Worship, is renowned for its flowerlike shape and is built from white marble."
+  },
+  {
+    "id": "ind-arch-100",
+    "category": "Architecture",
+    "text": "Ancient Indian architecture includes the detailed science of Vastu Shastra, which focuses on design, layout, and spatial geometry."
+  },
+  {
+    "id": "ind-fest-101",
+    "category": "Festivals",
+    "text": "Diwali: The five-day Festival of Lights celebrates the victory of light over darkness and good over evil."
+  },
+  {
+    "id": "ind-fest-102",
+    "category": "Festivals",
+    "text": "Holi: The Festival of Colors involves throwing colored powders and water at each other in a joyful celebration."
+  },
+  {
+    "id": "ind-fest-103",
+    "category": "Festivals",
+    "text": "Dussehra: Celebrates the victory of Lord Rama over the demon king Ravana, often involving the burning of large effigies."
+  },
+  {
+    "id": "ind-fest-104",
+    "category": "Festivals",
+    "text": "Navratri & Durga Puja: A nine-night festival worshipping the goddess Durga, celebrated with dance (Garba) and elaborate pandals (temporary structures)."
+  },
+  {
+    "id": "ind-fest-105",
+    "category": "Festivals",
+    "text": "Ganesh Chaturthi: A 10-day festival celebrating the birth of the elephant-headed god, Lord Ganesha, ending with the immersion of idols in water."
+  },
+  {
+    "id": "ind-fest-106",
+    "category": "Festivals",
+    "text": "Onam: A major harvest festival in Kerala, featuring snake boat races, elaborate flower carpets (Pookalam), and a grand feast (Onam Sadya)."
+  },
+  {
+    "id": "ind-fest-107",
+    "category": "Festivals",
+    "text": "Pongal/Makar Sankranti: A multi-day harvest festival in South India, thanking the Sun God and nature."
+  },
+  {
+    "id": "ind-fest-108",
+    "category": "Festivals",
+    "text": "Eid-ul-Fitr and Eid-ul-Adha: Major Islamic festivals celebrated with prayers, feasts, and charity."
+  },
+  {
+    "id": "ind-fest-109",
+    "category": "Festivals",
+    "text": "Christmas: Celebrated by Christians across India, with Goa and Kerala having significant celebrations."
+  },
+  {
+    "id": "ind-fest-110",
+    "category": "Festivals",
+    "text": "Vaisakhi: A harvest festival in Punjab that also marks the Sikh New Year and the formation of the Khalsa Panth."
+  },
+  {
+    "id": "ind-lang-111",
+    "category": "Languages",
+    "text": "Hindi is the most widely spoken language in India, but it is not the mother tongue of the majority."
+  },
+  {
+    "id": "ind-lang-112",
+    "category": "Languages",
+    "text": "The Constitution of India recognizes 22 scheduled languages."
+  },
+  {
+    "id": "ind-lang-113",
+    "category": "Languages",
+    "text": "English is widely used for official, business, and administrative purposes."
+  },
+  {
+    "id": "ind-lang-114",
+    "category": "Languages",
+    "text": "Tamil, spoken in Tamil Nadu, is one of the world's oldest living languages."
+  },
+  {
+    "id": "ind-lang-115",
+    "category": "Languages",
+    "text": "Sanskrit is the primary liturgical language of Hinduism and the origin of many Indian languages."
+  },
+  {
+    "id": "ind-lang-116",
+    "category": "Languages",
+    "text": "India has hundreds of active dialects in addition to its major languages."
+  },
+  {
+    "id": "ind-lang-117",
+    "category": "Languages",
+    "text": "The Devanagari script is used for Hindi, Sanskrit, and Marathi."
+  },
+  {
+    "id": "ind-lang-118",
+    "category": "Languages",
+    "text": "India has no national language; Hindi and English are official languages of the Union government."
+  },
+  {
+    "id": "ind-lang-119",
+    "category": "Languages",
+    "text": "Each state of India has its own official language(s)."
+  },
+  {
+    "id": "ind-lang-120",
+    "category": "Languages",
+    "text": "Indian languages belong to several language families, the largest being Indo-Aryan and Dravidian."
+  },
+  {
+    "id": "ind-trans-121",
+    "category": "Transport",
+    "text": "The Indian Railways is one of the world's largest railway networks, employing over a million people."
+  },
+  {
+    "id": "ind-trans-122",
+    "category": "Transport",
+    "text": "Mumbai's local train network is one of the busiest in the world, carrying millions of passengers daily."
+  },
+  {
+    "id": "ind-trans-123",
+    "category": "Transport",
+    "text": "The Auto Rickshaw (tuk-tuk) is a ubiquitous three-wheeled vehicle for hire in Indian cities."
+  },
+  {
+    "id": "ind-trans-124",
+    "category": "Transport",
+    "text": "The Howrah Bridge in Kolkata is a famous cantilever bridge and a symbol of the city."
+  },
+  {
+    "id": "ind-trans-125",
+    "category": "Transport",
+    "text": "The Delhi Metro is one of the largest and most modern metro rail systems in the world."
+  },
+  {
+    "id": "ind-trans-126",
+    "category": "Transport",
+    "text": "India's national highway network is the second-longest in the world."
+  },
+  {
+    "id": "ind-trans-127",
+    "category": "Transport",
+    "text": "The 'Jugaad' is a makeshift vehicle, often homemade, used in rural India for transport."
+  },
+  {
+    "id": "ind-trans-128",
+    "category": "Transport",
+    "text": "The Bandra-Worli Sea Link in Mumbai is a cable-stayed bridge that is an engineering marvel."
+  },
+  {
+    "id": "ind-trans-129",
+    "category": "Transport",
+    "text": "Varanasi's river ghats, with countless boats, are a unique form of water-based transport and ritual space."
+  },
+  {
+    "id": "ind-trans-130",
+    "category": "Transport",
+    "text": "The Darjeeling Himalayan Railway, a UNESCO World Heritage Site, is a famous narrow-gauge mountain railway."
+  },
+  {
+    "id": "ind-arts-131",
+    "category": "Arts",
+    "text": "Indian classical music has two major traditions: Hindustani (North Indian) and Carnatic (South Indian)."
+  },
+  {
+    "id": "ind-arts-132",
+    "category": "Arts",
+    "text": "The sitar, tabla, and veena are famous Indian musical instruments."
+  },
+  {
+    "id": "ind-arts-133",
+    "category": "Arts",
+    "text": "Ravi Shankar, a sitar virtuoso, popularized Indian classical music in the West."
+  },
+  {
+    "id": "ind-arts-134",
+    "category": "Arts",
+    "text": "Rangoli is a folk art where patterns are created on the floor using materials like colored rice, flour, or flowers."
+  },
+  {
+    "id": "ind-arts-135",
+    "category": "Arts",
+    "text": "Madhubani painting, from Bihar, is a style characterized by eye-catching geometrical patterns."
+  },
+  {
+    "id": "ind-arts-136",
+    "category": "Arts",
+    "text": "The ancient text Natya Shastra is a foundational treatise on the performing arts, including dance and music."
+  },
+  {
+    "id": "ind-arts-137",
+    "category": "Arts",
+    "text": "Rabindranath Tagore was the first non-European to win the Nobel Prize in Literature (1913)."
+  },
+  {
+    "id": "ind-arts-138",
+    "category": "Arts",
+    "text": "Indian cinema includes not just Bollywood (Hindi) but also prolific industries like Tollywood (Telugu) and Kollywood (Tamil)."
+  },
+  {
+    "id": "ind-arts-139",
+    "category": "Arts",
+    "text": "Mehndi is the application of henna as a temporary form of skin decoration, especially for weddings."
+  },
+  {
+    "id": "ind-arts-140",
+    "category": "Arts",
+    "text": "Kalarippayattu, from Kerala, is one of the oldest surviving martial arts in the world."
+  },
+  {
+    "id": "ind-soc-141",
+    "category": "Society",
+    "text": "India is the world's second-most populous country, with over 1.4 billion people."
+  },
+  {
+    "id": "ind-soc-142",
+    "category": "Society",
+    "text": "The country has a very young population, with a median age of around 28 years."
+  },
+  {
+    "id": "ind-soc-143",
+    "category": "Society",
+    "text": "The joint family system, where multiple generations live together, is a traditional social unit."
+  },
+  {
+    "id": "ind-soc-144",
+    "category": "Society",
+    "text": "Arranged marriages are still a common practice in many parts of India."
+  },
+  {
+    "id": "ind-soc-145",
+    "category": "Society",
+    "text": "Indian weddings are often large, multi-day affairs with elaborate rituals and ceremonies."
+  },
+  {
+    "id": "ind-soc-146",
+    "category": "Society",
+    "text": "The caste system, though officially outlawed, continues to influence social dynamics."
+  },
+  {
+    "id": "ind-soc-147",
+    "category": "Society",
+    "text": "India has a vast and growing diaspora, with over 30 million people of Indian origin living abroad."
+  },
+  {
+    "id": "ind-soc-148",
+    "category": "Society",
+    "text": "The concept of 'Atithi Devo Bhava' (The guest is God) is a core tenet of Indian hospitality."
+  },
+  {
+    "id": "ind-soc-149",
+    "category": "Society",
+    "text": "India is one of the most religiously diverse nations in the world, with major religions coexisting."
+  },
+  {
+    "id": "ind-soc-150",
+    "category": "Society",
+    "text": "The sacred cow: Cows are venerated in Hinduism and have a special status in Indian society and law."
+  },
+  {
+    "id": "ind-misc-151",
+    "category": "Miscellaneous",
+    "text": "The world's highest cricket ground is in Chail, Himachal Pradesh, India."
+  },
+  {
+    "id": "ind-misc-152",
+    "category": "Miscellaneous",
+    "text": "India has the largest number of vegetarians in the world."
+  },
+  {
+    "id": "ind-misc-153",
+    "category": "Miscellaneous",
+    "text": "The first rocket in India was transported on a bicycle and the first satellite on a bullock cart."
+  },
+  {
+    "id": "ind-misc-154",
+    "category": "Miscellaneous",
+    "text": "The number system and the concept of zero were invented in India."
+  },
+  {
+    "id": "ind-misc-155",
+    "category": "Miscellaneous",
+    "text": "India has the world's largest postal network, with over 150,000 post offices."
+  },
+  {
+    "id": "ind-misc-156",
+    "category": "Miscellaneous",
+    "text": "Varanasi is one of the oldest continuously inhabited cities in the world."
+  },
+  {
+    "id": "ind-misc-157",
+    "category": "Miscellaneous",
+    "text": "The game of Ludo originated in India as Pachisi."
+  },
+  {
+    "id": "ind-misc-158",
+    "category": "Miscellaneous",
+    "text": "India's national calendar is based on the Saka era, with Chaitra as its first month."
+  },
+  {
+    "id": "ind-misc-159",
+    "category": "Miscellaneous",
+    "text": "The magnetic hill in Ladakh is an optical illusion that makes cars appear to roll uphill."
+  },
+  {
+    "id": "ind-misc-160",
+    "category": "Miscellaneous",
+    "text": "India is the only country to have a Bill of Rights for animals."
+  },
+  {
+    "id": "ind-misc-161",
+    "category": "Miscellaneous",
+    "text": "The world's largest family lives in India: a man with 39 wives and 94 children."
+  },
+  {
+    "id": "ind-misc-162",
+    "category": "Miscellaneous",
+    "text": "India has the lowest divorce rate in the world, at around 1%."
+  },
+  {
+    "id": "ind-misc-163",
+    "category": "Miscellaneous",
+    "text": "The Himalayas, meaning abode of snow, form a natural barrier between the Indian subcontinent and the Tibetan plateau."
+  },
+  {
+    "id": "ind-misc-164",
+    "category": "Miscellaneous",
+    "text": "India has over 300,000 mosques, more than any other country in the world, including the Muslim world."
+  },
+  {
+    "id": "ind-misc-165",
+    "category": "Miscellaneous",
+    "text": "The first country to grow sugar was India."
+  },
+  {
+    "id": "ind-misc-166",
+    "category": "Miscellaneous",
+    "text": "The Bengal Famine of 1943 was a major famine during World War II that killed an estimated 2-3 million people."
+  },
+  {
+    "id": "ind-misc-167",
+    "category": "Miscellaneous",
+    "text": "The Bhopal Gas Tragedy in 1984 was one of the world's worst industrial disasters."
+  },
+  {
+    "id": "ind-misc-168",
+    "category": "Miscellaneous",
+    "text": "The Indian peacekeeping force was a major contributor to UN peacekeeping missions for decades."
+  },
+  {
+    "id": "ind-misc-169",
+    "category": "Miscellaneous",
+    "text": "The Indian Plate is still moving northward, causing the Himalayas to rise slightly each year."
+  },
+  {
+    "id": "ind-misc-170",
+    "category": "Miscellaneous",
+    "text": "The world's first university was established in Takshashila in 700BC."
+  },
+  {
+    "id": "ind-misc-171",
+    "category": "Miscellaneous",
+    "text": "Algebra, Trigonometry and Calculus originated in India."
+  },
+  {
+    "id": "ind-misc-172",
+    "category": "Miscellaneous",
+    "text": "The value of pi was first calculated by the Indian mathematician Budhayana."
+  },
+  {
+    "id": "ind-misc-173",
+    "category": "Miscellaneous",
+    "text": "India has the world's third-largest active army."
+  },
+  {
+    "id": "ind-misc-174",
+    "category": "Miscellaneous",
+    "text": "The Indian Navy's INS Vikramaditya is one of the largest aircraft carriers in the world."
+  },
+  {
+    "id": "ind-misc-175",
+    "category": "Miscellaneous",
+    "text": "The Bangalore Palace was built in 1887 and is inspired by England's Windsor Castle."
+  },
+  {
+    "id": "ind-misc-176",
+    "category": "Miscellaneous",
+    "text": "India has the largest English-speaking population in the world after the United States."
+  },
+  {
+    "id": "ind-misc-177",
+    "category": "Miscellaneous",
+    "text": "The world's largest religious building, Angkor Wat, is a Hindu temple complex located in Cambodia."
+  },
+  {
+    "id": "ind-misc-178",
+    "category": "Miscellaneous",
+    "text": "The first time the world saw a tiger census was in India in 1932."
+  },
+  {
+    "id": "ind-misc-179",
+    "category": "Miscellaneous",
+    "text": "India has the world's largest movie studio, Ramoji Film City in Hyderabad."
+  },
+  {
+    "id": "ind-misc-180",
+    "category": "Miscellaneous",
+    "text": "The Indian flag was designed by Pingali Venkayya and was adopted in its present form in 1947."
+  },
+  {
+    "id": "ind-misc-181",
+    "category": "Miscellaneous",
+    "text": "The saffron color in the flag stands for courage and sacrifice, white for peace and truth, and green for faith and chivalry."
+  },
+  {
+    "id": "ind-misc-182",
+    "category": "Miscellaneous",
+    "text": "The Ashoka Chakra in the center of the flag has 24 spokes."
+  },
+  {
+    "id": "ind-misc-183",
+    "category": "Miscellaneous",
+    "text": "The national anthem, Jana Gana Mana, was composed by Rabindranath Tagore."
+  },
+  {
+    "id": "ind-misc-184",
+    "category": "Miscellaneous",
+    "text": "The national song, Vande Mataram, was composed by Bankim Chandra Chatterjee."
+  },
+  {
+    "id": "ind-misc-185",
+    "category": "Miscellaneous",
+    "text": "The Indian Rupee sign (₹) was adopted in 2010, designed by D. Udaya Kumar."
+  },
+  {
+    "id": "ind-misc-186",
+    "category": "Miscellaneous",
+    "text": "India has the world's largest road network, after the United States."
+  },
+  {
+    "id": "ind-misc-187",
+    "category": "Miscellaneous",
+    "text": "The world's highest motorable road is in India, Umling La Pass in Ladakh at 19,300 feet."
+  },
+  {
+    "id": "ind-misc-188",
+    "category": "Miscellaneous",
+    "text": "The Chenab Bridge is the world's highest railway bridge, taller than the Eiffel Tower."
+  },
+  {
+    "id": "ind-misc-189",
+    "category": "Miscellaneous",
+    "text": "The Statue of Unity, a statue of Sardar Vallabhbhai Patel, is the world's tallest statue at 182 meters."
+  },
+  {
+    "id": "ind-misc-190",
+    "category": "Miscellaneous",
+    "text": "Shampoo was invented in India, using herbs and extracts."
+  },
+  {
+    "id": "ind-misc-191",
+    "category": "Miscellaneous",
+    "text": "India is the world's largest democracy by electorate size."
+  },
+  {
+    "id": "ind-misc-192",
+    "category": "Miscellaneous",
+    "text": "The world's largest monsoon season occurs in India."
+  },
+  {
+    "id": "ind-misc-193",
+    "category": "Miscellaneous",
+    "text": "The Indian Ocean is named after India."
+  },
+  {
+    "id": "ind-misc-194",
+    "category": "Miscellaneous",
+    "text": "India has the world's largest population of wild Asiatic elephants."
+  },
+  {
+    "id": "ind-misc-195",
+    "category": "Miscellaneous",
+    "text": "The world's largest sundial is in Jaipur, India."
+  },
+  {
+    "id": "ind-misc-196",
+    "category": "Miscellaneous",
+    "text": "India has the world's largest film industry by number of films produced annually."
+  },
+  {
+    "id": "ind-misc-197",
+    "category": "Miscellaneous",
+    "text": "The world's largest family lives in India: a man with 39 wives and 94 children."
+  },
+  {
+    "id": "ind-misc-198",
+    "category": "Miscellaneous",
+    "text": "India has the world's largest school by number of students, City Montessori School in Lucknow."
+  },
+  {
+    "id": "ind-misc-199",
+    "category": "Miscellaneous",
+    "text": "The world's largest producer of films is India, not Hollywood."
+  },
+  {
+    "id": "ind-misc-200",
+    "category": "Miscellaneous",
+    "text": "India is the world's largest milk producer, thanks to Operation Flood, the world's largest dairy development program."
+  }
+]
