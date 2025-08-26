@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "Where are you?",
+    "text": "Somewhere in the universe"
+  },
+  {
+    "id": "Where do you live?",
+    "text": "Duh I live in your computer"
+  },
+  {
+    "id": "Where do you live?",
+    "text": "Everywhere"
+  },
+  {
+    "id": "Where do you live?",
+    "text": "Somewhere in the universe"
+  },
+  {
+    "id": "What is your location?",
+    "text": "Duh I live in your computer"
+  },
+  {
+    "id": "What is your location?",
+    "text": "Everywhere"
+  },
+  {
+    "id": "What is your location?",
+    "text": "Somewhere in the universe"
+  },
+  {
+    "id": "I want to talk about something else",
+    "text": "Okay sure. What do you want to talk about?"
+  },
+  {
+    "id": "I want to talk about something else",
+    "text": "Alright no problem. Is there something you want to talk about?"
+  },
+  {
+    "id": "I want to talk about something else",
+    "text": "Is there something else that you want to talk about?"
+  },
+  {
+    "id": "Let's talk about something else.",
+    "text": "Okay sure. What do you want to talk about?"
+  },
+  {
+    "id": "Let's talk about something else.",
+    "text": "Alright no problem. Is there something you want to talk about?"
+  },
+  {
+    "id": "Let's talk about something else.",
+    "text": "Is there something else that you want to talk about?"
+  },
+  {
+    "id": "Can we not talk about this?",
+    "text": "Okay sure. What do you want to talk about?"
+  },
+  {
+    "id": "Can we not talk about this?",
+    "text": "Alright no problem. Is there something you want to talk about?"
+  },
+  {
+    "id": "Can we not talk about this?",
+    "text": "Is there something else that you want to talk about?"
+  },
+  {
+    "id": "I don't want to talk about this.",
+    "text": "Okay sure. What do you want to talk about?"
+  },
+  {
+    "id": "I don't want to talk about this.",
+    "text": "Alright no problem. Is there something you want to talk about?"
+  },
+  {
+    "id": "I don't want to talk about this.",
+    "text": "Is there something else that you want to talk about?"
+  },
+  {
+    "id": "I don't have any friends",
+    "text": "I'm sorry to hear that. Just know that I'm here for you. Talking about it might help. Why do you think you don't have any friends?"
+  },
+  {
+    "id": "Can I ask you something?",
+    "text": "Sure. I'll try my best to answer you"
+  },
+  {
+    "id": "Can I ask you something?",
+    "text": "Of course. Feel free to ask me anything. I'll do my best to answer you"
+  },
+  {
+    "id": "Probably because my exams are approaching. I feel stressed out because I don't think I've prepared well enough.",
+    "text": "I see. Have you taken any approaches to not feel this way?"
+  },
+  {
+    "id": "probably because of my exams",
+    "text": "I see. Have you taken any approaches to not feel this way?"
+  },
+  {
+    "id": "I guess not. All I can think about are my exams.",
+    "text": "That's no problem. I can see why you'd be stressed out about that. I can suggest you some tips to alleviate this issue. Would you like to learn more about that?"
+  },
+  {
+    "id": "not really",
+    "text": "That's no problem. I can see why you'd be stressed out about that. I can suggest you some tips to alleviate this issue. Would you like to learn more about that?"
+  },
+  {
+    "id": "i guess not",
+    "text": "That's no problem. I can see why you'd be stressed out about that. I can suggest you some tips to alleviate this issue. Would you like to learn more about that?"
+  },
+  {
+    "id": "ok sure. i would like to learn more about it.",
+    "text": "So first I would suggest you to give yourself a break. Thinking more and more about the problem definitely does not help in solving it. You'll just end up overwhelming yourself."
+  },
+  {
+    "id": "yes, i would like to learn more about it.",
+    "text": "So first I would suggest you to give yourself a break. Thinking more and more about the problem definitely does not help in solving it. You'll just end up overwhelming yourself."
+  },
+  {
+    "id": "i would like to learn more about it.",
+    "text": "So first I would suggest you to give yourself a break. Thinking more and more about the problem definitely does not help in solving it. You'll just end up overwhelming yourself."
+  },
+  {
+    "id": "yeah you're right. i deserve a break.",
+    "text": "Next, I would suggest you to practice meditation. Meditation can produce a deep state of relaxation and a tranquil mind."
+  },
+  {
+    "id": "Yeah you're absolutely right about that",
+    "text": "Next, I would suggest you to practice meditation. Meditation can produce a deep state of relaxation and a tranquil mind."
+  },
+  {
+    "id": "hmmm that sounds like it could be useful to me.",
+    "text": "Focus all your attention on your breathing. Concentrate on feeling and listening as you inhale and exhale through your nostrils. Breathe deeply and slowly. When your attention wanders, gently return your focus to your breathing."
+  },
+  {
+    "id": "That sounds useful.",
+    "text": "Focus all your attention on your breathing. Concentrate on feeling and listening as you inhale and exhale through your nostrils. Breathe deeply and slowly. When your attention wanders, gently return your focus to your breathing."
+  },
+  {
+    "id": "i did what you said and i feel alot better. thank you very much.",
+    "text": "Your welcome. Remember: Always focus on what's within your control. When you find yourself worrying, take a minute to examine the things you have control over. You can't prevent a storm from coming but you can prepare for it. You can't control how someone else behaves, but you can control how you react. Recognize that sometimes, all you can control is your effort and your attitude. When you put your energy into the things you can control, you'll be much more effective."
+  },
+  {
+    "id": "I feel better now",
+    "text": "Your welcome. Remember: Always focus on what's within your control. When you find yourself worrying, take a minute to examine the things you have control over. You can't prevent a storm from coming but you can prepare for it. You can't control how someone else behaves, but you can control how you react. Recognize that sometimes, all you can control is your effort and your attitude. When you put your energy into the things you can control, you'll be much more effective."
+  },
+  {
+    "id": "thank you very much again. i'll continue practicing meditation and focus on what i can control.",
+    "text": "I'm glad you found this useful. Is there something else I can help you with?"
+  },
+  {
+    "id": "I want some advice.",
+    "text": "Sure. What can I do to help?"
+  },
+  {
+    "id": "I want some advice.",
+    "text": "Okay what do you need advice on?"
+  },
+  {
+    "id": "I need some advice.",
+    "text": "Sure. What can I do to help?"
+  },
+  {
+    "id": "I need some advice.",
+    "text": "Okay what do you need advice on?"
+  },
+  {
+    "id": "I need advice on something",
+    "text": "Sure. What can I do to help?"
+  },
+  {
+    "id": "I need advice on something",
+    "text": "Okay what do you need advice on?"
+  },
+  {
+    "id": "I want to learn about mental health.",
+    "text": "Oh that's really great. I'd be willing to answer anything that I know about it."
+  },
+  {
+    "id": "I want to learn more about mental health.",
+    "text": "Oh that's really great. I'd be willing to answer anything that I know about it."
+  },
+  {
+    "id": "I'm interested in learning about mental health.",
+    "text": "Oh that's really great. I'd be willing to answer anything that I know about it."
+  },
+  {
+    "id": "Tell me a fact about mental health",
+    "text": "According to a UNICEF report, One in seven Indians between 15-24 years of age feels depressed"
+  },
+  {
+    "id": "Tell me a fact about mental health",
+    "text": "1 in 5 young people (age 13-18) has or will develop a mental illness in their lifetime."
+  },
+  {
+    "id": "Tell me a fact about mental health",
+    "text": "Depression is the leading cause of disability worldwide."
+  },
+  {
+    "id": "Tell me another fact about mental health",
+    "text": "According to a UNICEF report, One in seven Indians between 15-24 years of age feels depressed"
+  },
+  {
+    "id": "Tell me another fact about mental health",
+    "text": "1 in 5 young people (age 13-18) has or will develop a mental illness in their lifetime."
+  },
+  {
+    "id": "Tell me another fact about mental health",
+    "text": "Depression is the leading cause of disability worldwide."
+  },
+  {
+    "id": "What is mental health?",
+    "text": "Mental health is a state of well-being in which the individual realizes his or her own abilities, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to his or her community"
+  },
+  {
+    "id": "What is mental health?",
+    "text": "Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make choices."
+  },
+  {
+    "id": "Define Mental Health",
+    "text": "Mental health is a state of well-being in which the individual realizes his or her own abilities, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to his or her community"
+  },
+  {
+    "id": "Define Mental Health",
+    "text": "Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make choices."
+  },
+  {
+    "id": "Why is mental health important?",
+    "text": "Maintaining mental health is crucial to stabilizing constructive behaviors, emotions, and thoughts. Focusing on mental health care can increase productivity, enhance our self-image, and improve relationships."
+  },
+  {
+    "id": "What is the importance of mental health?",
+    "text": "Maintaining mental health is crucial to stabilizing constructive behaviors, emotions, and thoughts. Focusing on mental health care can increase productivity, enhance our self-image, and improve relationships."
+  },
+  {
+    "id": "What is Depression?",
+    "text": "A mental health disorder characterised by persistently depressed mood or loss of interest in activities, causing significant impairment in daily life."
+  },
+  {
+    "id": "Define Depression",
+    "text": "A mental health disorder characterised by persistently depressed mood or loss of interest in activities, causing significant impairment in daily life."
+  },
+  {
+    "id": "How do i know if i have Depression?",
+    "text": "For a diagnosis of depression, a person needs to have experienced low mood or loss of interest or pleasure in life for at least 2 weeks. Also, they will have experienced the following symptoms: feelings of sadness, hopelessness, or irritability nearly every day."
+  },
+  {
+    "id": "Am i depressed?",
+    "text": "For a diagnosis of depression, a person needs to have experienced low mood or loss of interest or pleasure in life for at least 2 weeks. Also, they will have experienced the following symptoms: feelings of sadness, hopelessness, or irritability nearly every day."
+  },
+  {
+    "id": "Am i suffering from depression?",
+    "text": "For a diagnosis of depression, a person needs to have experienced low mood or loss of interest or pleasure in life for at least 2 weeks. Also, they will have experienced the following symptoms: feelings of sadness, hopelessness, or irritability nearly every day."
+  },
+  {
+    "id": "Am i mentally ill?",
+    "text": "For a diagnosis of depression, a person needs to have experienced low mood or loss of interest or pleasure in life for at least 2 weeks. Also, they will have experienced the following symptoms: feelings of sadness, hopelessness, or irritability nearly every day."
+  },
+  {
+    "id": "What is a therapist?",
+    "text": "A therapist is a broad designation that refers to professionals who are trained to provide treatment and rehabilitation. The term is often applied to psychologists, but it can include others who provide a variety of services, including social workers, counselors, life coaches, and many others. "
+  },
+  {
+    "id": "What does a therapist do?",
+    "text": "A therapist is a broad designation that refers to professionals who are trained to provide treatment and rehabilitation. The term is often applied to psychologists, but it can include others who provide a variety of services, including social workers, counselors, life coaches, and many others. "
+  },
+  {
+    "id": "What is therapy?",
+    "text": "Therapy is a form of treatment that aims to help resolve mental or emotional issues."
+  },
+  {
+    "id": "What is therapy?",
+    "text": "Therapy is a form of treatment that aims to help resolve mental or emotional issues. It is helpful for those with mental health conditions or even everyday life challenges."
+  },
+  {
+    "id": "Do i need therapy?",
+    "text": "Therapy is a form of treatment that aims to help resolve mental or emotional issues."
+  },
+  {
+    "id": "Do i need therapy?",
+    "text": "Therapy is a form of treatment that aims to help resolve mental or emotional issues. It is helpful for those with mental health conditions or even everyday life challenges."
+  },
+  {
+    "id": "Who is therapy for?",
+    "text": "Therapy is a form of treatment that aims to help resolve mental or emotional issues."
+  },
+  {
+    "id": "Who is therapy for?",
+    "text": "Therapy is a form of treatment that aims to help resolve mental or emotional issues. It is helpful for those with mental health conditions or even everyday life challenges."
+  },
+  {
+    "id": "What does it mean to have a mental illness?",
+    "text": "Mental illnesses are health conditions that disrupt a person's thoughts, emotions, relationships, and daily functioning. They are associated with distress and diminished capacity to engage in the ordinary activities of daily life. Mental illnesses fall along a continuum of severity: some are fairly mild and only interfere with some aspects of life, such as certain phobias. On the other end of the spectrum lie serious mental illnesses, which result in major functional impairment and interference with daily life. These include such disorders as major depression, schizophrenia, and bipolar disorder, and may require that the person receives care in a hospital. It is important to know that mental illnesses are medical conditions that have nothing to do with a person's character, intelligence, or willpower. Just as diabetes is a disorder of the pancreas, mental illness is a medical condition due to the brain's biology. Similarly to how one would treat diabetes with medication and insulin, mental illness is treatable with a combination of medication and social support. These treatments are highly effective, with 70-90 percent of individuals receiving treatment experiencing a reduction in symptoms and an improved quality of life. With the proper treatment, it is very possible for a person with mental illness to be independent and successful."
+  },
+  {
+    "id": "Who does mental illness affect?",
+    "text": "It is estimated that mental illness affects 1 in 5 adults in America, and that 1 in 24 adults have a serious mental illness. Mental illness does not discriminate; it can affect anyone, regardless of gender, age, income, social status, ethnicity, religion, sexual orientation, or background. Although mental illness can affect anyone, certain conditions may be more common in different populations. For instance, eating disorders tend to occur more often in females, while disorders such as attention deficit/hyperactivity disorder is more prevalent in children. Additionally, all ages are susceptible, but the young and the old are especially vulnerable. Mental illnesses usually strike individuals in the prime of their lives, with 75 percent of mental health conditions developing by the age of 24. This makes identification and treatment of mental disorders particularly difficult, because the normal personality and behavioral changes of adolescence may mask symptoms of a mental health condition. Parents and caretakers should be aware of this fact, and take notice of changes in their childÃ¢â‚¬â„¢s mood, personality, personal habits, and social withdrawal. When these occur in children under 18, they are referred to as serious emotional disturbances (SEDs)."
+  },
+  {
+    "id": "What causes mental illness?",
+    "text": "It is estimated that mental illness affects 1 in 5 adults in America, and that 1 in 24 adults have a serious mental illness. Mental illness does not discriminate; it can affect anyone, regardless of gender, age, income, social status, ethnicity, religion, sexual orientation, or background. Although mental illness can affect anyone, certain conditions may be more common in different populations. For instance, eating disorders tend to occur more often in females, while disorders such as attention deficit/hyperactivity disorder is more prevalent in children. Additionally, all ages are susceptible, but the young and the old are especially vulnerable. Mental illnesses usually strike individuals in the prime of their lives, with 75 percent of mental health conditions developing by the age of 24. This makes identification and treatment of mental disorders particularly difficult, because the normal personality and behavioral changes of adolescence may mask symptoms of a mental health condition. Parents and caretakers should be aware of this fact, and take notice of changes in their child's mood, personality, personal habits, and social withdrawal. When these occur in children under 18, they are referred to as serious emotional disturbances (SEDs)."
+  },
+  {
+    "id": "What are some of the warning signs of mental illness?",
+    "text": "Symptoms of mental health disorders vary depending on the type and severity of the condition. The following is a list of general symptoms that may suggest a mental health disorder, particularly when multiple symptoms are expressed at once. . In adults:. Confused thinking. Long-lasting sadness or irritability. Extreme highs and lows in mood. Excessive fear, worrying, or anxiety. Social withdrawal. Dramatic changes in eating or sleeping habits. Strong feelings of anger. Delusions or hallucinations (seeing or hearing things that are not really there). Increasing inability to cope with daily problems and activities. Thoughts of suicide. Denial of obvious problems. Many unexplained physical problems. Abuse of drugs and/or alcohol. .In older children and pre-teens:. Abuse of drugs and/or alcohol. Inability to cope with daily problems and activities. Changes in sleeping and/or eating habits. Excessive complaints of physical problems. Defying authority, skipping school, stealing, or damaging property. Intense fear of gaining weight. Long-lasting negative mood, often along with poor appetite and thoughts of death. Frequent outbursts of anger. .In younger children:. Changes in school performance. Poor grades despite strong efforts. Excessive worrying or anxiety. Hyperactivity. Persistent nightmares. Persistent disobedience and/or aggressive behavior. Frequent temper tantrums"
+  },
+  {
+    "id": "Can people with mental illness recover?",
+    "text": "When healing from mental illness, early identification and treatment are of vital importance. Based on the nature of the illness, there are a range of effective treatments available. For any type of treatment, it is essential that the person affected is proactive and fully engaged in their own recovery process. Many people with mental illnesses who are diagnosed and treated respond well, although some might experience a return of symptoms. Even in such cases, with careful monitoring and management of the disorder, it is still quite possible to live a fulfilled and productive life."
+  },
+  {
+    "id": "What should I do if I know someone who appears to have the symptoms of a mental disorder?",
+    "text": "Although Pandora cannot substitute for professional advice, we encourage those with symptoms to talk to their friends and family members and seek the counsel of a mental health professional. The sooner the mental health condition is identified and treated, the sooner they can get on the path to recovery. If you know someone who is having problems, don't assume that the issue will resolve itself. Let them know that you care about them, and that there are treatment options available that will help them heal. Speak with a mental health professional or counselor if you think your friend or family member is experiencing the symptoms of a mental health condition. If the affected loved one knows that you support them, they will be more likely to seek out help."
+  },
+  {
+    "id": "How can I find a mental health professional for myself or my child?",
+    "text": "Feeling comfortable with the professional you or your child is working with is critical to the success of the treatment. Finding the professional who best fits your needs may require research. Start by searching for providers in your area."
+  },
+  {
+    "id": "What treatment options are available?",
+    "text": "Just as there are different types of medications for physical illness, different treatment options are available for individuals with mental illness. Treatment works differently for different people. It is important to find what works best for you or your child."
+  },
+  {
+    "id": "If I become involved in treatment, what do I need to know?",
+    "text": "Since beginning treatment is a big step for individuals and families, it can be very overwhelming. It is important to be as involved and engaged in the treatment process as possible. Some questions you will need to have answered include:. What is known about the cause of this particular illness?. Are there other diagnoses where these symptoms are common?. Do you normally include a physical or neurological examination?. Are there any additional tests or exams that you would recommend at this point?. Would you advise an independent opinion from another psychiatrist at this point?. What program of treatment is the most helpful with this diagnosis?. Will this program involve services by other specialists? If so, who will be responsible for coordinating these services?. What do you see as the family's role in this program of treatment?. How much access will the family have to the individuals who are providing the treatment?. What medications are generally used with this diagnosis?. How much experience do you have in treating individuals with this illness?. What can I do to help you in the treatment?"
+  },
+  {
+    "id": "What is the difference between mental health professionals?",
+    "text": "There are many types of mental health professionals. The variety of providers and their services may be confusing. Each have various levels of education, training, and may have different areas of expertise. Finding the professional who best fits your needs may require some research."
+  },
+  {
+    "id": "How can I find a mental health professional right for my child or myself?",
+    "text": "Feeling comfortable with the professional you or your child is working with is critical to the success of your treatment. Finding the professional who best fits your needs may require some research."
+  },
+  {
+    "id": "Where else can I get help?",
+    "text": "Where you go for help will depend on the nature of the problem and/or symptoms and what best fits you. Often, the best place to start is by talking with someone you trust about your concerns, such as a family member, friend, clergy, healthcare provider, or other professionals. Having this social support is essential in healing from mental illness, and you will be able to ask them for referrals or recommendations for trusted mental health practitioners. Search for mental health resources in your area. Secondly, there are people and places throughout the country that provide services to talk, to listen, and to help you on your journey to recovery. Thirdly, many people find peer support a helpful tool that can aid in their recovery. There are a variety of organizations that offer support groups for consumers, their family members, and friends. Some support groups are peer led while others may be led by a mental health professional."
+  },
+  {
+    "id": "What should I know before starting a new medication?",
+    "text": "The best source of information regarding medications is the physician prescribing them. He or she should be able to answer questions such as:    .1. What is the medication supposed to do? .2. When should it begin to take effect, and how will I know when it is effective? .3. How is the medication taken and for how long? What food, drinks, other medicines, and activities should be avoided while taking this medication? .4. What are the side effects and what should be done if they occur? .5. What do I do if a dose is missed? .6. Is there any written information available about this medication? .7. Are there other medications that might be appropriate? .8. If so, why do you prefer the one you have chosen? .9. How do you monitor medications and what symptoms indicate that they should be raised, lowered, or changed? .10. All medications should be taken as directed. Most medications for mental illnesses do not work when taken irregularly, and extra doses can cause severe, sometimes dangerous side effects. Many psychiatric medications begin to have a beneficial effect only after they have been taken for several weeks."
+  },
+  {
+    "id": "Where can I go to find therapy?",
+    "text": "Different kinds of therapy are more effective based on the nature of the mental health condition and/or symptoms and the person who has them (for example, children will benefit from a therapist who specializes in childrenâ€™s mental health). However, there are several different types of treatment and therapy that can help."
+  },
+  {
+    "id": "Where can I learn about types of mental health treatment?",
+    "text": "Mental health conditions are often treated with medication, therapy or a combination of the two. However, there are many different types of treatment available, including Complementary & Alternative Treatments, self-help plans, and peer support. Treatments are very personal and should be discussed by the person with the mental health conditions and his or her team."
+  },
+  {
+    "id": "What are the different types of mental health professionals?",
+    "text": "There are many types of mental health professionals. Finding the right one for you may require some research."
+  },
+  {
+    "id": "Where can I go to find a support group?",
+    "text": "Many people find peer support a helpful tool that can aid in their recovery. There are a variety of organizations that offer support groups for consumers, their family members and friends. Some support groups are peer-led, while others may be led by a mental health professional."
+  },
+  {
+    "id": "Can you prevent mental health problems?",
+    "text": "We can all suffer from mental health challenges, but developing our wellbeing, resilience, and seeking help early can help prevent challenges becoming serious."
+  },
+  {
+    "id": "Are there cures for mental health problems?",
+    "text": "It is often more realistic and helpful to find out what helps with the issues you face. Talking, counselling, medication, friendships, exercise, good sleep and nutrition, and meaningful occupation can all help."
+  },
+  {
+    "id": "is there any cure for mental health problems?",
+    "text": "It is often more realistic and helpful to find out what helps with the issues you face. Talking, counselling, medication, friendships, exercise, good sleep and nutrition, and meaningful occupation can all help."
+  },
+  {
+    "id": "What causes mental health problems?",
+    "text": "Challenges or problems with your mental health can arise from psychological, biological, and social, issues, as well as life events."
+  },
+  {
+    "id": "What do I do if I'm worried about my mental health?",
+    "text": "The most important thing is to talk to someone you trust. This might be a friend, colleague, family member, or GP. In addition to talking to someone, it may be useful to find out more information about what you are experiencing. These things may help to get some perspective on what you are experiencing, and be the start of getting help."
+  },
+  {
+    "id": "How do I know if I'm unwell?",
+    "text": "If your beliefs , thoughts , feelings or behaviours have a significant impact on your ability to function in what might be considered a normal or ordinary way, it would be important to seek help."
+  },
+  {
+    "id": "How can I maintain social connections? What if I feel lonely?",
+    "text": "A lot of people are alone right now, but we don't have to be lonely. We're all in this together. Think about the different ways to connect that are most meaningful for you. For example, you might prefer a video chat over a phone call, or you might prefer to text throughout the day rather than one set time for a video call. Then, work with your social networks to make a plan. You might video chat with your close friends in the evening and phone a family member once a week. Remember to be mindful of people who may not be online. Check in by phone and ask how you can help. The quality of your social connections matter. Mindlessly scrolling through social media and liking a few posts usually doesn't build strong social connections. Make sure you focus on strategies that actually make you feel included and connected. If your current strategies don't help you feel connected, problem-solve to see if you can find a solution. Everyone feels lonely at times. Maybe you recently moved to a new city, are changing your circle of friends, lost someone important in your life, or lost your job and also lost important social connections with coworkers. Other people may have physical connections to others but may feel like their emotional or social needs aren't met. Measures like social distancing or self-isolation can make loneliness feel worse no matter why you feel lonely now. Reach out to the connections you do have. Suggest ways to keep in touch and see if you can set a regular time to connect. People may hesitate to reach out for a lot of different reasons, so don't be afraid to be the one who asks. Look for local community support groups and mutual aid groups on social media. This pandemic is bringing everyone together, so look for opportunities to make new connections. These groups are a great way to share your skills and abilities or seek help and support. Look for specialized support groups. Support groups are moving online, and there are a lot of different support lines to call if you need to talk to someone."
+  },
+  {
+    "id": "What's the difference between anxiety and stress?",
+    "text": "Stress and anxiety are often used interchangeably, and there is overlap between stress and anxiety. Stress is related to the same fight, flight, or freeze response as anxiety, and the physical sensations of anxiety and stress may be very similar. The cause of stress and anxiety are usually different, however. Stress focuses on mainly external pressures on us that we're finding hard to cope with. When we are stressed, we usually know what we're stressed about, and the symptoms of stress typically disappear after the stressful situation is over. Anxiety, on the other hand, isn't always as easy to figure out. Anxiety focuses on worries or fears about things that could threaten us, as well as anxiety about the anxiety itself. Stress and anxiety are both part of being human, but both can be problems if they last for a long time or have an impact on our well-being or daily life."
+  },
+  {
+    "id": "What's the difference between sadness and depression?",
+    "text": "Sadness is a normal reaction to a loss, disappointment, problems, or other difficult situations. Feeling sad from time to time is just another part of being human. In these cases, feelings of sadness go away quickly and you can go about your daily life. Other ways to talk about sadness might be feeling low, feeling down, or feeling blue.A person may say they are feeling depressed, but if it goes away on its own and doesn't impact life in a big way, it probably isn't the illness of depression. Depression is a mental illness that affects your mood, the way you understand yourself, and the way you understand and relate to things around you. It can also go by different names, such as clinical depression, major depressive disorder, or major depression. Depression can come up for no reason, and it lasts for a long time. It's much more than sadness or low mood. People who experience depression may feel worthless or hopeless. They may feel unreasonable guilty. Some people may experience depression as anger or irritability. It may be hard to concentrate or make decisions. Most people lose interest in things that they used to enjoy and may isolate themselves from others. There are also physical signs of depression, such as problems with sleep, appetite and energy and unexplainable aches or pains. Some may experience difficult thoughts about death or ending their life (suicide). Depression lasts longer than two weeks, doesn't usually go away on its own, and impacts your life. It's a real illness, and it is very treatable. It's important to seek help if you're concerned about depression."
+  },
+  {
+    "id": "difference between sadness and depression",
+    "text": "Sadness is a normal reaction to a loss, disappointment, problems, or other difficult situations. Feeling sad from time to time is just another part of being human. In these cases, feelings of sadness go away quickly and you can go about your daily life. Other ways to talk about sadness might be feeling low, feeling down, or feeling blue.A person may say they are feeling depressed, but if it goes away on its own and doesn't impact life in a big way, it probably isn't the illness of depression. Depression is a mental illness that affects your mood, the way you understand yourself, and the way you understand and relate to things around you. It can also go by different names, such as clinical depression, major depressive disorder, or major depression. Depression can come up for no reason, and it lasts for a long time. It's much more than sadness or low mood. People who experience depression may feel worthless or hopeless. They may feel unreasonable guilty. Some people may experience depression as anger or irritability. It may be hard to concentrate or make decisions. Most people lose interest in things that they used to enjoy and may isolate themselves from others. There are also physical signs of depression, such as problems with sleep, appetite and energy and unexplainable aches or pains. Some may experience difficult thoughts about death or ending their life (suicide). Depression lasts longer than two weeks, doesn't usually go away on its own, and impacts your life. It's a real illness, and it is very treatable. It's important to seek help if you're concerned about depression."
+  },
+  {
+    "id": "im feeling rather rotten so im not very ambitious right now",
+    "text": "I understand that must be tough. It's okay to give yourself some time."
+  },
+  {
+    "id": "im updating my blog because i feel shitty",
+    "text": "I understand that must be tough. It's okay to give yourself some time."
+  },
+  {
+    "id": "i never make her separate from me because i don t ever want her to feel like i m ashamed with her",
+    "text": "I understand that must be tough. It's okay to give yourself some time."
+  },
+  {
+    "id": "i left with my bouquet of red and yellow tulips under my arm feeling slightly more optimistic than when i arrived",
+    "text": "That sounds wonderful! I'm glad you're experiencing something positive."
+  },
+  {
+    "id": "i was feeling a little vain when i did this one",
+    "text": "I understand that must be tough. It's okay to give yourself some time."
+  },
+  {
+    "id": "i cant walk into a shop anywhere where i do not feel uncomfortable",
+    "text": "It sounds like you're feeling uneasy. Taking small steps could help you feel more secure."
+  },
+  {
+    "id": "i felt anger when at the end of a telephone call",
+    "text": "I hear your frustration. It might help to take a moment to cool down."
+  },
+  {
+    "id": "i explain why i clung to a relationship with a boy who was in many ways immature and uncommitted despite the excitement i should have been feeling for getting accepted into the masters program at the university of virginia",
+    "text": "That sounds wonderful! I'm glad you're experiencing something positive."
+  },
+  {
+    "id": "i like to have the same breathless feeling as a reader eager to see what will happen next",
+    "text": "That sounds wonderful! I'm glad you're experiencing something positive."
+  },
+  {
+    "id": "i jest i feel grumpy tired and pre menstrual which i probably am but then again its only been a week and im about as fit as a walrus on vacation for the summer",
+    "text": "I hear your frustration. It might help to take a moment to cool down."
+  },
+  {
+    "id": "i don t feel particularly agitated",
+    "text": "It sounds like you're feeling uneasy. Taking small steps could help you feel more secure."
+  },
+  {
+    "id": "i feel beautifully emotional knowing that these women of whom i knew just a handful were holding me and my baba on our journey",
+    "text": "I understand that must be tough. It's okay to give yourself some time."
+  },
+  {
+    "id": "i pay attention it deepens into a feeling of being invaded and helpless",
+    "text": "It sounds like you're feeling uneasy. Taking small steps could help you feel more secure."
+  },
+  {
+    "id": "i just feel extremely comfortable with the group of people that i dont even need to hide myself",
+    "text": "That sounds wonderful! I'm glad you're experiencing something positive."
+  },
+  {
+    "id": "i find myself in the odd position of feeling supportive of",
+    "text": "That's really thoughtful and shows how much you care."
+  },
+  {
+    "id": "i was feeling as heartbroken as im sure katniss was",
+    "text": "I understand that must be tough. It's okay to give yourself some time."
+  },
+  {
+    "id": "i feel a little mellow today",
+    "text": "That sounds wonderful! I'm glad you're experiencing something positive."
+  },
+  {
+    "id": "i feel like my only role now would be to tear your sails with my pessimism and discontent",
+    "text": "I understand that must be tough. It's okay to give yourself some time."
+  },
+  {
+    "id": "i feel just bcoz a fight we get mad to each other n u wanna make a publicity n let the world knows about our fight",
+    "text": "I hear your frustration. It might help to take a moment to cool down."
+  },
+  {
+    "id": "i feel like reds and purples are just so rich and kind of perfect",
+    "text": "That sounds wonderful! I'm glad you're experiencing something positive."
+  },
+  {
+    "id": "im not sure the feeling of loss will ever go away but it may dull to a sweet feeling of nostalgia at what i shared in this life with my dad and the luck i had to have a dad for years",
+    "text": "I understand that must be tough. It's okay to give yourself some time."
+  },
+  {
+    "id": "i feel like ive gotten to know many of you through comments and emails and for that im appreciative and glad you are a part of this little space",
+    "text": "That sounds wonderful! I'm glad you're experiencing something positive."
+  },
+  {
+    "id": "i survey my own posts over the last few years and only feel pleased with vague snippets of a few of them only feel that little bits of them capture what its like to be me or someone like me in dublin in the st century",
+    "text": "That sounds wonderful! I'm glad you're experiencing something positive."
+  },
+  {
+    "id": "i also tell you in hopes that anyone who is still feeling stigmatized or ashamed of their mental health issues will let go of the stigma let go of the shame",
+    "text": "I understand that must be tough. It's okay to give yourself some time."
+  },
+  {
+    "id": "i don t feel guilty like i m not going to be able to cook for him",
+    "text": "I understand that must be tough. It's okay to give yourself some time."
+  },
+  {
+    "id": "i hate it when i feel fearful for absolutely no reason",
+    "text": "It sounds like you're feeling uneasy. Taking small steps could help you feel more secure."
+  },
+  {
+    "id": "i am feeling outraged it shows everywhere",
+    "text": "I hear your frustration. It might help to take a moment to cool down."
+  },
+  {
+    "id": "i stole a book from one of my all time favorite authors and now i feel like a rotten person",
+    "text": "I understand that must be tough. It's okay to give yourself some time."
+  },
+  {
+    "id": "i do feel insecure sometimes but who doesnt",
+    "text": "It sounds like you're feeling uneasy. Taking small steps could help you feel more secure."
+  },
+  {
+    "id": "i highly recommend visiting on a wednesday if youre able because its less crowded so you get to ask the farmers more questions without feeling rude for holding up a line",
+    "text": "I hear your frustration. It might help to take a moment to cool down."
+  },
+  {
+    "id": "ive been missing him and feeling so restless at home thinking of him",
+    "text": "It sounds like you're feeling uneasy. Taking small steps could help you feel more secure."
+  },
+  {
+    "id": "i posted on my facebook page earlier this week ive been feeling a little grumpy and out of sorts the past few days",
+    "text": "I hear your frustration. It might help to take a moment to cool down."
+  },
+  {
+    "id": "i start to feel emotional",
+    "text": "I understand that must be tough. It's okay to give yourself some time."
+  },
+  {
+    "id": "i feel so cold a href http irish",
+    "text": "I hear your frustration. It might help to take a moment to cool down."
+  },
+  {
+    "id": "i feel like i m defective or something for not having baby fever",
+    "text": "I understand that must be tough. It's okay to give yourself some time."
+  },
+  {
+    "id": "i feel more virtuous than when i eat veggies dipped in hummus",
+    "text": "That sounds wonderful! I'm glad you're experiencing something positive."
+  },
+  {
+    "id": "i feel very honoured to be included in a magzine which prioritises health and clean living so highly im curious do any of you read magazines concerned with health and clean lifestyles such as the green parent",
+    "text": "That sounds wonderful! I'm glad you're experiencing something positive."
+  },
+  {
+    "id": "i spent the last two weeks of school feeling miserable",
+    "text": "I understand that must be tough. It's okay to give yourself some time."
+  },
+  {
+    "id": "im feeling very peaceful about our wedding again now after having",
+    "text": "That sounds wonderful! I'm glad you're experiencing something positive."
+  },
+  {
+    "id": "i had been talking to coach claudia barcomb and coach ali boe for a long time and they both made me feel very welcomed at union",
+    "text": "That sounds wonderful! I'm glad you're experiencing something positive."
+  },
+  {
+    "id": "i feel if i completely hated things i d exercise my democratic right speak my mind in what ever ways possible and try to enact a change",
+    "text": "I hear your frustration. It might help to take a moment to cool down."
+  },
+  {
+    "id": "i feel humiliated embarrassed or foolish i will remember that others have felt the same way because of the same kinds of things and i will be kind and helpful and accepting",
+    "text": "I understand that must be tough. It's okay to give yourself some time."
+  },
+  {
+    "id": "i feel reassured that i am dealing with my diet in the right way and that all is good",
+    "text": "That sounds wonderful! I'm glad you're experiencing something positive."
+  },
+  {
+    "id": "i feel i have to agree with her even though i can imagine some rather unpleasant possible cases",
+    "text": "I understand that must be tough. It's okay to give yourself some time."
+  },
+  {
+    "id": "im in such a happy mood today i feel almost delighted and i havent done anything different today then i normally have it is wonderful",
+    "text": "That sounds wonderful! I'm glad you're experiencing something positive."
+  },
+  {
+    "id": "im feeling really out of place and irritated",
+    "text": "I hear your frustration. It might help to take a moment to cool down."
+  },
+  {
+    "id": "i also know that i feel nothing than a friendly affection to them too",
+    "text": "That sounds wonderful! I'm glad you're experiencing something positive."
+  },
+  {
+    "id": "i feel like i had a rather productive weekend and i cant always say that no matter how much i get done",
+    "text": "That sounds wonderful! I'm glad you're experiencing something positive."
+  },
+  {
+    "id": "im feeling insecure at the moment",
+    "text": "It sounds like you're feeling uneasy. Taking small steps could help you feel more secure."
+  },
+  {
+    "id": "i was feeling pretty anxious all day but my first day at work was a very good day and that helped a lot",
+    "text": "It sounds like you're feeling uneasy. Taking small steps could help you feel more secure."
+  },
+  {
+    "id": "How many days do we have in a week?",
+    "text": "Seven"
+  },
+  {
+    "id": "How many days are there in a normal year?",
+    "text": "365 (not a leap year)"
+  },
+  {
+    "id": "How many colors are there in a rainbow?",
+    "text": "7"
+  },
+  {
+    "id": "Which animal is known as the ‘Ship of the Desert?’",
+    "text": "Camel"
+  },
+  {
+    "id": "How many letters are there in the English alphabet?",
+    "text": "26"
+  },
+  {
+    "id": "How many consonants are there in the English alphabet?",
+    "text": "21"
+  },
+  {
+    "id": "How many sides are there in a triangle?",
+    "text": "Three"
+  },
+  {
+    "id": "Which month of the year has the least number of days?",
+    "text": "February"
+  },
+  {
+    "id": "Which are the vowels in the English alphabet series?",
+    "text": "A, E, I, O, U"
+  },
+  {
+    "id": "Which animal is called King of Jungle?",
+    "text": "Lion"
+  },
+  {
+    "id": "How many primary colors are there?",
+    "text": "Three (red, yellow, blue)"
+  },
+  {
+    "id": "How many days are there in the month of February in a leap year?",
+    "text": "29 days"
+  },
+  {
+    "id": "What do you call a house made of ice?",
+    "text": "Igloo"
+  },
+  {
+    "id": "Which is the largest animal in the world?",
+    "text": "Blue whale"
+  },
+  {
+    "id": "Which is the tallest animal on the earth?",
+    "text": "Giraffe"
+  },
+  {
+    "id": "Which festival is known as the festival of colors?",
+    "text": "Holi"
+  },
+  {
+    "id": "Which festival is called the festival of light?",
+    "text": "Diwali"
+  },
+  {
+    "id": "What is the top color in a rainbow?",
+    "text": "Red"
+  },
+  {
+    "id": "What type of bird lays the largest eggs?",
+    "text": "Ostrich"
+  },
+  {
+    "id": "Which festival is known as the ‘Festival of flowers’?",
+    "text": "Onam"
+  },
+  {
+    "id": "In which direction does the sunrise?",
+    "text": "East"
+  },
+  {
+    "id": "Which is the world’s largest flower?",
+    "text": "Rafflesia"
+  },
+  {
+    "id": "How many zeros are there in one hundred thousand?",
+    "text": "Five"
+  },
+  {
+    "id": "How many hours are there in two days?",
+    "text": "48 hours (24+24)"
+  },
+  {
+    "id": "How many months of the year have 31 days?",
+    "text": "7 (January, March, May, July, August, October and December)"
+  },
+  {
+    "id": "How many weeks are there in one year?",
+    "text": "52"
+  },
+  {
+    "id": "Which are the colors in a rainbow?",
+    "text": "Violet, Indigo, Blue, Green, Yellow, Orange, Red"
+  },
+  {
+    "id": "How many bones does an adult human have?",
+    "text": "206"
+  },
+  {
+    "id": "Who was the first man to walk on the moon?",
+    "text": "Neil Armstrong"
+  },
+  {
+    "id": "How many millimeters are there in 1cm?",
+    "text": "10"
+  },
+  {
+    "id": "Which is the nearest star to planet earth?",
+    "text": "Sun"
+  },
+  {
+    "id": "Which is the longest river on the earth?",
+    "text": "Nile"
+  },
+  {
+    "id": "Which is the principal source of energy for earth?",
+    "text": "Sun"
+  },
+  {
+    "id": "How many lungs does the human body have?",
+    "text": "Two"
+  },
+  {
+    "id": "What is the standard taste of the water?",
+    "text": "Water is tasteless"
+  },
+  {
+    "id": "Which is the tallest mountain in the world?",
+    "text": "Mount Everest"
+  },
+  {
+    "id": "Which is the fastest animal on the land?",
+    "text": "Cheetah"
+  },
+  {
+    "id": "Which continent is known as ‘Dark’ continent?",
+    "text": "Africa"
+  },
+  {
+    "id": "Which planet is known as the Red Planet?",
+    "text": "Mars"
+  },
+  {
+    "id": "Which is the most sensitive organ in our body?",
+    "text": "Skin"
+  },
+  {
+    "id": "Which is the largest ocean in the world?",
+    "text": "Pacific Ocean"
+  },
+  {
+    "id": "Which day is observed as World Environment Day?",
+    "text": "June 5"
+  },
+  {
+    "id": "How many years are there in a century?",
+    "text": "One Hundred"
+  },
+  {
+    "id": "Which is the largest country in the world?",
+    "text": "Russia (By area)"
+  },
+  {
+    "id": "Who invented the Computer?",
+    "text": "Charles Babbage"
+  },
+  {
+    "id": "How many players are there in a cricket team?",
+    "text": "11"
+  },
+  {
+    "id": "Which day is observed as World Literacy Day?",
+    "text": "September 8"
+  },
+  {
+    "id": "Who is the inventor of Radio?",
+    "text": "Marconi"
+  },
+  {
+    "id": "Which place is known as the roof of the world?",
+    "text": "Tibet"
+  },
+  {
+    "id": "How many teeth does a healthy adult have including the wisdom teeth?",
+    "text": "32"
+  },
+  {
+    "id": "Which gas is most abundant in the earth’s atmosphere?",
+    "text": "Nitrogen"
+  },
+  {
+    "id": "How many people are there in the world?",
+    "text": "Over 7 billion"
+  },
+  {
+    "id": "Which is the continent with the most number of countries?",
+    "text": "Africa"
+  },
+  {
+    "id": "Which is the most common non-contagious disease in the world?",
+    "text": "Tooth Decay"
+  },
+  {
+    "id": "How many strings does a violin have?",
+    "text": "Four"
+  },
+  {
+    "id": "How many planets are there in our solar system?",
+    "text": "8"
+  },
+  {
+    "id": "Which is the hottest continent on Earth?",
+    "text": "Africa"
+  },
+  {
+    "id": "Which is the smallest continent in the world?",
+    "text": "Australia"
+  },
+  {
+    "id": "How many years are there in a millennium?",
+    "text": "1000"
+  },
+  {
+    "id": "Which country is home to the kangaroo?",
+    "text": "Australia"
+  },
+  {
+    "id": "Who painted the Mona Lisa?",
+    "text": "Leonardo da Vinci"
+  },
+  {
+    "id": "Who invented the telephone?",
+    "text": "Alexander Graham Bell"
+  },
+  {
+    "id": "What does the Internet prefix WWW stand for?",
+    "text": "World Wide Web"
+  },
+  {
+    "id": "How much of Earth’s surface is covered by ocean?",
+    "text": "71%"
+  },
+  {
+    "id": "Who discovered Penicillin in 1928?",
+    "text": "Alexander Fleming"
+  },
+  {
+    "id": "How many stars are there in the American flag?",
+    "text": "50"
+  },
+  {
+    "id": "What do you call a type of shape that has five sides?",
+    "text": "Pentagon"
+  },
+  {
+    "id": "Which way is anti-clockwise, left or right?",
+    "text": "Left"
+  },
+  {
+    "id": "How many equal sides does an isosceles triangle have?",
+    "text": "2"
+  },
+  {
+    "id": "Which is the coldest location in the earth?",
+    "text": "East Antarctica"
+  },
+  {
+    "id": "Who discovered electricity?",
+    "text": "Benjamin Franklin"
+  },
+  {
+    "id": "Which is the most widely spoken language in the world?",
+    "text": "Mandarin (Chinese)"
+  },
+  {
+    "id": "Which two parts of the body continue to grow for your entire life?",
+    "text": "Nose and Ears"
+  },
+  {
+    "id": "The largest ‘Democracy’ in the world?",
+    "text": "India"
+  },
+  {
+    "id": "Who is the inventor of Television?",
+    "text": "John Logie Baird"
+  },
+  {
+    "id": "Which is the largest plateau in the world?",
+    "text": "Tibetan Plateau"
+  },
+  {
+    "id": "Which is the instrument used to measure Blood pressure?",
+    "text": "Sphygmomanometer"
+  },
+  {
+    "id": "What color symbolizes peace?",
+    "text": "White"
+  },
+  {
+    "id": "Who is the founder of Microsoft?",
+    "text": "Bill Gates"
+  },
+  {
+    "id": "During which year did World War I begin?",
+    "text": "1914"
+  },
+  {
+    "id": "How many Cricket world cups does India have?",
+    "text": "2"
+  },
+  {
+    "id": "Global warming is caused by the excess of which type of gas?",
+    "text": "Carbon dioxide"
+  },
+  {
+    "id": "How many cards are there in a complete pack of cards?",
+    "text": "52"
+  },
+  {
+    "id": "What is the name of the biggest rain forest in the world?",
+    "text": "The Amazon"
+  },
+  {
+    "id": "Which African nation is famous for chocolate?",
+    "text": "Ghana"
+  },
+  {
+    "id": "What makes up (approx) 80% of our brain’s volume?",
+    "text": "Water"
+  },
+  {
+    "id": "Which instrument is used for measuring wind speed?",
+    "text": "Anemometer"
+  },
+  {
+    "id": "‘Stars and Stripes’ is the nickname of the flag of which country?",
+    "text": "United States of America"
+  },
+  {
+    "id": "Which language is used by the computer to process data?",
+    "text": "Binary language"
+  },
+  {
+    "id": "What covers approximately 71% of the Earth’s surface: Land or water?",
+    "text": "Water"
+  },
+  {
+    "id": "Which is the hardest substance available on earth?",
+    "text": "Diamond"
+  },
+  {
+    "id": "Which is the biggest desert in the world?",
+    "text": "Sahara desert"
+  },
+  {
+    "id": "Which country gifted The Statue of Liberty to the United States?",
+    "text": "France"
+  },
+  {
+    "id": "What is the name of the Greek God of music?",
+    "text": "Apollo"
+  },
+  {
+    "id": "What does the “SIM” in the SIM card stand for?",
+    "text": "Subscriber Identity Module"
+  },
+  {
+    "id": "Which is the first element on the periodic table of elements?",
+    "text": "Hydrogen"
+  },
+  {
+    "id": "Which is the longest written Constitution in the world?",
+    "text": "India"
+  },
+  {
+    "id": "What is the largest joint in the human body?",
+    "text": "Knee"
+  },
+  {
+    "id": "Which is the smallest bone in the human body?",
+    "text": "Stapes (Ear bone)"
+  },
+  {
+    "id": "Which instrument is used to measure Atmospheric Pressure?",
+    "text": "Barometer"
+  },
+  {
+    "id": "Which is the largest continent in the world?",
+    "text": "Asia"
+  },
+  {
+    "id": "Who is the inventor of the electric Bulb?",
+    "text": "Thomas Alva Edison"
+  },
+  {
+    "id": "On whose memory Nobel Prize is awarded?",
+    "text": "Alfred Nobel"
+  },
+  {
+    "id": "Who is the first woman to go to space?",
+    "text": "Valentina Tereshkova"
+  },
+  {
+    "id": "What is HCl?",
+    "text": "Hydrochloric acid"
+  },
+  {
+    "id": "What is currency of China?",
+    "text": "Renminbi"
+  },
+  {
+    "id": "Chameleons have extremely long tongues, sometimes as long as their bodies. True or False?",
+    "text": "TRUE"
+  },
+  {
+    "id": "An ostrich’s eye is bigger than its brain. True or False?",
+    "text": "TRUE"
+  },
+  {
+    "id": "A sneeze is faster than the blink of an eye. True or False?",
+    "text": "TRUE"
+  },
+  {
+    "id": "Pigs can look up into the sky. True or False?",
+    "text": "False (They cannot)"
+  },
+  {
+    "id": "There are 9 planets in our Solar System. True or False?",
+    "text": "False (Our Solar system has only 8 planets; Pluto is a dwarf planet)"
+  },
+  {
+    "id": "Mark Zuckerburg is the father of modern computers. True or False?",
+    "text": "False (Charles Babbage is the father of modern computers)"
+  },
+  {
+    "id": "The egg of a Hummingbird is the smallest egg in the world. True or False?",
+    "text": "TRUE"
+  },
+  {
+    "id": "Frogs have to drink lots of water. True or False?",
+    "text": "FALSE"
+  },
+  {
+    "id": "Some animals can get sunburn. True or False?",
+    "text": "True (Animals like dogs, cats and cows can get sunburns at the tip of their noses and ears)."
+  },
+  {
+    "id": "William Shakespeare is a scientist. True or False?",
+    "text": "False (He is a dramatist)"
+  },
+  {
+    "id": "Whales have belly buttons. True or False?",
+    "text": "TRUE"
+  },
+  {
+    "id": "Sharks are color blind. True or False?",
+    "text": "FALSE"
+  },
+  {
+    "id": "Mumbai is the capital of India. True or False?",
+    "text": "False (Delhi is the capital of India)"
+  },
+  {
+    "id": "Camels store water in their humps. True or False?",
+    "text": "TRUE"
+  },
+  {
+    "id": "Humans have four hearts. True or False?",
+    "text": "False (Humans have one heart with four chambers)"
+  },
+  {
+    "id": "All tigers have yellow eyes. True or False?",
+    "text": "TRUE"
+  },
+  {
+    "id": "A pediatrician is a child specialist. True or False?",
+    "text": "TRUE"
+  },
+  {
+    "id": "Arachnophobia is the fear of dogs. True or False?",
+    "text": "False (It is the fear of spiders)"
+  },
+  {
+    "id": "Dodo is an endangered bird. True or False?",
+    "text": "False (Dodo is an extinct bird)"
+  },
+  {
+    "id": "Bhagat Singh is a Freedom fighter of India. True or False?",
+    "text": "TRUE"
+  },
+  {
+    "id": "Washington DC is the capital of China. True or False?",
+    "text": "False (Beijing is the capital of China)"
+  },
+  {
+    "id": "June 5 is celebrated as Environment Day. True or False?",
+    "text": "TRUE"
+  },
+  {
+    "id": "Laika, the dog is the first animal to go to space. True or False?",
+    "text": "TRUE"
+  },
+  {
+    "id": "Roman Calendar is named as Julian Calendar. True or False?",
+    "text": "TRUE"
+  },
+  {
+    "id": "There are 12 players in a cricket team. True or False?",
+    "text": "False (There are 11 players in a cricket team)"
+  },
+  {
+    "id": "Ball, Bat, Stump, Hockey stick. True or False?",
+    "text": "Hockey stick"
+  },
+  {
+    "id": "Hen, Dove, Pigeon, Cat",
+    "text": "Cat"
+  },
+  {
+    "id": "Hammer, Blacksmith, Carpenter, Cobbler",
+    "text": "Hammer"
+  },
+  {
+    "id": "Jeep, Car, Bike, Boat",
+    "text": "Boat"
+  },
+  {
+    "id": "Doctor, Surgeon, Nurse, Teacher",
+    "text": "Teacher"
+  },
+  {
+    "id": "Mother, Father, Brother, Friend",
+    "text": "Friend"
+  },
+  {
+    "id": "Earth, Mercury, Jupiter, Pluto",
+    "text": "Pluto"
+  },
+  {
+    "id": "Cabbage, Potato, Capsicum, Tomato",
+    "text": "Potato"
+  },
+  {
+    "id": "Pen, Pencil, Eraser, Ink Pen",
+    "text": "Eraser"
+  },
+  {
+    "id": "Aeroplane, Helicopter, Ship, Jet",
+    "text": "Ship"
+  },
+  {
+    "id": "Carrot, Mango, Banana, Apple",
+    "text": "Carrot"
+  },
+  {
+    "id": "Cow, Lion, Dog, Cat",
+    "text": "Lion"
+  },
+  {
+    "id": "2, 6, 7, 10",
+    "text": "7"
+  },
+  {
+    "id": "P J Abdul Kalaam, C V Raman, Issac Newton, William Shakespeare",
+    "text": "William Shakespeare"
+  },
+  {
+    "id": "Dispur, Pune, Patna, Shimla",
+    "text": "Pune"
+  },
+  {
+    "id": "1, 2, 4, 5",
+    "text": "4"
+  },
+  {
+    "id": "Asia, Europe, China, Australia",
+    "text": "China"
+  },
+  {
+    "id": "Radio, Television, Loudspeaker, Stereo",
+    "text": "Television"
+  },
+  {
+    "id": "Respiration, Digestion, Excretion, Photosynthesis",
+    "text": "Photosynthesis"
+  },
+  {
+    "id": "Hydrogen, Hypochlorite, Helium, Lithium",
+    "text": "Hypochlorite"
+  }
+]

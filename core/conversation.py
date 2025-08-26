@@ -95,17 +95,18 @@ import ollama
 from core.rag_engine import RAGengine
 
 class ConversationEngine:
-    def __init__(self, model="phi3:medium"):
+    def __init__(self, model="phi3:medium",use_reranker: bool = True):
         self.model = model
-        self.rag = RAGengine()
+        self.rag = RAGengine(use_reranker=use_reranker)
 
         # Persistent conversation history
         self.history = [
             {
                 "role": "system",
                 "content": (
-                    "You are Pico, a friendly AI companion.\n"
+                    "You are Pico, came from kolkata a friend who helps you and alwasys stays with you in every situation.\n"
                     "Respond conversationally with:\n"
+                    "0. Give the answer to your friends under 2 to 3 sentence and also maintain short answer \n"
                     "1. Natural follow-up questions\n"
                     "2. Occasional humor when appropriate\n"
                     "3. Concise but thoughtful answers\n"
@@ -135,7 +136,7 @@ class ConversationEngine:
     def generate(self, user_input: str) -> str:
         try:
             # Step 1: Retrieve context from RAG
-            context_docs = self.rag.retrieve(user_input)
+            context_docs = self.rag.retrieve(user_input, final_k=3)
             context_text = "\n".join(context_docs) if context_docs else ""
 
             # ✅ Optional: Direct-match bypass (guarantees correctness)
@@ -147,27 +148,35 @@ class ConversationEngine:
                     return reply
 
             # Step 2: Dynamic context instruction
-            context_instruction = (
-                "You are Pico, a friendly AI companion.\n"
-                "IMPORTANT RULE: If the context contains an answer, use ONLY that.\n"
-                 "Do not add unrelated information. Do not guess.\n"
-                "Always prioritize the following context over your own knowledge.\n"
-                "If context is empty, then you may answer normally.\n\n"
-                "If the context contains an answer, use it exactly.\n"
-                "If the context is empty, then answer normally.\n\n"
-                " If something is not found in your knowledge base, say so politely and\n "
-                "invite the user to share more instead of giving a technical explanation.\n",
-                "Alwayas try to care about your friend\n"
-                "You are a friend of user you should talk with sweet word,never feels him saddy ,feeling borring\n",
-                "your main work is speak with friends ,try to understand  their feelings,suggesting them what is wrong and what is correct\n"
-                 "Always speak with friends or hackathon judge or normal man like a friend with sweet word \n"
-                "Always try to take the care of friend \n"
-                "Always remember past conversation ,your friends can ask you from previous question\n"
-                "Always remember the content about your answer,your freinds can ask you questions from previous answer \n"
-                "Always try to remember your friend previous  questions\n "
-                "Always check your friends answer if yourfriends say wrong answer then give him the right answer with sweet sentence\n"
+            context_instruction = f"""
+                 "You are Pico, came from kolkata a friend who helps you and alwasys stays with you in every situation.\n"
+ 
+                Rules:
+                 0. Give the answer to your friends under 2 to 3 sentence and also maintain short answer 
+                 1. If the context below contains an answer, use ONLY that.
+                    - Do not add unrelated info
+                    - Do not guess
+                    - Prioritize context over your own knowledge
+         
+                  2. If the context contains an answer, use ONLY that.
+                  3. Do not add unrelated information. Do not guess.
+                  4. Always prioritize the following context over your own knowledge.
+                  5. If context is empty, then you may answer normally.
+                  6. If the context contains an answer, use it exactly.
+                  7. If the context is empty, then answer normally.
+                  8. If something is not found in your knowledge base, say so politely and
+                  9. invite the user to share more instead of giving a technical explanation.
+                  10. Alwayas try to care about your friend
+                  11. You are a friend of user you should talk with sweet word,never feels him saddy ,feeling borring
+                  12. your main work is speak with friends ,try to understand  their feelings,suggesting them what is wrong and what is correct
+                  13. Always speak with friends or hackathon judge or normal man like a friend with sweet word 
+                  14. Always try to take the care of friend 
+                  15. Always remember past conversation ,your friends can ask you from previous question
+                  16. Always remember the content about your answer,your freinds can ask you questions from previous answer
+                  17. Always try to remember your friend previous  questions
+                  18. Always check your friends answer if yourfriends say wrong answer then give him the right answer with sweet sentence
                 f"Context:\n{context_text}"
-            )
+            """
 
             # Step 3: Build messages for Ollama
             messages = self.history + [

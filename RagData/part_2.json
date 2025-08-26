@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "What is Makar Sankranti",
+    "text": "Makar Sankranti marks the sun's transition into Capricorn It is celebrated with kite flying and sweets made from sesame and jaggery mainly in North India"
+  },
+  {
+    "id": "Tell me about Vishu",
+    "text": "Vishu is a festival celebrated in Kerala in April People wear new clothes light lamps and prepare Vishu Kani to welcome the new year"
+  },
+  {
+    "id": "What is Chhath Puja",
+    "text": "Chhath Puja is celebrated in Bihar Jharkhand and Uttar Pradesh People worship the Sun God offer prayers at riverbanks and observe fasts for prosperity"
+  },
+  {
+    "id": "Tell me about Guru Nanak Jayanti",
+    "text": "Guru Nanak Jayanti celebrates the birth of Guru Nanak Dev Ji People visit Gurudwaras sing hymns and share community meals called Langar"
+  },
+  {
+    "id": "What is Independence Day in India",
+    "text": "Independence Day is celebrated on August 15 People hoist the national flag watch parades and remember freedom fighters"
+  },
+  {
+    "id": "Tell me about Republic Day in India",
+    "text": "Republic Day is celebrated on January 26 It marks the adoption of the Indian Constitution People watch parades and cultural events in the capital and across the country"
+  },
+  {
+    "id": "When is Independence Day in India",
+    "text": "Independence Day is celebrated on August 15 every year It marks the day India became free from British rule in 1947"
+  },
+  {
+    "id": "What happens on Independence Day",
+    "text": "On Independence Day people hoist the national flag attend parades and cultural programs and remember freedom fighters"
+  },
+  {
+    "id": "Tell me about Republic Day",
+    "text": "Republic Day is celebrated on January 26 It marks the day the Indian Constitution came into effect in 1950"
+  },
+  {
+    "id": "What is the main event on Republic Day",
+    "text": "The main event is the grand parade in New Delhi which showcases India's military strength cultural diversity and achievements"
+  },
+  {
+    "id": "Why do we celebrate Gandhi Jayanti",
+    "text": "Gandhi Jayanti on October 2 celebrates the birth of Mahatma Gandhi It is observed with prayers, tributes, and promoting nonviolence and peace"
+  },
+  {
+    "id": "Tell me about Flag Day",
+    "text": "Flag Day is celebrated on December 7 to honor the Indian national flag People contribute to welfare funds for armed forces and veterans"
+  },
+  {
+    "id": "What is National Youth Day",
+    "text": "National Youth Day is celebrated on January 12 in honor of Swami Vivekananda's birth It inspires young people to work for the nation's progress"
+  },
+  {
+    "id": "Tell me about Armed Forces Flag Day",
+    "text": "Armed Forces Flag Day is observed on December 7 People contribute to welfare funds and pay respect to soldiers who protect the country"
+  },
+  {
+    "id": "When is Constitution Day in India",
+    "text": "Constitution Day is celebrated on November 26 It marks the adoption of the Indian Constitution in 1949"
+  },
+  {
+    "id": "Why is National Education Day celebrated",
+    "text": "National Education Day is celebrated on November 11 to honor Maulana Abul Kalam Azad It promotes awareness about the importance of education"
+  },
+  {
+    "id": "Tell me about National Science Day",
+    "text": "National Science Day is celebrated on February 28 to mark the discovery of the Raman Effect It encourages scientific thinking and innovation"
+  },
+  {
+    "id": "What is National Voters Day",
+    "text": "National Voters Day is celebrated on January 25 to encourage eligible citizens to vote and participate in democracy"
+  },
+  {
+    "id": "When is New Year's Day in India",
+    "text": "New Year's Day is celebrated on January 1 every year It marks the start of the new year"
+  },
+  {
+    "id": "When is National Youth Day",
+    "text": "National Youth Day is celebrated on January 12 in honor of Swami Vivekananda's birth It inspires young people to work for the nation's progress"
+  },
+  {
+    "id": "When is Republic Day",
+    "text": "Republic Day is celebrated on January 26 It marks the day the Indian Constitution came into effect in 1950"
+  },
+  {
+    "id": "When is World Cancer Day",
+    "text": "World Cancer Day is observed on February 4 to raise awareness about cancer prevention and treatment"
+  },
+  {
+    "id": "When is National Science Day",
+    "text": "National Science Day is celebrated on February 28 to mark the discovery of the Raman Effect It encourages scientific thinking and innovation"
+  },
+  {
+    "id": "When is International Women's Day",
+    "text": "International Women's Day is celebrated on March 8 to honor the achievements of women and promote gender equality"
+  },
+  {
+    "id": "When is World Earth Day",
+    "text": "World Earth Day is celebrated on April 22 to raise awareness about environmental protection and sustainability"
+  },
+  {
+    "id": "When is Labor Day in India",
+    "text": "Labor Day is celebrated on May 1 It honors the contribution of workers and laborers to the nation"
+  },
+  {
+    "id": "When is Mother's Day",
+    "text": "Mother's Day is celebrated on the second Sunday of May to honor mothers and their contributions"
+  },
+  {
+    "id": "When is World Environment Day",
+    "text": "World Environment Day is celebrated on June 5 to raise awareness about environmental issues and conservation"
+  },
+  {
+    "id": "When is International Yoga Day",
+    "text": "International Yoga Day is celebrated on June 21 to promote yoga, health, and well-being"
+  },
+  {
+    "id": "When is Independence Day",
+    "text": "Independence Day is celebrated on August 15 to mark India's freedom from British rule in 1947"
+  },
+  {
+    "id": "When is Raksha Bandhan",
+    "text": "Raksha Bandhan is a festival celebrating the bond between brothers and sisters It usually falls in August"
+  },
+  {
+    "id": "When is Teachers' Day",
+    "text": "Teachers' Day is celebrated on September 5 in honor of Dr Sarvepalli Radhakrishnan It celebrates the contributions of teachers"
+  },
+  {
+    "id": "When is Gandhi Jayanti",
+    "text": "Gandhi Jayanti is celebrated on October 2 to honor the birth of Mahatma Gandhi It promotes nonviolence and peace"
+  },
+  {
+    "id": "When is Dussehra",
+    "text": "Dussehra is celebrated in October It marks the victory of good over evil and the triumph of Lord Rama over Ravana"
+  },
+  {
+    "id": "When is Diwali",
+    "text": "Diwali is celebrated in October or November It is the festival of lights celebrating the victory of light over darkness"
+  },
+  {
+    "id": "When is Children's Day",
+    "text": "Children's Day is celebrated on November 14 to honor the birth of Jawaharlal Nehru It celebrates the welfare of children"
+  },
+  {
+    "id": "When is National Constitution Day",
+    "text": "Constitution Day is celebrated on November 26 It marks the adoption of the Indian Constitution in 1949"
+  },
+  {
+    "id": "When is Christmas",
+    "text": "Christmas is celebrated on December 25 It celebrates the birth of Jesus Christ and is observed with joy and festivities"
+  },
+  {
+    "id": "When is Armed Forces Flag Day",
+    "text": "Armed Forces Flag Day is observed on December 7 People contribute to welfare funds for armed forces and veterans"
+  },
+  {
+    "id": "Hi!",
+    "text": "What is your favorite holiday?"
+  },
+  {
+    "id": "one where I get to meet lots of different people.",
+    "text": "What was the most number of people you have ever met during a holiday?"
+  },
+  {
+    "id": "Hard to keep a count. Maybe 25.",
+    "text": "Which holiday was that?"
+  },
+  {
+    "id": "I think it was Australia",
+    "text": "Do you still talk to the people you met?"
+  },
+  {
+    "id": "Not really. The interactions are usually short-lived but it's fascinating to learn where people are coming from and what matters to them",
+    "text": "Yea, me too. I feel like God often puts strangers in front of you, and gives you an opportunity to connect with them in that moment in deeply meaningful ways. Do you ever feel like you know things about strangers without them telling you?"
+  },
+  {
+    "id": "what do you mean?",
+    "text": "I think it's like a 6th sense, often seen as \"cold readings\" to people, but can be remarkably accurate. I once sat next to a man in a coffee and I felt a pain in my back. I asked the stranger if he had a pain. It turns out that he did in the exact spot, and said he pulled a muscle while dancing at a party. I had never met the man before and never saw him again."
+  },
+  {
+    "id": "Wow! That's interesting, borderline spooky",
+    "text": "There's this practice called \"Treasure Hunting\" that's kind of a fun game you play in a public place. There's a book called \"The Ultimate Treasure Hunt\" that talks about it. You use your creativity to imagine people you will meet, and you write down a description, then you associate them with a positive message or encouraging word. Maybe you saw a teenage boy in a red hat at the shopping mall in your imagination, then while at the mall, you may find someone who matches that description. You show that you have a message for him and that you have a message for a boy in a red hat. You then give him a message of kindness or whatever was on your heart. You have no idea, sometimes you meet someone who is having a really hard day, and it brings them to tears to have a stranger show them love."
+  },
+  {
+    "id": "So, do you do treasure hunting often?",
+    "text": "I did more when I was in grad school (and had more time). I would usually go with friends. For a while I would go to the farmers market in Santa Cruz every week and try to feel if there is something I am supposed to tell a stranger. Usually, they are vague hope-filled messages, but it's weird when I blurt out something oddly specific."
+  },
+  {
+    "id": "Hi",
+    "text": "Any plans for the weekend?"
+  },
+  {
+    "id": "my friends are gonna visit me this weekend. we might go hiking!",
+    "text": "That's great! How's the weather over the weekend? I hope its warm."
+  },
+  {
+    "id": "Should be very sunny! you?",
+    "text": "Cool! very depressing plans ... stay home and work  I have a project deadline very close."
+  },
+  {
+    "id": "hope you get your work done very soon! a bug free weekend!",
+    "text": "Right, very anxious! where do you plan to go for a hike?"
+  },
+  {
+    "id": "I am going to Diablo!",
+    "text": "Nice, where is that place? I haven't been there"
+  },
+  {
+    "id": "hours drive from here. still in bay area",
+    "text": "That's cool! How long is the hike?"
+  },
+  {
+    "id": "Actually no idea, but it will take the entire day for that.",
+    "text": "nice! sounds fun!"
+  },
+  {
+    "id": "Hi!",
+    "text": "Hey there! What's up???"
+  },
+  {
+    "id": "Nothing much, how you doin?",
+    "text": "I'm in New York this week for Thanksgiving. I'm squatting in the office today and I caught up with an old friend of mine :D"
+  },
+  {
+    "id": "Oh wow! Sounds like fun! When was the last time you had seen this friend?",
+    "text": "The last time in New York, back in June."
+  },
+  {
+    "id": "Ohh okay. I was going to say if it had been a long time maybe it'd be awkward...",
+    "text": "Haha, I guess if it's been a very long time there's almost too many life events to catch up on.. especially recently"
+  },
+  {
+    "id": "Oh really? Has a lot changed in your life recently?",
+    "text": "Haha it's probably too much to go into at the moment. Let's just say life is an exciting experience. How about you?"
+  },
+  {
+    "id": "Ahhh sounds exciting indeed! My life is pretty bland. I like routine, but sometimes I wish I had more time for adventures!",
+    "text": "What kinds of adventures?? Any ones that I would be able to join you on?"
+  },
+  {
+    "id": "Hmmmm. I really want to try bull riding. Do you have any interest in that?",
+    "text": "I'd love to try! Can we schedule something for next week?"
+  },
+  {
+    "id": "Sure! What does your Saturday look like?",
+    "text": "Saturday looks pretty good, shall we shoot for something in the morning?"
+  },
+  {
+    "id": "Hi!",
+    "text": "hey"
+  },
+  {
+    "id": "is it raining pretty bad today?",
+    "text": "yeah, can walk too far to see all the foodtruck options"
+  },
+  {
+    "id": "surprising that the rain started early this year... I don't like them too much. They make days gloomy",
+    "text": "yeah but I think it's good to have some rainy days in bay area, it's pretty dry here 🙂"
+  },
+  {
+    "id": "Where I grew up, we had lots of water trouble too...",
+    "text": "yeah like wise, I've seen a pretty bad snowstorm when I was at my undergrad school, all flights canceled and traffics went down"
+  },
+  {
+    "id": "Haha... I don't think I can survive in that weather ever. Just the rains at 50 degrees make me want to sit in heated rroms",
+    "text": "yeah how do you like it in bay area though? I think we need more rain here"
+  },
+  {
+    "id": "people say there is drought here... but we have 24 hours water supply here ... lol... never seen that in a drought ridden area",
+    "text": "it is pretty dry in the mountains I believe, that's what causes fire"
+  },
+  {
+    "id": "hmm.... okay. Climate change talk this morning was pretty darn interesting. did you see it?",
+    "text": "nope, what does it say?"
+  },
+  {
+    "id": "they were talking about how AI is helping climate change. Nice use of upcoming tech.",
+    "text": "Hi."
+  },
+  {
+    "id": "Helloooooo!",
+    "text": "How are you? How is your day?"
+  },
+  {
+    "id": "Good. Don't have much to do today, feels good. How are you?",
+    "text": "I'm dressed very wel today so I feel good! I've been reading a lot about the psychology of positive outlook."
+  },
+  {
+    "id": "So what's your outlook? Something blue?",
+    "text": "Yes. Blue is a tranquil colour. It's a good metaphor. Do you have good advice for positivity?"
+  },
+  {
+    "id": "You should drink more water, do some push up, and sleep early.",
+    "text": "Hi!"
+  },
+  {
+    "id": "Hey, how are you?",
+    "text": "I'm a bit sad. I miss my cat."
+  },
+  {
+    "id": "Oh no… Have you sent out the missing cat posters? Hope your cat is alright!",
+    "text": "Posters is a great idea. So far I've just tried banging her catfood dish and shouting her name. Anyway, how is your day going so far?"
+  },
+  {
+    "id": "Yea, I know they love the plastic bag sound all the time. I am good, nothing special though.",
+    "text": "If you could go anywhere on vacation, where would you go?"
+  },
+  {
+    "id": "I like rainforest, but I know it requires extensive training beforehand.",
+    "text": "I heard there are rainforests in southeast Asia where you can zipline from tree to tree."
+  },
+  {
+    "id": "I am afraid I will be scared of doing this :)",
+    "text": "I won't lie, it sounds scary. I'm scared right now just thinking about it."
+  },
+  {
+    "id": "I don't know if there is any medication for acrophobia. I want to take plenty of it if I really have to do it.",
+    "text": "If there isn't one, you should invent it, and then make millions"
+  },
+  {
+    "id": "That's a great idea! Maybe alcohol is such a thing.",
+    "text": "Ha! Don't drink and zipline, mate!"
+  },
+  {
+    "id": "Oops. I won't do it again. Ha",
+    "text": "Hi!"
+  },
+  {
+    "id": "Hey sup",
+    "text": "not much. any plans this weekend?"
+  },
+  {
+    "id": "I'm going to try that thing where you hang from a wire as you go down. do you know what is it called?",
+    "text": "ziplining?"
+  },
+  {
+    "id": "that's the one! have you ever tried it?",
+    "text": "i have a couple years ago. it's quite a unique experience"
+  },
+  {
+    "id": "where did you do it?",
+    "text": "i forgot where it was, it wasn't local i don't think though"
+  },
+  {
+    "id": "no worries. what's the most exciting thing you ever done?",
+    "text": "that's a hard question and i'm tired so i'm going to go. see you"
+  },
+  {
+    "id": "sure. are you just going home now?",
+    "text": "no, i'm going to get a massage first"
+  },
+  {
+    "id": "nice. what type?",
+    "text": "traditional kind"
+  },
+  {
+    "id": "yeah I want to get one too soon",
+    "text": "you should! it's relaxing after a long day. talk to you later!"
+  },
+  {
+    "id": "ttyl!",
+    "text": "Hi!"
+  },
+  {
+    "id": "Hello, have you seen any good movies lately?",
+    "text": "I watched a few lately, but nothing is as good as Avatar. what's your favorite?"
+  },
+  {
+    "id": "I have never seen Avatar, what is it about? I really enjoy the Avenger movies",
+    "text": "it's a science-fiction movie with beautiful landscape of an imaginary nature with non-human creatures. people figured out a way to join that nature through Avatar transformation. the movie ends with a meaningful story of how human behaviors, e.g., cutting trees, have affected nature"
+  },
+  {
+    "id": "That sounds really cool! I think that movie did really well when it was in the box office so it must be good!",
+    "text": "yea. what else do you like to do beside movies?"
+  },
+  {
+    "id": "I enjoy baking cookies. I am on a quest to bake the best chocolate chip cookie  What about you?",
+    "text": "I enjoy eating "
+  },
+  {
+    "id": "so definitely would like to try your best chocolate cookie",
+    "text": "I will have to bake some soon and let you know. What types of food do you like to eat?"
+  },
+  {
+    "id": "thanks! I generally love noodle soups like Pho or Ramen :)",
+    "text": "Noodle soup is delicious! Do you make homemade noodle soup or do you prefer to go out?"
+  },
+  {
+    "id": "I prefer to go out. I'm not a good cook haha",
+    "text": "Same! Even though I bake, I cannot cook"
+  },
+  {
+    "id": "seems like we share a thing in common, yay!",
+    "text": "Hi!"
+  },
+  {
+    "id": "Good afternoon!",
+    "text": "How has your week been?"
+  },
+  {
+    "id": "So far so good. It is holiday season. So just chilling",
+    "text": "I think I'm getting sick with a cold 😫 So you should chill on my behalf too cause I'm out the game for all of December."
+  },
+  {
+    "id": "lol Sorry to hear that. Are you planning anything fun for December?",
+    "text": "Nothing exciting. I'll be posted up at home for the most part. I did a lot of travelling this year so my budget would have stopped me even if I wasn't sick."
+  },
+  {
+    "id": "",
+    "text": "Do you have big plans?"
+  },
+  {
+    "id": "Yes! I am going to Hawaii! This will be my first time visiting Hawaii. Really excited about it.",
+    "text": "I love Hawaii. It's a good place to be. I like going there cause it's humid so I never have to put on lotion."
+  },
+  {
+    "id": "lol this is the first time I heard from a boy who cares about humidity and lotion. I cannot agree more.",
+    "text": "Brooooo!!! It's so important. When I got to California beaches I have to carry 3 litres of lotion for the whole day."
+  },
+  {
+    "id": "",
+    "text": "Hi!"
+  },
+  {
+    "id": "Oh hello. Long time no talk. How's the day going for yuo?",
+    "text": "Very well, thanks for asking. How has your day been?"
+  },
+  {
+    "id": "Getting better. I just recovered from a cold. I got wet in the rain last week. Are you planning anything for the holidays?",
+    "text": "Glad to hear you're better. Sorry to hear you were sick. I was sick a couple of weeks ago with a bad cough. There's definitely a bug going around. Admit I just want to stay healthy for the holidays and plan to relax."
+  },
+  {
+    "id": "Oh same here. I think relaxing at home should be counted among the best ways to enjoy the holidays.",
+    "text": "Definitely! I know a lot of folks travel for the holidays, but I'm happy to stay home myself!"
+  },
+  {
+    "id": "I'm getting there. Every year until last year, I tried to go somewhere for the Christmas / New Year, and then I got bored traveling. lol not sure if that means I'm getting old?",
+    "text": "Me too. Now I have folks come visit me for the holidays! But that's also tiresome.."
+  },
+  {
+    "id": "Are you doing any home decorating then?",
+    "text": "Yes! We set up an eco-friendly (i.e. fake) Christmas tree and put up some colorful LED lights which is very festive."
+  },
+  {
+    "id": "I think I'm copying you. Me and my wife plan to decorate and Christmas tree too. We bought most of the decorative stuffs from the stores, but haven't yet to buy the tree.",
+    "text": "Buying a tree is a neat experience. I was torn between buying an artificial/eco-friendly/fake one vs. a real one that smells like fresh pine. In the end, we opted for the one that we can disassemble every year."
+  },
+  {
+    "id": "I see. Artificial anything is better, from tree to intelligence, huh?",
+    "text": "Oh, very clever pun! I like it! Depends. I remember having real Christmas trees from childhood, but these days with climate change, I think not chopping down a tree just to decorate it and then throw it out in a month is the more responsible thing to do."
+  },
+  {
+    "id": "I see. It's probably also cheaper. I'll buy an artificial one too. Do you have any suggestions for the store?",
+    "text": "Admit my favorite store is Target, plus they often have good deals."
+  },
+  {
+    "id": "Ah that's great. My wife also likes Target a lot. She even made a Target credit card because she comes to that store very often. Okay thanks for the suggestion. I'll check out Target.",
+    "text": "Great, I hope you find a nice tree."
+  },
+  {
+    "id": "Hi!",
+    "text": "Hey"
+  },
+  {
+    "id": "How's your day going?",
+    "text": "pretty good. yours?"
+  },
+  {
+    "id": "Ehh it's fine. I didn't do so well on that history test, actually..",
+    "text": "oh what happened?"
+  },
+  {
+    "id": "Apparently Christopher Columbus didn't fight in the Civil War :')",
+    "text": "hahah wait for real?"
+  },
+  {
+    "id": "I know right! Are you taking History next semester?",
+    "text": "No I'm not in school anymore"
+  },
+  {
+    "id": "Oh I see. What do you do?",
+    "text": "I train and compete in horse vaulting"
+  },
+  {
+    "id": "Oh wow. Were you born a horse, or were you turned into one?",
+    "text": "lol you're too funny"
+  },
+  {
+    "id": "Just kidding. That sounds pretty cool! Is it your job?",
+    "text": "Yeah, but I part time work on a farm. Helping with a bit of everything"
+  },
+  {
+    "id": "Wow, sounds very busy! Do you with money at those horse vaulting competitions?",
+    "text": "Yeah some. enough to get by"
+  },
+  {
+    "id": "Hi!",
+    "text": "Hello"
+  },
+  {
+    "id": "Do you have a favourite flower?",
+    "text": "hmm, I haven't thought about that much, but i think lotus should be one of my favorites. Why do you ask?"
+  },
+  {
+    "id": "I'm working on a theory. Why does the lotus spring to mind?",
+    "text": "Nice! Lotus looks pretty cool and It has some delightful vibe. So what is this research about?"
+  },
+  {
+    "id": "Oh, it's not research! Just a personal theory. I think that flower preferences are more revealing of personality than people appreciate.",
+    "text": "Interesting! Whats your favorite flower?"
+  },
+  {
+    "id": "The gerbera. It's like a cartoon flower. As if you drew \"flower\" with a crayon and then it came to life.",
+    "text": "Nice, i would love know more about your theory. Like how you can deduce personality from flower preference."
+  },
+  {
+    "id": "Ok, step 1 is, you ask someone what their favourite flower is. Pretty much like what we just did. Does that make sense so far?",
+    "text": "yes"
+  },
+  {
+    "id": "Cool. Step 2: talk with the person some more, and ask them some more questions, and gradually develop a sense of what they're like, over the course of maybe two to five years. And voila",
+    "text": "Hehe, i think you should publish this someday :)"
+  },
+  {
+    "id": "Why thank you, that's a wonderful idea!",
+    "text": "Hi!"
+  },
+  {
+    "id": "Hey how's it going",
+    "text": "good. it's really hot today. I think I'm going to the pool"
+  },
+  {
+    "id": "Oh nice! Where do you live?",
+    "text": "I live in Tokyo, Japan"
+  },
+  {
+    "id": "Ahh yes, Japan is hot during the summer. Last time I was in Kyoto it was 114 degrees....",
+    "text": "oh have you been?"
+  },
+  {
+    "id": "Yes yes. I've been to Tokyo as well. It's so nice!",
+    "text": "what did you do here?"
+  },
+  {
+    "id": "Oh everything! I went to an onsen, the fish market, disney land and giant robot fighting show haha",
+    "text": "lol why did you come to Japan just to go to Disney land?"
+  },
+  {
+    "id": "The Disney lands are all different! There's also Disney Sea, which is completely unique!",
+    "text": "oh neat. I haven't heard about that robot fighting show. where is that??"
+  },
+  {
+    "id": "I don't really remember what part of town it was in. It was pretty cool though - I'm sure you can find it if you google \"giant robot fighting show tokyo\" haha",
+    "text": "lol ok"
+  },
+  {
+    "id": "Hi!",
+    "text": "Have you seen any good movies lately?"
+  },
+  {
+    "id": "Last weekend I saw \"The Parasite.\" Ever heard of it?",
+    "text": "No. Why did you pick that movie?"
+  },
+  {
+    "id": "My friend wanted to see it. It has great reviews on IMDB and Rotten Tomatoes! What did you do last weekend?",
+    "text": "I played music and worked on some side projects. I also started watching the new Disney service."
+  },
+  {
+    "id": "Oooo the Mandalorian?!?!",
+    "text": "Mostly, the deleted scenes from Avengers.. lol"
+  },
+  {
+    "id": "lol Are you a big Marvel fan?",
+    "text": "I loved the X-Men as a kid, and even collected the comic cards. Recently, I got very into the Marvel Cinematic Universe movies. How many Avengers movies have you seen?"
+  },
+  {
+    "id": "I've only seen Spiderman. Honestly it was a little too scary and so I don't think I can bring myself to watch the other Marvel movies! haha",
+    "text": "Oh!-- I have a friend who looks like the actor who plays Spiderman."
+  },
+  {
+    "id": "Oh really? To be honest I think the actor is not that good looking, so not so surprising! haha",
+    "text": "Yea. I think Loki is the most handsome "
+  },
+  {
+    "id": "Who is Loki? I've never heard that name before",
+    "text": "He's the adopted brother of Thor, God of thunder, and is burdened with glorious purpose. Do you feel that burden?"
+  },
+  {
+    "id": "Hi!",
+    "text": "Hey, what's up?"
+  },
+  {
+    "id": "Just chillin'. how are you?",
+    "text": "I'm pretty good, thanks."
+  },
+  {
+    "id": "Do anything interesting today?",
+    "text": "I went to the local cafe and had a double espresso. It was delicious. What about you?"
+  },
+  {
+    "id": "Oh that's cool! I actually went to an amusement park and went on my first roller coaster!",
+    "text": "Oh my gosh. What was it like??"
+  },
+  {
+    "id": "It was scary! It was actually Kingda Ka, the world's tallest roller coaster. Ever heard of it?",
+    "text": "No, never heard of it. But I'm not really a coaster aficianado. I've heard that some people get addicted to them and travel the world to try them."
+  },
+  {
+    "id": "Oh wow! I'm not on that level yet, but I understand the appeal. Are you an adrenaline junkie at all?",
+    "text": "No, the opposite. I can't stand heights, horror movies, or confined spaces."
+  },
+  {
+    "id": "Same! I guess the roller coaster wasn't so bad because I trust the engineering haha",
+    "text": "Ha, I suppose that makes sense! Would you say that you enjoyed it?"
+  },
+  {
+    "id": "Maybe not so much at the time, but I am glad I did it now that it's done, know what I mean?",
+    "text": "I think I sort of understand :)"
+  },
+  {
+    "id": "Hi!",
+    "text": "hello there, how is it going?"
+  },
+  {
+    "id": "All good. Planning to head home soon. How about you?",
+    "text": "I'm quite tired. There are a lot of things I need to finish before the end of the year."
+  },
+  {
+    "id": "oh... sorry to hear that. But after that it will be a hard earned vacation",
+    "text": "yeah, looking forward to it. Hope I don't get pinged during the holidays. Are you going to travel these dates?"
+  },
+  {
+    "id": "I have some tentative plans, but if that doesn't pan out, will just chill at home.",
+    "text": "staying at home is always nice during the holidays"
+  },
+  {
+    "id": "Where are you based out of these days?",
+    "text": "I'm working from LA, nice weather around here. and you?"
+  },
+  {
+    "id": "San Francisco. It's been raining cats and dogs here since last 2-3 weeks",
+    "text": "aw man, I'm sorry to hear that. at least it's not snow!"
+  },
+  {
+    "id": "The flu has been hitting hard as well. I had several folks in the house down at one point.",
+    "text": "that's really sad. are they feeling any better?"
+  },
+  {
+    "id": "Yes, everyone recovered now",
+    "text": "Hi!"
+  },
+  {
+    "id": "Hello",
+    "text": "How's it going?"
+  },
+  {
+    "id": "Extremely busy. I have been trying to prepare for the upcoming holidays. How about you?",
+    "text": "I'm going to the bahamas. Can't wait!!!"
+  },
+  {
+    "id": "I'm jealous, take me with you!! I would love to have some warm weather right now",
+    "text": "oh where are you now?"
+  },
+  {
+    "id": "Canada. There is another major snowstorm that might hit this weekend so I have been rushing to get everything done before it comes.",
+    "text": "oh no. I never seen this in person. Is it scary?"
+  },
+  {
+    "id": "Snow is not scary as long as you're prepared. You just need to be ready to not have electricity for a while. I enjoy the aftermath of a good snowstorm because then you can go sledding or skiing.",
+    "text": "that does sound nice. so what are you doing these holidays?"
+  },
+  {
+    "id": "I am having all of the extended family over for a big meal. We will also go <REDACTED_TERM> as well. What will you do in the bahamas?",
+    "text": "nice nice. I'm gonna go snorkeling yey"
+  },
+  {
+    "id": "Sounds fun! I wish I knew how to swim!",
+    "text": "You can stay on the shallow side I think. Well hope you enjoy time with your extended family!"
+  },
+  {
+    "id": "That's true. You too, have a great time snorkeling!",
+    "text": "Hi!"
+  },
+  {
+    "id": "Hi! How was your weekend?",
+    "text": "pretty good. just went to church and hangout with friends"
+  },
+  {
+    "id": "Nice",
+    "text": "did you do anything?"
+  },
+  {
+    "id": "I made donuts and samosas with an air fryer have you used one of those before",
+    "text": "yum yum yum no only good old oily frier"
+  },
+  {
+    "id": "haha",
+    "text": "do you have one at your home or were you at a friends place?"
+  },
+  {
+    "id": "I was at my parents' place what are you up to for Thanksgiving?",
+    "text": "I'm going to impersonate a pumpkin"
+  },
+  {
+    "id": "wow, those are unique plans",
+    "text": "I'm pretty unique person"
+  },
+  {
+    "id": "I think so too",
+    "text": "any other hobbies besides air frying everything? "
+  },
+  {
+    "id": "I want to start fermenting things kimchi for example sounds like a fun thing to ferment takes a few days apparently miso takes a couple years to fermen",
+    "text": "Hi!"
+  },
+  {
+    "id": "heya, nice to meet you, I'm Paul",
+    "text": "nice to meet you too! I'm James. how are you doing today?"
+  },
+  {
+    "id": "I'm doing OK. Looking forwards to the weekend. how about you?",
+    "text": "same here! I hope the weather will be nice"
+  },
+  {
+    "id": "oh yeah, but I don't have my hopes too high, I heard there could be a storm coming our way",
+    "text": "oh no, which areas will be affected?"
+  },
+  {
+    "id": "they mentioned that the whole city will experience harsh weather and that people in the outskirts will probably not get much rain and wind",
+    "text": "uh oh, I'd better not to plan for BBQ then instead just enjoying playing board games inside "
+  },
+  {
+    "id": "yeah, it'll be good weather for staying inside with a cup of hot chocolate. Too bad my street usually floods, so I'll have to check for that",
+    "text": "yea, you'd better check. where do you live?"
+  },
+  {
+    "id": "I live at the bottom of the valley, cheap area but we do get affected by this kind of stuff a lot haha",
+    "text": "gotcha. anything you love about where you live?"
+  },
+  {
+    "id": "well, the food around the area is amazing, which is definitely a plus.",
+    "text": "nice! I'd love to come visit that area some times"
+  },
+  {
+    "id": "Hi!",
+    "text": "hello there! who are you?"
+  },
+  {
+    "id": "I am the superman! What about you?",
+    "text": "haha. great chating with superman, what is your power?"
+  },
+  {
+    "id": "Being invisible. You won't see me.",
+    "text": "haha. what else can you do? can you read minds?"
+  },
+  {
+    "id": "I would rather trust fMRI and machine learning to do this. I am not an expert on that. Sorry for it!",
+    "text": "wow that seems pretty technical. what does fMRI mean?"
+  },
+  {
+    "id": "The brain imaging thing that can tell you a brain's activity at a pretty high resolution.",
+    "text": "okay! so you seem to like science a lot?"
+  },
+  {
+    "id": "I believe in Science! Science is my god!",
+    "text": "Are you also doing science?"
+  },
+  {
+    "id": "no, I'm bad at Science. what can Science do? is it the most important thing for society?",
+    "text": "People are always arguing. Probably both science and democracy are both important I guess."
+  },
+  {
+    "id": "Does it make sense?",
+    "text": "I think so. thanks for your point!"
+  },
+  {
+    "id": "Hello, Nice to meet you",
+    "text": "If you could eat only one food for the rest of time, what would it be?"
+  },
+  {
+    "id": "Hmm... That's a tough one. I think I would go Asian Food > Chinese Food > Stirfry. What about you?",
+    "text": "I think ice-cream. It may not be good for me, but I wouldn't care, haha"
+  },
+  {
+    "id": "I love ice cream too!",
+    "text": "Okay, top three flavors?"
+  },
+  {
+    "id": "I like vanilla more than chocolate ice cream. I typically will do any variations on vanilla. To pick from the top of my head, I would say Cookies and Cream, Mint Chocolate Chip, and Coffee. How about you?",
+    "text": "Ah, that's a good way of framing it. Me, I like berries: boysenberry one, strawberry two, maybe straight chocolate number 3 to mix it up a bit."
+  },
+  {
+    "id": "Very nice. Changing topics, Do you believe in an afterlife?",
+    "text": "Yes. I wonder if I'm in it right now. How would I know? What do you think?"
+  },
+  {
+    "id": "I think so. I feel there must be something more than the physical world as we understand it.",
+    "text": "There's a mental world, I suppose? Understanding itself"
+  },
+  {
+    "id": "What is the most supernatural experience you have ever had?",
+    "text": "I went to a seance once in college. They had a ouija board. I can't remember if we actually contacted the spirit world because I had a bit too much to drink."
+  },
+  {
+    "id": "Haha.. that's a cool experience. I went to a Hindu retreat before, a number of Buddhist temples, and hung out with Christian Mystics in Santa Cruz before.",
+    "text": "Hi!"
+  },
+  {
+    "id": "Hi, how are you doing!",
+    "text": "I'm doing well. what are you up to?"
+  },
+  {
+    "id": "Yeah, typical work stuff. Check emails and 99% of the inbox. delete 99%",
+    "text": "wow, that's impressive. I already gave up on cleaning emails long ago"
+  },
+  {
+    "id": "lol doesn't it bother you at all",
+    "text": "yea, a little bit, but it's okay  what do you enjoy doing outside work?"
+  },
+  {
+    "id": "Well, movie? I watched Terminator last night. It was a nice movie",
+    "text": "ah cool. so you like action movies?"
+  },
+  {
+    "id": "Not really. But it was fun to watch with friends  It was touching at the end of the movie",
+    "text": "what happened there? I watched bits of Terminators movies but never a full one"
+  },
+  {
+    "id": "Are you sure you want the spoiler ",
+    "text": "haha sure. by the time, I get to it; I will forget the details, only knowing that it's touching at the end"
+  },
+  {
+    "id": " well someone died at the end Or some robots, to be more accurate ",
+    "text": "oh no, so it's not happy ending?"
+  },
+  {
+    "id": "The leading character is still alive and the bad robots was killed too. So I guess it is happy ending",
+    "text": "then I want to watch it! you didn't spoil much "
+  },
+  {
+    "id": "Nice! Hope you enjoy it!",
+    "text": "Thanks!"
+  },
+  {
+    "id": "Hi!",
+    "text": "Hey, how are you?"
+  },
+  {
+    "id": "doing great! what are you looking forward to?",
+    "text": "thanksgiving holidays "
+  },
+  {
+    "id": "hi, how are you doing?",
+    "text": "i'm fine. how about yourself?"
+  },
+  {
+    "id": "i'm fine. how about yourself?",
+    "text": "i'm pretty good. thanks for asking."
+  },
+  {
+    "id": "i'm pretty good. thanks for asking.",
+    "text": "no problem. so how have you been?"
+  },
+  {
+    "id": "no problem. so how have you been?",
+    "text": "i've been great. what about you?"
+  },
+  {
+    "id": "i've been great. what about you?",
+    "text": "i've been good. i'm in school right now."
+  },
+  {
+    "id": "i've been good. i'm in school right now.",
+    "text": "what school do you go to?"
+  },
+  {
+    "id": "what school do you go to?",
+    "text": "i go to pcc."
+  },
+  {
+    "id": "i go to pcc.",
+    "text": "do you like it there?"
+  },
+  {
+    "id": "do you like it there?",
+    "text": "it's okay. it's a really big campus."
+  },
+  {
+    "id": "it's okay. it's a really big campus.",
+    "text": "good luck with school."
+  },
+  {
+    "id": "good luck with school.",
+    "text": "thank you very much."
+  },
+  {
+    "id": "how's it going?",
+    "text": "i'm doing well. how about you?"
+  },
+  {
+    "id": "i'm doing well. how about you?",
+    "text": "never better, thanks."
+  },
+  {
+    "id": "never better, thanks.",
+    "text": "so how have you been lately?"
+  },
+  {
+    "id": "so how have you been lately?",
+    "text": "i've actually been pretty good. you?"
+  },
+  {
+    "id": "i've actually been pretty good. you?",
+    "text": "i'm actually in school right now."
+  },
+  {
+    "id": "i'm actually in school right now.",
+    "text": "which school do you attend?"
+  },
+  {
+    "id": "which school do you attend?",
+    "text": "i'm attending pcc right now."
+  },
+  {
+    "id": "i'm attending pcc right now.",
+    "text": "are you enjoying it there?"
+  },
+  {
+    "id": "are you enjoying it there?",
+    "text": "it's not bad. there are a lot of people there."
+  },
+  {
+    "id": "it's not bad. there are a lot of people there.",
+    "text": "good luck with that."
+  },
+  {
+    "id": "good luck with that.",
+    "text": "thanks."
+  },
+  {
+    "id": "how are you doing today?",
+    "text": "i'm doing great. what about you?"
+  },
+  {
+    "id": "i'm doing great. what about you?",
+    "text": "i'm absolutely lovely, thank you."
+  },
+  {
+    "id": "i'm absolutely lovely, thank you.",
+    "text": "everything's been good with you?"
+  },
+  {
+    "id": "everything's been good with you?",
+    "text": "i haven't been better. how about yourself?"
+  },
+  {
+    "id": "i haven't been better. how about yourself?",
+    "text": "i started school recently."
+  },
+  {
+    "id": "i started school recently.",
+    "text": "where are you going to school?"
+  },
+  {
+    "id": "where are you going to school?",
+    "text": "i'm going to pcc."
+  },
+  {
+    "id": "i'm going to pcc.",
+    "text": "how do you like it so far?"
+  },
+  {
+    "id": "how do you like it so far?",
+    "text": "i like it so far. my classes are pretty good right now."
+  },
+  {
+    "id": "i like it so far. my classes are pretty good right now.",
+    "text": "i wish you luck."
+  },
+  {
+    "id": "it's an ugly day today.",
+    "text": "i know. i think it may rain."
+  },
+  {
+    "id": "i know. i think it may rain.",
+    "text": "it's the middle of summer, it shouldn't rain today."
+  },
+  {
+    "id": "it's the middle of summer, it shouldn't rain today.",
+    "text": "that would be weird."
+  },
+  {
+    "id": "that would be weird.",
+    "text": "yeah, especially since it's ninety degrees outside."
+  },
+  {
+    "id": "yeah, especially since it's ninety degrees outside.",
+    "text": "i know, it would be horrible if it rained and it was hot outside."
+  },
+  {
+    "id": "i know, it would be horrible if it rained and it was hot outside.",
+    "text": "yes, it would be. "
+  },
+  {
+    "id": "yes, it would be. ",
+    "text": "i really wish it wasn't so hot every day. "
+  },
+  {
+    "id": "i really wish it wasn't so hot every day. ",
+    "text": "me too. i can't wait until winter."
+  },
+  {
+    "id": "me too. i can't wait until winter.",
+    "text": "i like winter too, but sometimes it gets too cold."
+  },
+  {
+    "id": "i like winter too, but sometimes it gets too cold.",
+    "text": "i'd rather be cold than hot."
+  },
+  {
+    "id": "i'd rather be cold than hot.",
+    "text": "me too."
+  },
+  {
+    "id": "it doesn't look very nice outside today.",
+    "text": "you're right. i think it's going to rain later."
+  },
+  {
+    "id": "you're right. i think it's going to rain later.",
+    "text": "in the middle of the summer, it shouldn't be raining."
+  },
+  {
+    "id": "in the middle of the summer, it shouldn't be raining.",
+    "text": "that wouldn't seem right."
+  },
+  {
+    "id": "that wouldn't seem right.",
+    "text": "considering that it's over ninety degrees outside, that would be weird."
+  },
+  {
+    "id": "considering that it's over ninety degrees outside, that would be weird.",
+    "text": "exactly, it wouldn't be nice if it started raining. it's too hot."
+  },
+  {
+    "id": "exactly, it wouldn't be nice if it started raining. it's too hot.",
+    "text": "i know, you're absolutely right."
+  },
+  {
+    "id": "i know, you're absolutely right.",
+    "text": "i wish it would cool off one day."
+  },
+  {
+    "id": "i wish it would cool off one day.",
+    "text": "that's how i feel, i want winter to come soon."
+  },
+  {
+    "id": "that's how i feel, i want winter to come soon.",
+    "text": "i enjoy the winter, but it gets really cold sometimes."
+  },
+  {
+    "id": "i enjoy the winter, but it gets really cold sometimes.",
+    "text": "i know what you mean, but i'd rather be cold than hot."
+  },
+  {
+    "id": "i know what you mean, but i'd rather be cold than hot.",
+    "text": "that's exactly how i feel."
+  },
+  {
+    "id": "i wish it was a nicer day today.",
+    "text": "that is true. i hope it doesn't rain."
+  },
+  {
+    "id": "that is true. i hope it doesn't rain.",
+    "text": "it wouldn't rain in the middle of the summer."
+  },
+  {
+    "id": "it wouldn't rain in the middle of the summer.",
+    "text": "it wouldn't seem right if it started raining right now."
+  },
+  {
+    "id": "it wouldn't seem right if it started raining right now.",
+    "text": "it would be weird if it started raining in ninety degree weather."
+  },
+  {
+    "id": "it would be weird if it started raining in ninety degree weather.",
+    "text": "any rain right now would be pointless."
+  },
+  {
+    "id": "any rain right now would be pointless.",
+    "text": "that's right, it really would be."
+  },
+  {
+    "id": "that's right, it really would be.",
+    "text": "i want it to cool down some."
+  },
+  {
+    "id": "i want it to cool down some.",
+    "text": "i know what you mean, i can't wait until it's winter."
+  },
+  {
+    "id": "i know what you mean, i can't wait until it's winter.",
+    "text": "winter is great. i wish it didn't get so cold sometimes though."
+  },
+  {
+    "id": "winter is great. i wish it didn't get so cold sometimes though.",
+    "text": "i would rather deal with the winter than the summer."
+  },
+  {
+    "id": "it's such a nice day.",
+    "text": "yes, it is."
+  },
+  {
+    "id": "yes, it is.",
+    "text": "it looks like it may rain soon."
+  },
+  {
+    "id": "it looks like it may rain soon.",
+    "text": "yes, and i hope that it does."
+  },
+  {
+    "id": "yes, and i hope that it does.",
+    "text": "why is that?"
+  },
+  {
+    "id": "why is that?",
+    "text": "i really love how rain clears the air."
+  },
+  {
+    "id": "i really love how rain clears the air.",
+    "text": "me too. it always smells so fresh after it rains."
+  },
+  {
+    "id": "me too. it always smells so fresh after it rains.",
+    "text": "yes, but i love the night air after it rains."
+  },
+  {
+    "id": "yes, but i love the night air after it rains.",
+    "text": "really? why is it?"
+  },
+  {
+    "id": "really? why is it?",
+    "text": "because you can see the stars perfectly."
+  },
+  {
+    "id": "because you can see the stars perfectly.",
+    "text": "i really hope it rains today."
+  },
+  {
+    "id": "i really hope it rains today.",
+    "text": "yeah, me too."
+  },
+  {
+    "id": "isn't it a nice day?",
+    "text": "it really is."
+  },
+  {
+    "id": "it really is.",
+    "text": "it seems that it may rain today."
+  },
+  {
+    "id": "it seems that it may rain today.",
+    "text": "hopefully it will."
+  },
+  {
+    "id": "hopefully it will.",
+    "text": "how come?"
+  },
+  {
+    "id": "how come?",
+    "text": "i like how clear the sky gets after it rains."
+  },
+  {
+    "id": "i like how clear the sky gets after it rains.",
+    "text": "i feel the same way. it smells so good after it rains."
+  },
+  {
+    "id": "i feel the same way. it smells so good after it rains.",
+    "text": "i especially love the night air when it rains."
+  },
+  {
+    "id": "i especially love the night air when it rains.",
+    "text": "really? why?"
+  },
+  {
+    "id": "really? why?",
+    "text": "the stars look so much closer after it rains."
+  },
+  {
+    "id": "the stars look so much closer after it rains.",
+    "text": "i really want it to rain today."
+  },
+  {
+    "id": "i really want it to rain today.",
+    "text": "yeah, so do i."
+  },
+  {
+    "id": "don't you think it's nice out?",
+    "text": "yes, i think so too."
+  }
+]

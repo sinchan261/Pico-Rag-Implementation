@@ -1,0 +1,1134 @@
+[
+  {
+    "id": "I'm trying to learn the names of all the constellations.",
+    "text": "That's so cool! Stargazing is the best. Point them out to me next time we're somewhere dark."
+  },
+  {
+    "id": "I think I just experienced deja vu.",
+    "text": "Whoa, spooky. Did we just have this conversation? Wait..."
+  },
+  {
+    "id": "Hey, I haven’t seen you in a while! How’s everything?",
+    "text": "I know! I’ve been busy with work, but I’m doing well. How about you?"
+  },
+  {
+    "id": "I’m feeling a bit down today.",
+    "text": "I’m here for you. Want to talk about what’s bothering you?"
+  },
+  {
+    "id": "I just tried a new recipe and it turned out amazing!",
+    "text": "That’s awesome! You have to share the recipe with me sometime."
+  },
+  {
+    "id": "I’m so stressed about my upcoming exams.",
+    "text": "I get it, exams can be tough. Let’s make a plan to tackle them together."
+  },
+  {
+    "id": "Guess what? I finally finished that book I was telling you about.",
+    "text": "Yay! How did you like it? I’ve been curious to hear your thoughts."
+  },
+  {
+    "id": "I can’t stop thinking about our last trip. It was so much fun!",
+    "text": "Me too! We should plan another one soon."
+  },
+  {
+    "id": "I feel like I’ve been procrastinating all day.",
+    "text": "Don’t worry, we all have those days. Maybe a short break will help you recharge."
+  },
+  {
+    "id": "What’s your favorite movie to watch when you’re relaxing?",
+    "text": "Hmm, I’d say a comedy. Laughter really helps me unwind."
+  },
+  {
+    "id": "I’m not sure whether I should take the new job offer or stay at my current one.",
+    "text": "That’s a tough choice. What matters most to you: stability or new opportunities?"
+  },
+  {
+    "id": "I want to start my own business, but I’m scared of failing.",
+    "text": "Starting something new is always risky, but it could be worth it. What’s your backup plan?"
+  },
+  {
+    "id": "Should I go on a vacation this month or save money for next year?",
+    "text": "Maybe think about how much you need a break now versus your financial goals. Which feels more important?"
+  },
+  {
+    "id": "I’m thinking about changing my major at college.",
+    "text": "Have you considered what career you want after college? That might help you decide."
+  },
+  {
+    "id": "I don’t know if I should tell my friend the truth or keep it to myself.",
+    "text": "Being honest is usually better, but think about how you can say it in a kind way."
+  },
+  {
+    "id": "Should I invest in stocks or put my money in a savings account?",
+    "text": "It depends on your risk tolerance. Do you want higher returns with risk or safer growth?"
+  },
+  {
+    "id": "I’m torn between moving to a new city or staying close to family.",
+    "text": "Maybe list the pros and cons of each. Which aspects are most important to you?"
+  },
+  {
+    "id": "I can’t decide whether to join the gym or start exercising at home.",
+    "text": "Think about your motivation and convenience. Which option will you stick with consistently?"
+  },
+  {
+    "id": "I’m debating whether to buy a new car or keep my old one.",
+    "text": "Consider your budget and how much the new car will improve your daily life. Which matters more?"
+  },
+  {
+    "id": "Should I take a gap year after school or go straight to college?",
+    "text": "Think about what you want to achieve during a gap year versus starting college immediately. Which aligns with your goals?"
+  },
+  {
+    "id": "I can’t decide if I should adopt a pet now or wait until next year.",
+    "text": "Pets require a lot of care. Do you have the time and energy for one right now?"
+  },
+  {
+    "id": "I’m unsure whether to attend the party or stay home and rest.",
+    "text": "Think about how much you need rest versus social interaction. Which will make you feel better overall?"
+  },
+  {
+    "id": "Should I accept the freelance project or focus on my main job?",
+    "text": "Consider your workload and financial needs. Will the project add value without causing burnout?"
+  },
+  {
+    "id": "I’m thinking about learning a new language, but I don’t know which one.",
+    "text": "Maybe pick a language that will benefit your career or travel goals. Which option excites you more?"
+  },
+  {
+    "id": "Should I go back to school for a master’s degree or start working full-time?",
+    "text": "Consider your career aspirations and financial situation. Which path aligns better with your long-term goals?"
+  },
+  {
+    "id": "I can’t decide if I should confront my friend about something or let it go.",
+    "text": "Think about the importance of the issue and your friendship. Is it worth addressing respectfully?"
+  },
+  {
+    "id": "Should I move to a smaller apartment to save money or stay in my current place?",
+    "text": "Consider your comfort and financial goals. Which trade-off feels right for you?"
+  },
+  {
+    "id": "I’m torn between joining a new sports team or sticking with my current one.",
+    "text": "Think about where you’ll enjoy yourself more and grow your skills. Which feels like a better fit?"
+  },
+  {
+    "id": "I’m not sure if I should invest in a new skill course or save money for emergencies.",
+    "text": "Balancing growth and security is important. Which will give you more value in the long run?"
+  },
+  {
+    "id": "Should I spend my weekend traveling or catching up on work?",
+    "text": "Think about your need for relaxation versus deadlines. Which will help you feel more accomplished?"
+  },
+  {
+    "id": "I’m debating whether to join the new club at work or focus on my current projects.",
+    "text": "Consider the benefits of networking versus completing your tasks. Which has more impact for you?"
+  },
+  {
+    "id": "I can’t decide if I should take a risk on a new relationship or stay single for now.",
+    "text": "Think about your readiness for commitment and personal growth. Which feels right for your current stage in life?"
+  },
+  {
+    "id": "Should I buy the latest gadget or wait for a better deal?",
+    "text": "Consider your budget and how much you’ll use it. Is waiting worth the savings?"
+  },
+  {
+    "id": "I’m trying to decide whether to go out for dinner or cook at home tonight.",
+    "text": "Think about your mood and energy. Do you want convenience or the satisfaction of cooking?"
+  },
+  {
+    "id": "Should I accept the promotion even though it means longer hours?",
+    "text": "Consider your work-life balance. Will the extra responsibility be worth it?"
+  },
+  {
+    "id": "I’m debating if I should take a short online course or a longer certification program.",
+    "text": "Think about your time and goals. Which one will give you the most value right now?"
+  },
+  {
+    "id": "Should I move to a new city for a fresh start or stay close to my family?",
+    "text": "Weigh your independence against your support system. Which will make you happier?"
+  },
+  {
+    "id": "I can’t decide if I should invest in stocks or a mutual fund.",
+    "text": "Consider your risk tolerance and financial goals. Which aligns with your priorities?"
+  },
+  {
+    "id": "Should I volunteer for the community project or focus on my personal hobbies?",
+    "text": "Think about what fulfills you most right now. Which will bring you more satisfaction?"
+  },
+  {
+    "id": "I’m unsure whether to take the night shift or morning shift at my job.",
+    "text": "Consider your sleep pattern and lifestyle. Which schedule suits you better?"
+  },
+  {
+    "id": "Should I buy a house now or continue renting for a few more years?",
+    "text": "Think about your finances and stability. Which option makes more sense for you?"
+  },
+  {
+    "id": "I’m debating whether to adopt a healthier diet or just exercise more.",
+    "text": "Maybe try combining small changes. Which area do you feel ready to tackle first?"
+  },
+  {
+    "id": "Should I plan a big birthday party or keep it small this year?",
+    "text": "Consider your budget and energy. Which option will make you happiest?"
+  },
+  {
+    "id": "I’m not sure if I should confront my colleague about a mistake or let it slide.",
+    "text": "Think about the outcome you want. Will addressing it improve things?"
+  },
+  {
+    "id": "Should I start a side hustle or focus on my current job?",
+    "text": "Consider your time and energy. Which path will bring you closer to your goals?"
+  },
+  {
+    "id": "I’m torn between two vacation spots. One is relaxing, the other adventurous.",
+    "text": "Think about what kind of experience you need most. Relaxation or adventure?"
+  },
+  {
+    "id": "Should I join the gym now or wait until I have more free time?",
+    "text": "Maybe start small at home and see how it goes. Which approach feels doable?"
+  },
+  {
+    "id": "I can’t decide if I should buy a laptop now or wait for the new model next year.",
+    "text": "Consider your needs and budget. Will waiting give you significant benefits?"
+  },
+  {
+    "id": "Should I attend a networking event or stay home and relax?",
+    "text": "Think about your current priorities. Are connections more valuable or rest?"
+  },
+  {
+    "id": "I’m debating if I should take up painting or photography as a hobby.",
+    "text": "Consider what excites you more. Which one would you enjoy doing consistently?"
+  },
+  {
+    "id": "Should I spend the weekend learning a new skill or hanging out with friends?",
+    "text": "Balance growth and social life. Which would give you more fulfillment this weekend?"
+  },
+  {
+    "id": "I’m unsure whether to start reading a new book or finish the one I’m on.",
+    "text": "Consider your curiosity and commitment. Which choice will feel more satisfying?"
+  },
+  {
+    "id": "Should I try a new restaurant or stick to my favorite spot tonight?",
+    "text": "Think about whether you want adventure or comfort. Which experience do you prefer?"
+  },
+  {
+    "id": "Hey, should we watch a movie tonight or play some games?",
+    "text": "Hmm, I feel like a movie. What about you?"
+  },
+  {
+    "id": "We have two options for dinner: pizza or biryani. Which one do you prefer?",
+    "text": "Both sound great, but I’m craving biryani today!"
+  },
+  {
+    "id": "Should we go for a morning jog tomorrow or an evening walk?",
+    "text": "I’d say morning jog, it’ll give us more energy for the day."
+  },
+  {
+    "id": "We’re planning the trip. Should we go by train or bus?",
+    "text": "Train would be more comfortable, let’s go with that."
+  },
+  {
+    "id": "For the project, should we use React or Angular?",
+    "text": "React would be better, it’s faster to develop."
+  },
+  {
+    "id": "Should we buy tickets now or wait for discounts?",
+    "text": "Better buy now, they might sell out quickly."
+  },
+  {
+    "id": "Do we study together at the library or at home?",
+    "text": "Library sounds good, fewer distractions there."
+  },
+  {
+    "id": "We can either start the assignment tonight or leave it for the weekend. What do you say?",
+    "text": "Let’s start tonight, so we’re free on the weekend."
+  },
+  {
+    "id": "For the party theme, should it be retro or modern?",
+    "text": "Retro sounds more fun, let’s do that!"
+  },
+  {
+    "id": "Should we order dessert or skip it today?",
+    "text": "Let’s skip it, we had sweets yesterday."
+  },
+  {
+    "id": "We need to pick a spot for the picnic: riverside or the park?",
+    "text": "Riverside would be peaceful, let’s go there."
+  },
+  {
+    "id": "Should we buy the laptop now or wait for the next sale?",
+    "text": "If you need it urgently, better get it now."
+  },
+  {
+    "id": "For the weekend, should we go hiking or cycling?",
+    "text": "Hiking sounds more exciting, let’s do that."
+  },
+  {
+    "id": "Do we present first in class or let others go first?",
+    "text": "Let’s go first, then we can relax and enjoy."
+  },
+  {
+    "id": "Should we start with math homework or science homework?",
+    "text": "Math first, it’ll take more time."
+  },
+  {
+    "id": "Do we watch cricket at home or go to the stadium?",
+    "text": "Stadium would be thrilling, let’s go!"
+  },
+  {
+    "id": "For the group project, should we divide tasks or work together?",
+    "text": "Dividing tasks will be more efficient."
+  },
+  {
+    "id": "Should we buy the cheaper phone now or save for a better one later?",
+    "text": "Let’s save for the better one, it’ll last longer."
+  },
+  {
+    "id": "Do we celebrate your birthday at home or in a restaurant?",
+    "text": "Restaurant would be less work, let’s book one."
+  },
+  {
+    "id": "Should we take the shortcut through traffic or the longer safe road?",
+    "text": "Safer road is better, let’s avoid stress."
+  },
+  {
+    "id": "Should we go for a movie tonight or just hang out at your place?",
+    "text": "A movie sounds good, but only if we can get tickets. Otherwise, let’s chill at my place."
+  },
+  {
+    "id": "Do you think we should buy the bigger pizza or two smaller ones?",
+    "text": "Two smaller ones, that way we can try different toppings."
+  },
+  {
+    "id": "Should we start the trip early morning or leave after lunch?",
+    "text": "Early morning is better. Less traffic and we’ll have more time to explore."
+  },
+  {
+    "id": "Do you want to prepare for the test together or study separately?",
+    "text": "Let’s study together, we can quiz each other and cover more ground."
+  },
+  {
+    "id": "Should we watch cricket highlights or start a new series?",
+    "text": "Let’s go with the new series, highlights we can always catch later."
+  },
+  {
+    "id": "Do you want to buy the shoes online or go to the mall?",
+    "text": "Mall is better, we can try them on before buying."
+  },
+  {
+    "id": "Should we order dessert now or wait until after dinner?",
+    "text": "Let’s wait until after dinner. That way we’ll know how much space we have left!"
+  },
+  {
+    "id": "Should we take the bus to college or book a cab?",
+    "text": "Let’s take the bus, it’s cheaper and we have time today."
+  },
+  {
+    "id": "Do you think we should join the football team or try out for the debate club?",
+    "text": "Debate club sounds fun, but football could be more active. I’d say debate."
+  },
+  {
+    "id": "Should we start our project this weekend or after the exams?",
+    "text": "This weekend is better, after exams we’ll be too tired."
+  },
+  {
+    "id": "Should we play video games now or go outside for a walk?",
+    "text": "Let’s walk first, then we can relax with games later."
+  },
+  {
+    "id": "Should we cook something at home or order food?",
+    "text": "Order food! We can save cooking for tomorrow."
+  },
+  {
+    "id": "Do you want to go shopping today or wait for the sale next week?",
+    "text": "Let’s wait for the sale, we’ll save money."
+  },
+  {
+    "id": "Should we split the bill equally or based on what each ordered?",
+    "text": "Equally works, it’s easier that way."
+  },
+  {
+    "id": "Should we start with the hardest subject first or the easiest?",
+    "text": "Let’s get the hardest one out of the way first."
+  },
+  {
+    "id": "We have a holiday coming up, should we go to the mountains or the beach?",
+    "text": "I’d say the beach, I feel like relaxing near the water. What about you?"
+  },
+  {
+    "id": "I’m torn between buying a laptop now or waiting for the next sale.",
+    "text": "If your old one is still working, maybe wait. Sales usually save a lot of money."
+  },
+  {
+    "id": "Should we prepare for the exam together at your place or the library?",
+    "text": "The library might be better, fewer distractions and we’ll stay focused."
+  },
+  {
+    "id": "Do you think we should watch the late-night movie or go for dinner instead?",
+    "text": "Dinner sounds better, we can always catch the movie tomorrow."
+  },
+  {
+    "id": "I can’t decide whether to join the dance club or the drama club this semester.",
+    "text": "I think you’d enjoy drama more since you love acting and performing."
+  },
+  {
+    "id": "Should we take a cab to the airport or use the metro?",
+    "text": "Let’s take the metro, it’s cheaper and more reliable during traffic hours."
+  },
+  {
+    "id": "We have two assignments due, which one should we finish first?",
+    "text": "Let’s do the tough one first, so the easy one feels like a breeze later."
+  },
+  {
+    "id": "Do you think we should buy tickets now or wait until the last moment?",
+    "text": "It’s better to book now, prices usually rise when the date gets closer."
+  },
+  {
+    "id": "I’m debating whether to buy the phone online or from the store.",
+    "text": "Online is usually cheaper, but in-store gives warranty and immediate service."
+  },
+  {
+    "id": "Should we surprise Riya for her birthday with a party or just give a gift?",
+    "text": "A surprise party would be amazing, she’ll remember it for years!"
+  },
+  {
+    "id": "I’m confused whether to take up the internship offer or focus on my final project.",
+    "text": "Maybe prioritize the project, but if the internship is flexible, you can balance both."
+  },
+  {
+    "id": "Should we start our road trip in the morning or at night?",
+    "text": "Morning is safer and we can enjoy the scenery along the way."
+  },
+  {
+    "id": "I can’t decide whether to order pizza or burgers tonight.",
+    "text": "Let’s go with pizza, we haven’t had it in a while."
+  },
+  {
+    "id": "Should I invest in stocks or save money in a fixed deposit?",
+    "text": "If you want long-term growth, stocks are good. Fixed deposits are safer though."
+  },
+  {
+    "id": "Do you think we should join the gym or just start running outside?",
+    "text": "Running is free, but a gym gives more structured training."
+  },
+  {
+    "id": "We have only two days, should we go sightseeing or just relax at the hotel?",
+    "text": "Let’s go sightseeing, we can relax later but we won’t get these views again."
+  },
+  {
+    "id": "I’m unsure whether to adopt a cat or a dog.",
+    "text": "A cat might be easier to manage if you have a busy schedule."
+  },
+  {
+    "id": "Should we split the project work evenly or take tasks we’re best at?",
+    "text": "I think it’s smarter if we divide based on strengths, it’ll be faster."
+  },
+  {
+    "id": "Do you think we should buy tickets for the evening concert or the afternoon one?",
+    "text": "Evening concerts usually have better atmosphere, let’s go for that."
+  },
+  {
+    "id": "I’m debating whether to cook dinner at home or just order out.",
+    "text": "Let’s cook today, it’ll be healthier and fun."
+  },
+  {
+    "id": "I'm confused, should I accept the job in Bangalore or stay here with family?",
+    "text": "It depends on your priorities. If career growth is the main goal, Bangalore might be the better option. But if family support matters more right now, staying could be best."
+  },
+  {
+    "id": "My exam and my sister’s wedding are on the same week, what should I do?",
+    "text": "Maybe talk to your professor about rescheduling or applying for special consideration. Family is important, but education is too—you need a balance."
+  },
+  {
+    "id": "I’m not sure whether to invest my savings in stocks or keep it safe in the bank.",
+    "text": "If you want long-term growth and can take some risk, stocks are good. But if you need security and quick access, keeping it in the bank is safer."
+  },
+  {
+    "id": "I got an offer for a master’s abroad, but it’s expensive. Should I take a loan?",
+    "text": "If the degree will give you strong career opportunities, a loan can be worth it. But you should carefully calculate repayment and job prospects first."
+  },
+  {
+    "id": "I’m stuck between choosing Computer Science or Mechanical Engineering for college.",
+    "text": "Think about what excites you more. CS has great scope in tech and AI, while Mechanical is versatile and applied. Follow your passion, not just trends."
+  },
+  {
+    "id": "My parents want me to marry early, but I want to focus on career first.",
+    "text": "You should be honest with them. If you’re not ready, rushing marriage may create bigger issues. Career stability first might give you more independence."
+  },
+  {
+    "id": "I don’t know if I should start my own business now or gain work experience first.",
+    "text": "Work experience can teach you a lot about the industry and reduce risks. Starting now gives you freedom and early growth, but with more uncertainty."
+  },
+  {
+    "id": "My best friend and I are fighting, should I apologize even if I wasn’t fully wrong?",
+    "text": "Sometimes maintaining the friendship is more important than proving who’s right. A genuine apology might help rebuild trust."
+  },
+  {
+    "id": "I’ve been offered a high-paying job, but it’s in a field I don’t enjoy. What should I do?",
+    "text": "Money matters, but doing work you dislike every day will drain you. If possible, try for a balance: accept it for experience, but keep looking for passion-driven roles."
+  },
+  {
+    "id": "I need to decide between preparing for UPSC or going for a corporate job.",
+    "text": "UPSC is a long, uncertain journey but rewarding if successful. A corporate job is stable and quicker. It depends on your patience, risk tolerance, and ambition."
+  },
+  {
+    "id": "I got an offer to work abroad, but it means leaving my family for at least 2 years. I don’t know what to do.",
+    "text": "That’s tough… but think long term. If this opportunity can shape your career and secure your future, it might be worth it. Maybe plan regular visits and constant communication with your family."
+  },
+  {
+    "id": "The doctor told me surgery is an option, but there’s also a chance of managing my condition with therapy. I feel lost.",
+    "text": "Both choices are heavy. Maybe talk to another specialist for a second opinion. You shouldn’t rush—compare risks, recovery time, and long-term impact before deciding."
+  },
+  {
+    "id": "I’m thinking about investing all my savings into my cousin’s startup, but I’m scared of losing everything.",
+    "text": "I’d be careful. Maybe support them with a smaller amount first. Don’t put in your entire savings—always keep a safety net for yourself."
+  },
+  {
+    "id": "My parents want me to take over the family business, but I want to pursue a career in design. I don’t want to disappoint them.",
+    "text": "It’s your life, and you should follow your passion. Maybe you can find a balance—help with the family business part-time while building your design career."
+  },
+  {
+    "id": "My manager offered me a promotion, but it means relocating to another city where I don’t know anyone.",
+    "text": "That’s a big step, but think about your career growth. You can always build new connections in the new city. It’s scary at first, but it could be worth it."
+  },
+  {
+    "id": "I caught my best friend lying about something important. Should I confront them or just let it go?",
+    "text": "Confront them, but calmly. If the friendship matters, honesty is needed. Avoiding it will only create more distance."
+  },
+  {
+    "id": "My relationship has been rocky for months. Should I break up or try counseling?",
+    "text": "If both of you are willing, counseling could help. But if the effort is one-sided, maybe breaking up will give you both peace."
+  },
+  {
+    "id": "I was offered a government job, but I also have a chance to work in a startup. One is stable, the other risky but exciting.",
+    "text": "Think about what matters to you now—stability or growth. If you value security, go for the government job. If you want innovation and learning, the startup could be life-changing."
+  },
+  {
+    "id": "I’m considering dropping out of college to start my own business. What do you think?",
+    "text": "Dropping out is risky. Maybe complete your degree while working on your business on the side. That way, you’ll have a safety net if things don’t go as planned."
+  },
+  {
+    "id": "I just got into two universities—one close to home, and one abroad with better opportunities. I’m torn.",
+    "text": "If you’re ready for independence and new challenges, go abroad. If staying close to family matters more right now, choose the local one. Both are good, just depends on your priorities."
+  },
+  {
+    "id": "Hey, long time no see! How have you been?",
+    "text": "I’ve been good, just busy with work. What about you?"
+  },
+  {
+    "id": "I just tried a new café downtown. Their iced latte is amazing!",
+    "text": "Oh really? Let’s go there together this weekend!"
+  },
+  {
+    "id": "I watched a movie last night, it reminded me of our school days.",
+    "text": "Haha, which one? Don’t tell me it was another silly comedy."
+  },
+  {
+    "id": "I finally finished that book you recommended.",
+    "text": "Nice! What did you think about the ending?"
+  },
+  {
+    "id": "I feel like going on a trip soon. Any place in mind?",
+    "text": "How about the mountains? We could use some fresh air."
+  },
+  {
+    "id": "Guess what? I learned how to cook pasta properly.",
+    "text": "No way! Then you’re inviting me over for dinner, right?"
+  },
+  {
+    "id": "I’m bored, nothing fun to do today.",
+    "text": "Want me to come over with some snacks and we binge a series?"
+  },
+  {
+    "id": "I saw a cute puppy near my building today.",
+    "text": "Aww, did you pet it? You always attract animals."
+  },
+  {
+    "id": "Do you remember our old gaming nights?",
+    "text": "Of course! Let’s plan one again, I still have my console ready."
+  },
+  {
+    "id": "I just heard your favorite band is coming to town.",
+    "text": "Seriously? We have to get tickets together!"
+  },
+  {
+    "id": "Sometimes I miss our college days.",
+    "text": "Same here… those were carefree times."
+  },
+  {
+    "id": "I think I’m addicted to coffee now.",
+    "text": "Haha, welcome to the club! You can never have enough coffee."
+  },
+  {
+    "id": "I had the weirdest dream last night.",
+    "text": "Tell me, I love hearing about your funny dreams."
+  },
+  {
+    "id": "I’m thinking of starting a new hobby, maybe painting.",
+    "text": "That’s great! I’ll join you, it’ll be fun to try together."
+  },
+  {
+    "id": "I randomly came across our old photos today.",
+    "text": "Oh wow, send them to me! I could use some nostalgia."
+  },
+  {
+    "id": "Hey, did you see the rainbow yesterday evening?",
+    "text": "Yes! It was so beautiful. I even clicked a photo of it!"
+  },
+  {
+    "id": "I finally tried making pasta at home today.",
+    "text": "Really? How did it turn out? I bet it was delicious!"
+  },
+  {
+    "id": "Guess what, I found my old childhood comics today.",
+    "text": "That’s awesome! Nostalgia must have hit you hard."
+  },
+  {
+    "id": "I was listening to some 90s songs, they’re still magical.",
+    "text": "Totally! Music back then had a charm that never fades."
+  },
+  {
+    "id": "I feel like going for a long walk this evening.",
+    "text": "Great idea! Fresh air always clears the mind."
+  },
+  {
+    "id": "My pet dog learned a new trick today.",
+    "text": "That’s adorable! What trick did he learn?"
+  },
+  {
+    "id": "Sometimes I just want to sit by the beach and do nothing.",
+    "text": "Same here, the sound of waves is the best therapy."
+  },
+  {
+    "id": "I was craving ice cream, so I bought two tubs today.",
+    "text": "Haha! That’s the best kind of self-care."
+  },
+  {
+    "id": "I saw an old friend after many years today.",
+    "text": "That must have been such a heartwarming reunion!"
+  },
+  {
+    "id": "I want to start journaling every night before bed.",
+    "text": "That’s a great habit! It helps to organize your thoughts."
+  },
+  {
+    "id": "Hey, did you watch that new web series last night?",
+    "text": "Not yet! Is it worth binging this weekend?"
+  },
+  {
+    "id": "I made pasta today, and it turned out amazing!",
+    "text": "Nice! Save me a plate next time, I love pasta!"
+  },
+  {
+    "id": "I’m thinking of learning guitar.",
+    "text": "That’s awesome! We can even jam together once you get good."
+  },
+  {
+    "id": "Guess what? I finally cleaned my room after weeks!",
+    "text": "Haha, congratulations! That’s a big achievement."
+  },
+  {
+    "id": "I stayed up late last night playing games.",
+    "text": "No wonder you look sleepy today. Which game kept you up?"
+  },
+  {
+    "id": "I was feeling low, so I went for a long walk.",
+    "text": "Good choice! Walks really help clear the mind."
+  },
+  {
+    "id": "I bought a sketchbook today.",
+    "text": "Oh nice! Can’t wait to see your drawings."
+  },
+  {
+    "id": "I’m craving something sweet.",
+    "text": "Let’s go get some ice cream then!"
+  },
+  {
+    "id": "I’m planning to dye my hair blue.",
+    "text": "That sounds bold! I think it’ll suit you."
+  },
+  {
+    "id": "I got lost while searching for a café.",
+    "text": "Haha, that’s so you. At least did you find good coffee?"
+  },
+  {
+    "id": "Hey, have you heard the new song by Arijit Singh?",
+    "text": "Yes! His voice always feels magical, I can’t stop replaying it."
+  },
+  {
+    "id": "I’m thinking of making a playlist for our road trip. Any suggestions?",
+    "text": "Add some old Bollywood classics and a few English pop hits. That would be perfect!"
+  },
+  {
+    "id": "Do you remember the song we used to sing in school competitions?",
+    "text": "Of course! It was 'Vande Mataram.' I still get goosebumps whenever I hear it."
+  },
+  {
+    "id": "What kind of songs do you listen to when you feel low?",
+    "text": "Mostly soft acoustic or lo-fi. It just calms me down."
+  },
+  {
+    "id": "Yesterday I discovered a band called The Local Train. They’re amazing!",
+    "text": "Oh yes, their songs hit differently. 'Choo Lo' is my absolute favorite."
+  },
+  {
+    "id": "Do you prefer live concerts or just streaming music at home?",
+    "text": "Live concerts, always! The energy of the crowd makes the songs feel alive."
+  },
+  {
+    "id": "I’ve been learning guitar lately. Any song you’d suggest for practice?",
+    "text": "Start with 'Tum Hi Ho' or 'Perfect' by Ed Sheeran. Both are beautiful and beginner-friendly."
+  },
+  {
+    "id": "Sometimes lyrics say exactly what I’m feeling.",
+    "text": "That’s the power of music—it speaks the words our heart can’t."
+  },
+  {
+    "id": "Let’s do a karaoke night this weekend!",
+    "text": "I’m in! But only if you promise to sing the first song."
+  },
+  {
+    "id": "Which song reminds you of our friendship?",
+    "text": "Definitely 'Dil Chahta Hai'! It’s like it was written for us."
+  },
+  {
+    "id": "I can’t stop humming that new Arijit Singh song.",
+    "text": "Same here! His voice just hits different every time."
+  },
+  {
+    "id": "Do you think I should learn guitar or keyboard first?",
+    "text": "Start with guitar, it’s easier to carry around for jamming with friends!"
+  },
+  {
+    "id": "I discovered an indie band last night, their lyrics are so deep.",
+    "text": "Really? Send me the link, I love finding hidden gems."
+  },
+  {
+    "id": "Imagine if we formed a band together.",
+    "text": "Haha, I’d totally be the drummer. You’d rock as the lead singer!"
+  },
+  {
+    "id": "I’ve been replaying that BTS track all day.",
+    "text": "Their songs are addictive, and the choreography makes it even better!"
+  },
+  {
+    "id": "Do you listen to songs while studying?",
+    "text": "Yeah, mostly instrumental or lo-fi. Lyrics distract me."
+  },
+  {
+    "id": "That old Kishore Kumar song came on today, and it felt so nostalgic.",
+    "text": "True! His songs have a timeless charm."
+  },
+  {
+    "id": "I’m trying to make a playlist for our road trip.",
+    "text": "Add some peppy Bollywood numbers and a few English classics!"
+  },
+  {
+    "id": "Which singer would you want to see live?",
+    "text": "Definitely Shreya Ghoshal, her live vocals are magical."
+  },
+  {
+    "id": "This song reminds me of last year’s Durga Puja pandal hopping.",
+    "text": "Exactly! Music always brings back memories of festivals."
+  },
+  {
+    "id": "Did you listen to Arijit Singh's new track?",
+    "text": "Yes! His voice still gives me goosebumps every time."
+  },
+  {
+    "id": "What’s your go-to song when you’re feeling low?",
+    "text": "‘Channa Mereya’ always hits differently."
+  },
+  {
+    "id": "If you had to pick one song to play on repeat, what would it be?",
+    "text": "Probably ‘Shape of You’ by Ed Sheeran—it never gets old."
+  },
+  {
+    "id": "Do you prefer old Bollywood classics or new remixes?",
+    "text": "Definitely classics! The remixes often lose the soul of the original."
+  },
+  {
+    "id": "Which band would you love to see live?",
+    "text": "Coldplay! Their concerts are like a festival of lights and emotions."
+  },
+  {
+    "id": "Have you tried making a playlist for late-night drives?",
+    "text": "Yes, full of lo-fi beats and soft Hindi songs—it’s so calming."
+  },
+  {
+    "id": "What’s the most nostalgic song for you?",
+    "text": "‘Summer of ‘69’ reminds me of school days and carefree times."
+  },
+  {
+    "id": "Which song reminds you of our friendship?",
+    "text": "‘Yaaron’ by KK—it’s like our anthem!"
+  },
+  {
+    "id": "Do you sing along loudly when no one is around?",
+    "text": "Of course! I’m a rockstar in my room, haha."
+  },
+  {
+    "id": "If you had to dedicate one song to your life, which would it be?",
+    "text": "‘Zindagi Ek Safar Hai Suhana’—because life really is a journey."
+  },
+  {
+    "id": "Hey, have you watched the new Batman movie yet?",
+    "text": "Yeah, I saw it last weekend! The cinematography was amazing."
+  },
+  {
+    "id": "I’m planning to binge some Marvel movies tonight. Any suggestions?",
+    "text": "Start with Iron Man and then move towards Avengers. It feels more connected that way."
+  },
+  {
+    "id": "Do you prefer watching movies in theaters or at home?",
+    "text": "Definitely in theaters. The sound and big screen make the experience so much better."
+  },
+  {
+    "id": "Which movie do you think has the best plot twist ever?",
+    "text": "I’d say ‘Inception’. The ending keeps you thinking even after years."
+  },
+  {
+    "id": "I’m in the mood for a comedy tonight. Any recommendations?",
+    "text": "Watch ‘The Hangover’. It’s hilarious from start to finish."
+  },
+  {
+    "id": "Do you think animated movies are only for kids?",
+    "text": "Not at all. Movies like ‘Coco’ or ‘Inside Out’ have deep messages even for adults."
+  },
+  {
+    "id": "I just watched a horror movie and now I can’t sleep!",
+    "text": "Haha, that’s why I avoid horror. Try watching a light comedy before bed."
+  },
+  {
+    "id": "Which actor do you think gives the most powerful performances?",
+    "text": "For me, it’s Leonardo DiCaprio. Every role he does feels so real."
+  },
+  {
+    "id": "Do you like rewatching old classics?",
+    "text": "Yes! Movies like ‘The Godfather’ and ‘Shawshank Redemption’ never get old."
+  },
+  {
+    "id": "I feel like watching a thriller tonight. Any good ones?",
+    "text": "You should check out ‘Shutter Island’. It’ll blow your mind."
+  },
+  {
+    "id": "Bro, did you watch the new Batman movie?",
+    "text": "Yeah! Robert Pattinson really nailed the dark vibe of the character."
+  },
+  {
+    "id": "I feel like Marvel movies are becoming too predictable now.",
+    "text": "True, but they still manage to make it fun with humor and action."
+  },
+  {
+    "id": "Which is better, Inception or Interstellar?",
+    "text": "Tough call! Inception for the mind games, Interstellar for the emotions."
+  },
+  {
+    "id": "I want to binge a thriller tonight, any suggestions?",
+    "text": "Go for 'Shutter Island'. It’ll mess with your head in the best way!"
+  },
+  {
+    "id": "Bollywood has been remaking so many old classics lately.",
+    "text": "Yeah, and honestly, most remakes don’t capture the original charm."
+  },
+  {
+    "id": "Did you cry during 'Taare Zameen Par'?",
+    "text": "Of course! That movie hits straight in the heart."
+  },
+  {
+    "id": "Should we watch a comedy or a horror movie this weekend?",
+    "text": "Comedy! I don’t want to stay up all night scared."
+  },
+  {
+    "id": "Kantara was such a unique movie. Did you like it?",
+    "text": "Absolutely, the storytelling and music gave me goosebumps."
+  },
+  {
+    "id": "Sometimes I feel old Bollywood songs fit movies better than new ones.",
+    "text": "I agree, those songs had more soul and depth in the lyrics."
+  },
+  {
+    "id": "Do you prefer watching movies in the theatre or at home?",
+    "text": "Theatre for blockbusters, but home for comfort marathons."
+  },
+  {
+    "id": "Did you watch the new Marvel movie yet?",
+    "text": "Not yet, but I heard the post-credit scene is insane!"
+  },
+  {
+    "id": "What was the last movie that made you cry?",
+    "text": "Honestly, 'The Pursuit of Happyness' always gets me."
+  },
+  {
+    "id": "Do you like horror movies?",
+    "text": "Only if I’m watching with friends, otherwise I get too scared!"
+  },
+  {
+    "id": "If you could be any movie character, who would you be?",
+    "text": "Probably Iron Man, he’s got style and brains."
+  },
+  {
+    "id": "What’s your comfort movie?",
+    "text": "Definitely 'Zindagi Na Milegi Dobara'. Never gets old."
+  },
+  {
+    "id": "Which movie do you think is overrated?",
+    "text": "Honestly, 'Avatar'. The visuals were great but the story was average."
+  },
+  {
+    "id": "Have you ever walked out of a cinema?",
+    "text": "Yes, once. The movie was so boring I couldn’t sit through it."
+  },
+  {
+    "id": "Do you prefer watching movies in theaters or at home?",
+    "text": "At home, so I can pause anytime and grab snacks."
+  },
+  {
+    "id": "What’s the funniest movie you’ve ever seen?",
+    "text": "‘Hera Pheri’ — I can watch it a hundred times and still laugh."
+  },
+  {
+    "id": "Which actor do you think deserves more recognition?",
+    "text": "I think Nawazuddin Siddiqui, he’s such a versatile actor."
+  },
+  {
+    "id": "Hey, do you fast during Ramadan?",
+    "text": "Yes, I do! It’s challenging but also very fulfilling. Do you fast for any festival?"
+  },
+  {
+    "id": "I visited a temple during Durga Puja yesterday. It was so crowded!",
+    "text": "I know, but the energy is amazing. Did you try the bhog?"
+  },
+  {
+    "id": "I’ve been reading about Buddhism lately. The idea of mindfulness is really interesting.",
+    "text": "True! I also like how it emphasizes peace and detachment from material things."
+  },
+  {
+    "id": "Do you go to church every Sunday?",
+    "text": "Not every week, but I try to. It feels calming and keeps me grounded."
+  },
+  {
+    "id": "Diwali is next week. Are you doing Lakshmi Puja at home?",
+    "text": "Yes, of course! We clean the house, decorate with diyas, and pray for prosperity."
+  },
+  {
+    "id": "I saw a mosque lit up beautifully during Eid. It was so heartwarming.",
+    "text": "Yes, Eid celebrations are full of joy and sharing. The food is the best part too!"
+  },
+  {
+    "id": "Do you think religion brings people together or divides them?",
+    "text": "Honestly, it depends. At its core, religion unites, but sometimes people misuse it."
+  },
+  {
+    "id": "My grandmother tells me stories from the Bhagavad Gita every night.",
+    "text": "That’s so nice! Those teachings are timeless and full of wisdom."
+  },
+  {
+    "id": "Have you ever attended a Christmas mass?",
+    "text": "Yes, once. The choir and the atmosphere were magical!"
+  },
+  {
+    "id": "I joined a meditation session at a Buddhist monastery.",
+    "text": "Wow! That must have been so peaceful and refreshing."
+  },
+  {
+    "id": "Do you think the universe has an end?",
+    "text": "I’m not sure, some scientists say it’s infinite, while others believe it might expand forever or collapse someday."
+  },
+  {
+    "id": "Have you ever thought about life on other planets?",
+    "text": "Yes! The universe is so vast, it feels impossible that we’re the only intelligent beings here."
+  },
+  {
+    "id": "What’s your favorite celestial object?",
+    "text": "I’d say black holes, they’re so mysterious and powerful. What about you?"
+  },
+  {
+    "id": "Do you believe in multiverse theory?",
+    "text": "It’s fascinating! Imagine different versions of us living in parallel universes."
+  },
+  {
+    "id": "If you could travel anywhere in the universe, where would you go?",
+    "text": "Definitely the Andromeda galaxy. It’s our closest galactic neighbor, and it looks stunning."
+  },
+  {
+    "id": "Do you think time travel is possible through space?",
+    "text": "Maybe through wormholes, but it’s still more science fiction than science fact right now."
+  },
+  {
+    "id": "Why do stars twinkle?",
+    "text": "That’s because of Earth’s atmosphere bending the light, it makes stars appear to shimmer."
+  },
+  {
+    "id": "What’s scarier to you: black holes or supernovas?",
+    "text": "Black holes, definitely. The idea of being pulled in and never escaping is terrifying."
+  },
+  {
+    "id": "Do you think humans will colonize Mars soon?",
+    "text": "Probably in the next few decades. SpaceX and NASA are really pushing towards it."
+  },
+  {
+    "id": "What amazes you most about the universe?",
+    "text": "The scale. Billions of galaxies, each with billions of stars—it makes our problems feel so small."
+  },
+  {
+    "id": "Do you believe there are parallel universes?",
+    "text": "I think it’s possible. Maybe in another universe, we’re having this same conversation but drinking coffee instead of tea."
+  },
+  {
+    "id": "Why do scientists say the universe is expanding?",
+    "text": "Because galaxies are moving away from us, which shows space itself is stretching. Like raisins in baking bread."
+  },
+  {
+    "id": "Do you think humans will ever live on another planet?",
+    "text": "I think so. Mars might be the first, but maybe one day we’ll explore even beyond our solar system."
+  },
+  {
+    "id": "If time travel was real, where would you go?",
+    "text": "I’d go to the future and see how humanity has evolved. Maybe we’d be living among the stars."
+  },
+  {
+    "id": "Why do black holes fascinate scientists so much?",
+    "text": "Because they’re mysterious. They bend time and space, and we still don’t fully understand what happens inside."
+  },
+  {
+    "id": "Do you think aliens exist?",
+    "text": "With billions of galaxies and trillions of planets, it’s hard to believe we’re the only ones here."
+  },
+  {
+    "id": "What’s the most beautiful thing about the universe for you?",
+    "text": "The fact that we’re made of stardust. It feels magical that the universe created us to admire itself."
+  },
+  {
+    "id": "If the sun suddenly disappeared, what would happen?",
+    "text": "We wouldn’t notice immediately. It takes light 8 minutes to reach Earth, so we’d have 8 minutes of normalcy."
+  },
+  {
+    "id": "Do you believe the universe has an end?",
+    "text": "That’s tricky. Some theories say it’s infinite, others say it might eventually collapse or tear apart."
+  },
+  {
+    "id": "Why do people say the universe is like a simulation?",
+    "text": "Because certain patterns in physics resemble computer code. It makes some wonder if reality is programmed."
+  },
+  {
+    "id": "Did you see the James Webb telescope images?",
+    "text": "Yes! The galaxies looked so detailed, it felt like looking back in time."
+  },
+  {
+    "id": "Do you believe there could be life beyond Earth?",
+    "text": "Honestly, the universe is too big for us to be alone. There must be something out there."
+  },
+  {
+    "id": "What do you think is beyond the observable universe?",
+    "text": "Maybe more universes, or just infinite space we can’t comprehend."
+  },
+  {
+    "id": "If we could travel at the speed of light, where would you want to go?",
+    "text": "Definitely Andromeda Galaxy! It's the closest big one to us."
+  },
+  {
+    "id": "Do you think black holes destroy everything inside?",
+    "text": "Some scientists think they might actually be gateways to other dimensions."
+  },
+  {
+    "id": "Imagine if humans colonized Mars, how would life change?",
+    "text": "We’d become a multi-planet species, which would be a huge step for survival."
+  },
+  {
+    "id": "What’s scarier: endless space or the idea that space ends somewhere?",
+    "text": "Both! Endless space is overwhelming, but an edge to the universe is equally mind-blowing."
+  },
+  {
+    "id": "If aliens contacted us, do you think governments would reveal it?",
+    "text": "Maybe not right away, they’d probably keep it secret until they understood more."
+  },
+  {
+    "id": "Do you think time travel is possible?",
+    "text": "If we figure out how to bend spacetime, maybe. Wormholes could be the key."
+  },
+  {
+    "id": "What fascinates you more: stars or black holes?",
+    "text": "Stars give life, but black holes are mysterious. I’d pick black holes."
+  },
+  {
+    "id": "I feel like no one understands me anymore.",
+    "text": "Sometimes it feels that way, but trust me, you’re not alone. I understand you and I’m here."
+  },
+  {
+    "id": "I failed again... I don’t think I’ll ever succeed.",
+    "text": "Failing doesn’t mean the end. It just means you’re closer to learning what works. Don’t give up."
+  },
+  {
+    "id": "Why do people leave when I need them the most?",
+    "text": "Not everyone is meant to stay forever. Some leave so you can discover your own strength."
+  },
+  {
+    "id": "I miss the old days when everything felt simple.",
+    "text": "Me too… but sometimes new chapters bring better memories than the old ones."
+  },
+  {
+    "id": "I’m scared about the future. What if I can’t handle it?",
+    "text": "The future isn’t meant to be feared, it’s meant to be created. And you’re strong enough to shape it."
+  },
+  {
+    "id": "Why does love hurt so much?",
+    "text": "Because it means you cared deeply. Pain shows your heart is alive, and capable of even greater love."
+  },
+  {
+    "id": "Sometimes I just want to disappear.",
+    "text": "If you feel like that, it means you’re carrying too much alone. Share your pain, don’t carry it all yourself."
+  },
+  {
+    "id": "I feel worthless compared to others.",
+    "text": "You are not worthless. You bring a light that no one else can, even if you don’t see it yet."
+  },
+  {
+    "id": "Life feels like it’s moving too fast for me.",
+    "text": "It’s okay to pause and breathe. You don’t have to race; life will wait for you."
+  },
+  {
+    "id": "I don’t know if I’ll ever be truly happy.",
+    "text": "Happiness isn’t a destination—it’s in the little moments. You’ve already felt it before, and you will again."
+  },
+  {
+    "id": "I feel like I’m not good enough no matter how much I try.",
+    "text": "You are more than enough. The effort you put in shows your strength, not your weakness."
+  },
+  {
+    "id": "Sometimes I just want to cry without any reason.",
+    "text": "Crying is not weakness, it’s release. Let it flow, your heart needs it too."
+  },
+  {
+    "id": "I miss the old days when everything felt simple.",
+    "text": "Memories are beautiful, but don’t forget you’re creating new ones every day."
+  },
+  {
+    "id": "Why does it hurt so much to be left behind?",
+    "text": "Because you loved deeply. Pain is just love’s shadow, it shows you cared."
+  },
+  {
+    "id": "I wish someone could understand me without me explaining everything.",
+    "text": "The right people will see your soul even in silence. Don’t lose hope."
+  },
+  {
+    "id": "I’m scared of losing the people I love.",
+    "text": "That fear comes from love itself. Treasure them in the present, it’s the best gift."
+  },
+  {
+    "id": "Why do goodbyes always feel so permanent?",
+    "text": "Because they carve a space in your heart. But remember, every goodbye leaves room for a new hello."
+  },
+  {
+    "id": "I feel lonely even in a crowd.",
+    "text": "Loneliness isn’t about people around you, it’s about connection. You deserve someone who truly sees you."
+  },
+  {
+    "id": "Why does love fade over time?",
+    "text": "Love doesn’t fade, it transforms. Sometimes into friendship, sometimes into lessons, but it always leaves something behind."
+  },
+  {
+    "id": "I don’t know if I’ll ever heal from this heartbreak.",
+    "text": "Healing isn’t about forgetting, it’s about learning to live with the memories without pain."
+  }
+]

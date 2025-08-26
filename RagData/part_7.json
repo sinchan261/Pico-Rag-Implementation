@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "what's the weather like?",
+    "text": "i don't know. i just woke up."
+  },
+  {
+    "id": "i don't know. i just woke up.",
+    "text": "why don't you look outside?"
+  },
+  {
+    "id": "why don't you look outside?",
+    "text": "okay. it looks like rain."
+  },
+  {
+    "id": "okay. it looks like rain.",
+    "text": "why do you say that?"
+  },
+  {
+    "id": "why do you say that?",
+    "text": "the sky is gray."
+  },
+  {
+    "id": "the sky is gray.",
+    "text": "is it raining right now?"
+  },
+  {
+    "id": "is it raining right now?",
+    "text": "no."
+  },
+  {
+    "id": "no.",
+    "text": "how do you know?"
+  },
+  {
+    "id": "how do you know?",
+    "text": "the street isn't wet."
+  },
+  {
+    "id": "the street isn't wet.",
+    "text": "i have to go shopping today."
+  },
+  {
+    "id": "i have to go shopping today.",
+    "text": "you'd better take an umbrella."
+  },
+  {
+    "id": "i can't believe how hot it is.",
+    "text": "it's not even noon yet."
+  },
+  {
+    "id": "it's not even noon yet.",
+    "text": "that means it will get hotter."
+  },
+  {
+    "id": "that means it will get hotter.",
+    "text": "i am dying from the heat."
+  },
+  {
+    "id": "i am dying from the heat.",
+    "text": "turn on the air conditioner."
+  },
+  {
+    "id": "turn on the air conditioner.",
+    "text": "it doesn't work."
+  },
+  {
+    "id": "it doesn't work.",
+    "text": "what happened?"
+  },
+  {
+    "id": "what happened?",
+    "text": "i don't know."
+  },
+  {
+    "id": "i don't know.",
+    "text": "did you call the repairman?"
+  },
+  {
+    "id": "did you call the repairman?",
+    "text": "of course."
+  },
+  {
+    "id": "of course.",
+    "text": "when is he coming?"
+  },
+  {
+    "id": "when is he coming?",
+    "text": "he's busy. he said next week."
+  },
+  {
+    "id": "i'll be glad when winter comes.",
+    "text": "why is that?"
+  },
+  {
+    "id": "why is that?",
+    "text": "because i love the snow."
+  },
+  {
+    "id": "because i love the snow.",
+    "text": "yes, the snow is fun."
+  },
+  {
+    "id": "yes, the snow is fun.",
+    "text": "last year we made a big snowman."
+  },
+  {
+    "id": "last year we made a big snowman.",
+    "text": "how big was it?"
+  },
+  {
+    "id": "how big was it?",
+    "text": "it was seven feet tall."
+  },
+  {
+    "id": "it was seven feet tall.",
+    "text": "how long did it take?"
+  },
+  {
+    "id": "how long did it take?",
+    "text": "it took us all day."
+  },
+  {
+    "id": "it took us all day.",
+    "text": "did you give him a nose?"
+  },
+  {
+    "id": "did you give him a nose?",
+    "text": "of course. we gave him a big carrot for a nose."
+  },
+  {
+    "id": "of course. we gave him a big carrot for a nose.",
+    "text": "let me help you make one this year."
+  },
+  {
+    "id": "i'm going to the bank.",
+    "text": "what do you need to do?"
+  },
+  {
+    "id": "what do you need to do?",
+    "text": "i need to withdraw some money."
+  },
+  {
+    "id": "i need to withdraw some money.",
+    "text": "how are you going to do that?"
+  },
+  {
+    "id": "how are you going to do that?",
+    "text": "i'll just use the atm."
+  },
+  {
+    "id": "i'll just use the atm.",
+    "text": "what's that?"
+  },
+  {
+    "id": "what's that?",
+    "text": "it's the automatic teller machine."
+  },
+  {
+    "id": "it's the automatic teller machine.",
+    "text": "it gives you money?"
+  },
+  {
+    "id": "it gives you money?",
+    "text": "i just insert my debit card into the machine."
+  },
+  {
+    "id": "i just insert my debit card into the machine.",
+    "text": "and it gives you money?"
+  },
+  {
+    "id": "and it gives you money?",
+    "text": "well, it gives me money, but it's my own money."
+  },
+  {
+    "id": "well, it gives me money, but it's my own money.",
+    "text": "oh. what good is that? i thought it gave you free money."
+  },
+  {
+    "id": "did you put the blue bin out on the street?",
+    "text": "oh, no. i forgot."
+  },
+  {
+    "id": "oh, no. i forgot.",
+    "text": "well, you'd better take it out front."
+  },
+  {
+    "id": "well, you'd better take it out front.",
+    "text": "what time does the recycle truck come by?"
+  },
+  {
+    "id": "what time does the recycle truck come by?",
+    "text": "it usually gets here at noon on tuesday, which is tomorrow."
+  },
+  {
+    "id": "it usually gets here at noon on tuesday, which is tomorrow.",
+    "text": "i'll just take it out to the street tomorrow morning."
+  },
+  {
+    "id": "i'll just take it out to the street tomorrow morning.",
+    "text": "oh, no, you don't."
+  },
+  {
+    "id": "oh, no, you don't.",
+    "text": "what do you mean?"
+  },
+  {
+    "id": "what do you mean?",
+    "text": "every morning you get up late and rush off to work late."
+  },
+  {
+    "id": "every morning you get up late and rush off to work late.",
+    "text": "do you think i'll forget to do it?"
+  },
+  {
+    "id": "do you think i'll forget to do it?",
+    "text": "you'll remember to do it, but you won't have time to do it."
+  },
+  {
+    "id": "you'll remember to do it, but you won't have time to do it.",
+    "text": "okay, i'll take it out front right now."
+  },
+  {
+    "id": "are you ready?",
+    "text": "ready for what?"
+  },
+  {
+    "id": "ready for what?",
+    "text": "ready for the big switch."
+  },
+  {
+    "id": "ready for the big switch.",
+    "text": "what are you talking about?"
+  },
+  {
+    "id": "what are you talking about?",
+    "text": "the nation is switching to digital tv."
+  },
+  {
+    "id": "the nation is switching to digital tv.",
+    "text": "oh. of course i'm ready."
+  },
+  {
+    "id": "oh. of course i'm ready.",
+    "text": "did you buy the converter?"
+  },
+  {
+    "id": "did you buy the converter?",
+    "text": "no, i don't need a converter because i bought a digital tv."
+  },
+  {
+    "id": "no, i don't need a converter because i bought a digital tv.",
+    "text": "how much was that?"
+  },
+  {
+    "id": "how much was that?",
+    "text": "it was only about $120 for a 13-inch screen."
+  },
+  {
+    "id": "it was only about $120 for a 13-inch screen.",
+    "text": "does it pick up any digital channels?"
+  },
+  {
+    "id": "does it pick up any digital channels?",
+    "text": "oh, yes. i get six korean channels but nothing in english!"
+  },
+  {
+    "id": "people are funny.",
+    "text": "they sure are."
+  },
+  {
+    "id": "they sure are.",
+    "text": "did you hear about the pilot?"
+  },
+  {
+    "id": "did you hear about the pilot?",
+    "text": "the one that stole a small plane?"
+  },
+  {
+    "id": "the one that stole a small plane?",
+    "text": "yes, he stole a plane in canada and flew into the u.s."
+  },
+  {
+    "id": "yes, he stole a plane in canada and flew into the u.s.",
+    "text": "did they catch him?"
+  },
+  {
+    "id": "did they catch him?",
+    "text": "yes. after two u.s. fighter jets followed him for an hour, he landed on a highway."
+  },
+  {
+    "id": "yes. after two u.s. fighter jets followed him for an hour, he landed on a highway.",
+    "text": "did he crash?"
+  },
+  {
+    "id": "did he crash?",
+    "text": "no, he just landed the plane and walked to a restaurant."
+  },
+  {
+    "id": "no, he just landed the plane and walked to a restaurant.",
+    "text": "did the cops find out why he flew into the u.s.?"
+  },
+  {
+    "id": "did the cops find out why he flew into the u.s.?",
+    "text": "his life sucked. he was hoping a fighter jet would shoot him down."
+  },
+  {
+    "id": "his life sucked. he was hoping a fighter jet would shoot him down.",
+    "text": "poor guy."
+  },
+  {
+    "id": "the police need our help finding a robber.",
+    "text": "how do you know?"
+  },
+  {
+    "id": "how do you know?",
+    "text": "the tv news is reporting a bank robbery."
+  },
+  {
+    "id": "the tv news is reporting a bank robbery.",
+    "text": "do they know what the robber looks like?"
+  },
+  {
+    "id": "do they know what the robber looks like?",
+    "text": "yes, he's 6 feet tall, 200 pounds, black hair, and about 30 years old."
+  },
+  {
+    "id": "yes, he's 6 feet tall, 200 pounds, black hair, and about 30 years old.",
+    "text": "what race is he?"
+  },
+  {
+    "id": "what race is he?",
+    "text": "they didn't say."
+  },
+  {
+    "id": "they didn't say.",
+    "text": "the tv news doesn't tell us the race anymore."
+  },
+  {
+    "id": "the tv news doesn't tell us the race anymore.",
+    "text": "of course not. that would be racist."
+  },
+  {
+    "id": "of course not. that would be racist.",
+    "text": "but how can we identify someone if we don't know their race?"
+  },
+  {
+    "id": "but how can we identify someone if we don't know their race?",
+    "text": "don't ask me."
+  },
+  {
+    "id": "don't ask me.",
+    "text": "then they also shouldn't tell us if the robber is male or female, because that is sexist."
+  },
+  {
+    "id": "don't wipe your nose on your sleeve.",
+    "text": "but i don't have a tissue."
+  },
+  {
+    "id": "but i don't have a tissue.",
+    "text": "then go find a tissue in the bathroom."
+  },
+  {
+    "id": "then go find a tissue in the bathroom.",
+    "text": "i didn't have time to get one from there."
+  },
+  {
+    "id": "i didn't have time to get one from there.",
+    "text": "your sleeves are not tissues."
+  },
+  {
+    "id": "your sleeves are not tissues.",
+    "text": "but mom, all my friends use their sleeves."
+  },
+  {
+    "id": "but mom, all my friends use their sleeves.",
+    "text": "that doesn't make it right."
+  },
+  {
+    "id": "that doesn't make it right.",
+    "text": "i saw dad wipe his nose on his sleeve yesterday."
+  },
+  {
+    "id": "i saw dad wipe his nose on his sleeve yesterday.",
+    "text": "i will talk to your father about that."
+  },
+  {
+    "id": "i will talk to your father about that.",
+    "text": "i bet dad did it all the time when he was my age."
+  },
+  {
+    "id": "i bet dad did it all the time when he was my age.",
+    "text": "your daddy was a good little boy."
+  },
+  {
+    "id": "your daddy was a good little boy.",
+    "text": "how do you know? were you his mommy, too?"
+  },
+  {
+    "id": "i'm worried.",
+    "text": "worried about what?"
+  },
+  {
+    "id": "worried about what?",
+    "text": "i'm getting married."
+  },
+  {
+    "id": "i'm getting married.",
+    "text": "you should be happy, not worried."
+  },
+  {
+    "id": "you should be happy, not worried.",
+    "text": "i am happy, but marriage is a lot of responsibility."
+  },
+  {
+    "id": "i am happy, but marriage is a lot of responsibility.",
+    "text": "yes, you have to take care of your wife."
+  },
+  {
+    "id": "yes, you have to take care of your wife.",
+    "text": "and i have to take care of our children."
+  },
+  {
+    "id": "and i have to take care of our children.",
+    "text": "are you going to start a family?"
+  },
+  {
+    "id": "are you going to start a family?",
+    "text": "yes. we want to have a little boy and a little girl."
+  },
+  {
+    "id": "yes. we want to have a little boy and a little girl.",
+    "text": "that sounds wonderful."
+  },
+  {
+    "id": "that sounds wonderful.",
+    "text": "except we can't afford it!"
+  },
+  {
+    "id": "except we can't afford it!",
+    "text": "no wonder you're worried."
+  },
+  {
+    "id": "i don't get art.",
+    "text": "or artists."
+  },
+  {
+    "id": "or artists.",
+    "text": "they're in a different world."
+  },
+  {
+    "id": "they're in a different world.",
+    "text": "i saw a painting of a jar that was full of pencils."
+  },
+  {
+    "id": "i saw a painting of a jar that was full of pencils.",
+    "text": "the artist said the jar was both full and empty."
+  },
+  {
+    "id": "the artist said the jar was both full and empty.",
+    "text": "but it was full of pencils! how could he say it was empty?"
+  },
+  {
+    "id": "but it was full of pencils! how could he say it was empty?",
+    "text": "artists see things differently."
+  },
+  {
+    "id": "artists see things differently.",
+    "text": "did you ever see anything that picasso painted?"
+  },
+  {
+    "id": "did you ever see anything that picasso painted?",
+    "text": "of course! he's world famous."
+  },
+  {
+    "id": "of course! he's world famous.",
+    "text": "did he ever take art lessons?"
+  },
+  {
+    "id": "did he ever take art lessons?",
+    "text": "i can't believe it. i drew paintings like that in third grade."
+  },
+  {
+    "id": "i can't believe it. i drew paintings like that in third grade.",
+    "text": "where are they? maybe they are worth millions."
+  },
+  {
+    "id": "what's the point?",
+    "text": "the point of what?"
+  },
+  {
+    "id": "the point of what?",
+    "text": "of living."
+  },
+  {
+    "id": "of living.",
+    "text": "who knows? you live, and then you die."
+  },
+  {
+    "id": "who knows? you live, and then you die.",
+    "text": "we must be here for some reason."
+  },
+  {
+    "id": "we must be here for some reason.",
+    "text": "maybe we're here to have fun."
+  },
+  {
+    "id": "maybe we're here to have fun.",
+    "text": "then why aren't i having fun?"
+  },
+  {
+    "id": "then why aren't i having fun?",
+    "text": "because you're thinking too much."
+  },
+  {
+    "id": "because you're thinking too much.",
+    "text": "so i should stop thinking?"
+  },
+  {
+    "id": "so i should stop thinking?",
+    "text": "stop thinking about what the point is."
+  },
+  {
+    "id": "stop thinking about what the point is.",
+    "text": "okay. i'll start thinking about having some fun."
+  },
+  {
+    "id": "okay. i'll start thinking about having some fun.",
+    "text": "just be patient. fun doesn't come along every five minutes."
+  },
+  {
+    "id": "beer is a powerful drug.",
+    "text": "so are cigarettes."
+  },
+  {
+    "id": "so are cigarettes.",
+    "text": "which would you prefer?"
+  },
+  {
+    "id": "which would you prefer?",
+    "text": "what do you mean?"
+  },
+  {
+    "id": "what do you mean?",
+    "text": "when you die and go to heaven, they will offer you beer or cigarettes."
+  },
+  {
+    "id": "when you die and go to heaven, they will offer you beer or cigarettes.",
+    "text": "i could pick only one or the other?"
+  },
+  {
+    "id": "i could pick only one or the other?",
+    "text": "yes. nothing's perfect, not even in heaven."
+  },
+  {
+    "id": "yes. nothing's perfect, not even in heaven.",
+    "text": "boy, that's a tough one."
+  },
+  {
+    "id": "boy, that's a tough one.",
+    "text": "what's so tough about it? of course, i would pick cigarettes."
+  },
+  {
+    "id": "what's so tough about it? of course, i would pick cigarettes.",
+    "text": "but cigarettes taste much better when you have a cold beer."
+  },
+  {
+    "id": "but cigarettes taste much better when you have a cold beer.",
+    "text": "well, you can't have everything."
+  },
+  {
+    "id": "well, you can't have everything.",
+    "text": "i don't think i want to go to your heaven."
+  },
+  {
+    "id": "my pants have a hole in the front pocket.",
+    "text": "you shouldn't carry pens in your pocket."
+  },
+  {
+    "id": "you shouldn't carry pens in your pocket.",
+    "text": "yesterday a pen fell through my pants onto my shoe."
+  },
+  {
+    "id": "yesterday a pen fell through my pants onto my shoe.",
+    "text": "lucky for you it wasn't a sharp knife."
+  },
+  {
+    "id": "lucky for you it wasn't a sharp knife.",
+    "text": "who carries a sharp knife in their pocket?"
+  },
+  {
+    "id": "who carries a sharp knife in their pocket?",
+    "text": "criminals, of course."
+  },
+  {
+    "id": "criminals, of course.",
+    "text": "anyway, i have to fix the hole."
+  },
+  {
+    "id": "anyway, i have to fix the hole.",
+    "text": "you can sew it up or use an iron-on patch."
+  },
+  {
+    "id": "you can sew it up or use an iron-on patch.",
+    "text": "tell me about this patch."
+  },
+  {
+    "id": "tell me about this patch.",
+    "text": "the patch has glue. the hot iron melts the glue so the patch sticks on."
+  },
+  {
+    "id": "the patch has glue. the hot iron melts the glue so the patch sticks on.",
+    "text": "that sounds a lot easier than sewing."
+  },
+  {
+    "id": "that sounds a lot easier than sewing.",
+    "text": "it is. but after about ten washings, the glue washes off."
+  },
+  {
+    "id": "do you know any good jokes?",
+    "text": "i can't remember jokes."
+  },
+  {
+    "id": "i can't remember jokes.",
+    "text": "neither can i."
+  },
+  {
+    "id": "neither can i.",
+    "text": "they go in one ear and out the other."
+  },
+  {
+    "id": "they go in one ear and out the other.",
+    "text": "who makes up all these jokes?"
+  },
+  {
+    "id": "who makes up all these jokes?",
+    "text": "who knows? but there must be a hundred new ones every day."
+  },
+  {
+    "id": "who knows? but there must be a hundred new ones every day.",
+    "text": "yes, just in english alone."
+  },
+  {
+    "id": "yes, just in english alone.",
+    "text": "i wonder if every language has jokes."
+  },
+  {
+    "id": "i wonder if every language has jokes.",
+    "text": "of course! people everywhere like good jokes."
+  },
+  {
+    "id": "of course! people everywhere like good jokes.",
+    "text": "what do you think people joke about the most?"
+  },
+  {
+    "id": "what do you think people joke about the most?",
+    "text": "i think most jokes are about women."
+  },
+  {
+    "id": "i think most jokes are about women.",
+    "text": "oh, really? i think most jokes are about men!"
+  },
+  {
+    "id": "you're very lucky.",
+    "text": "why do you say that?"
+  },
+  {
+    "id": "why do you say that?",
+    "text": "you speak two languages."
+  },
+  {
+    "id": "you speak two languages.",
+    "text": "well, my english isn't perfect."
+  },
+  {
+    "id": "well, my english isn't perfect.",
+    "text": "no one speaks perfect english."
+  },
+  {
+    "id": "no one speaks perfect english.",
+    "text": "maybe i will be the first!"
+  },
+  {
+    "id": "maybe i will be the first!",
+    "text": "i've been thinking about learning spanish."
+  },
+  {
+    "id": "i've been thinking about learning spanish.",
+    "text": "spanish is easy. i'll be happy to teach you."
+  },
+  {
+    "id": "spanish is easy. i'll be happy to teach you.",
+    "text": "how long will it take me to learn?"
+  },
+  {
+    "id": "how long will it take me to learn?",
+    "text": "i think it will only take you a year or two."
+  },
+  {
+    "id": "i think it will only take you a year or two.",
+    "text": "how soon can we begin?"
+  },
+  {
+    "id": "how soon can we begin?",
+    "text": "ahora! that means right now."
+  },
+  {
+    "id": "do you know what today is?",
+    "text": "yes, it's april 22."
+  },
+  {
+    "id": "yes, it's april 22.",
+    "text": "it's more than just a date."
+  },
+  {
+    "id": "it's more than just a date.",
+    "text": "is it your birthday or anniversary?"
+  },
+  {
+    "id": "is it your birthday or anniversary?",
+    "text": "no, it's earth day."
+  },
+  {
+    "id": "no, it's earth day.",
+    "text": "what's that?"
+  },
+  {
+    "id": "what's that?",
+    "text": "it's a yearly reminder to take care of our planet."
+  },
+  {
+    "id": "it's a yearly reminder to take care of our planet.",
+    "text": "oh, you mean like reuse things and recycle stuff?"
+  },
+  {
+    "id": "oh, you mean like reuse things and recycle stuff?",
+    "text": "yes. we need to think green, save water, and stop using plastic bags."
+  },
+  {
+    "id": "yes. we need to think green, save water, and stop using plastic bags.",
+    "text": "how about if i take shorter showers?"
+  },
+  {
+    "id": "how about if i take shorter showers?",
+    "text": "that's a good idea, because showers waste a lot of water."
+  },
+  {
+    "id": "that's a good idea, because showers waste a lot of water.",
+    "text": "from now on i'll spend only 20 minutes in the shower."
+  },
+  {
+    "id": "poetry sucks.",
+    "text": "i don't know anyone who likes it."
+  },
+  {
+    "id": "i don't know anyone who likes it.",
+    "text": "some of it is okay, i guess."
+  },
+  {
+    "id": "some of it is okay, i guess.",
+    "text": "yes, the poems that rhyme and are easy to remember."
+  },
+  {
+    "id": "yes, the poems that rhyme and are easy to remember.",
+    "text": "like \"one, two, buckle my shoe.\""
+  },
+  {
+    "id": "like \"one, two, buckle my shoe.\"",
+    "text": "but people still write poems."
+  },
+  {
+    "id": "but people still write poems.",
+    "text": "no one makes any money at it."
+  },
+  {
+    "id": "no one makes any money at it.",
+    "text": "shakespeare was a poet."
+  },
+  {
+    "id": "shakespeare was a poet.",
+    "text": "did he get rich from his poetry?"
+  },
+  {
+    "id": "did he get rich from his poetry?",
+    "text": "probably not."
+  },
+  {
+    "id": "probably not.",
+    "text": "poems are a little bit like songs."
+  },
+  {
+    "id": "poems are a little bit like songs.",
+    "text": "yes, but songs have music. without music, songs would suck, too."
+  },
+  {
+    "id": "how smart are you?",
+    "text": "i don't know. i think i'm average."
+  },
+  {
+    "id": "i don't know. i think i'm average.",
+    "text": "did you ever take an iq test?"
+  },
+  {
+    "id": "did you ever take an iq test?",
+    "text": "no, i never did. all i know is that i got a's and b's in school."
+  },
+  {
+    "id": "no, i never did. all i know is that i got a's and b's in school.",
+    "text": "i wish i was really smart."
+  },
+  {
+    "id": "i wish i was really smart.",
+    "text": "don't be ridiculous."
+  },
+  {
+    "id": "don't be ridiculous.",
+    "text": "what do you mean?"
+  },
+  {
+    "id": "what do you mean?",
+    "text": "if you're going to make a wish, wish that you were really rich or famous."
+  },
+  {
+    "id": "if you're going to make a wish, wish that you were really rich or famous.",
+    "text": "don't you ever wonder what it's like to be super-smart?"
+  },
+  {
+    "id": "don't you ever wonder what it's like to be super-smart?",
+    "text": "it must be very lonely."
+  },
+  {
+    "id": "it must be very lonely.",
+    "text": "why's that?"
+  },
+  {
+    "id": "why's that?",
+    "text": "because if you're super-smart, no one understands what you're saying."
+  },
+  {
+    "id": "i missed the tv news last night. what was on?",
+    "text": "nothing that would pass as news."
+  },
+  {
+    "id": "nothing that would pass as news.",
+    "text": "what's the weather going to be like this weekend?"
+  },
+  {
+    "id": "what's the weather going to be like this weekend?",
+    "text": "i don't know. whenever the weather comes on, i switch channels."
+  },
+  {
+    "id": "i don't know. whenever the weather comes on, i switch channels.",
+    "text": "what was the lead story on the news?"
+  },
+  {
+    "id": "what was the lead story on the news?",
+    "text": "some actress was in court for driving without a license."
+  },
+  {
+    "id": "some actress was in court for driving without a license.",
+    "text": "what was the second story?"
+  },
+  {
+    "id": "what was the second story?",
+    "text": "some actor married a woman young enough to be his daughter."
+  },
+  {
+    "id": "some actor married a woman young enough to be his daughter.",
+    "text": "what was the third story?"
+  },
+  {
+    "id": "what was the third story?",
+    "text": "a bull chased a man in a supermarket."
+  },
+  {
+    "id": "a bull chased a man in a supermarket.",
+    "text": "wasn't there anything about octo-mom?"
+  },
+  {
+    "id": "wasn't there anything about octo-mom?",
+    "text": "of course. she's going to hire a nanny for her eight infants."
+  },
+  {
+    "id": "what are you going to do about your death?",
+    "text": "well, mostly i'll try to avoid it."
+  },
+  {
+    "id": "well, mostly i'll try to avoid it.",
+    "text": "i mean, are you going to get buried or cremated?"
+  },
+  {
+    "id": "i mean, are you going to get buried or cremated?",
+    "text": "my wife and i will be cremated."
+  },
+  {
+    "id": "my wife and i will be cremated.",
+    "text": "are you going to be buried next to each other?"
+  },
+  {
+    "id": "are you going to be buried next to each other?",
+    "text": "oh, no. our ashes will be shaken into the ocean."
+  },
+  {
+    "id": "oh, no. our ashes will be shaken into the ocean.",
+    "text": "you're not going to be buried?"
+  },
+  {
+    "id": "you're not going to be buried?",
+    "text": "a coffin costs too much and takes up too much space."
+  },
+  {
+    "id": "a coffin costs too much and takes up too much space.",
+    "text": "yes, but it will be in a cemetery where your children can visit you."
+  },
+  {
+    "id": "yes, but it will be in a cemetery where your children can visit you.",
+    "text": "children seldom visit their parents in a cemetery."
+  },
+  {
+    "id": "children seldom visit their parents in a cemetery.",
+    "text": "that's true. a cemetery is for dead people, not living people."
+  },
+  {
+    "id": "that's true. a cemetery is for dead people, not living people.",
+    "text": "we figure our kids can visit us whenever they go to the beach."
+  },
+  {
+    "id": "did you wipe your feet? ",
+    "text": "yes, of course i wiped my feet."
+  },
+  {
+    "id": "yes, of course i wiped my feet.",
+    "text": "then why is there mud on the carpet?"
+  },
+  {
+    "id": "then why is there mud on the carpet?",
+    "text": "i don't know. it's not my mud."
+  },
+  {
+    "id": "i don't know. it's not my mud.",
+    "text": "well, someone brought it into the house."
+  },
+  {
+    "id": "well, someone brought it into the house.",
+    "text": "look at the bottom of my shoesÂ—they're clean."
+  },
+  {
+    "id": "look at the bottom of my shoesÂ—they're clean.",
+    "text": "of course they're clean. you left all the mud on the carpet."
+  },
+  {
+    "id": "of course they're clean. you left all the mud on the carpet.",
+    "text": "okay, i'll get the vacuum cleaner."
+  },
+  {
+    "id": "okay, i'll get the vacuum cleaner.",
+    "text": "don't vacuum it now."
+  },
+  {
+    "id": "don't vacuum it now.",
+    "text": "don't you want me to clean up the mud?"
+  },
+  {
+    "id": "don't you want me to clean up the mud?",
+    "text": "wait till it dries. it will be easier to vacuum."
+  },
+  {
+    "id": "wait till it dries. it will be easier to vacuum.",
+    "text": "next time i will be more careful."
+  },
+  {
+    "id": "what are you getting for your mom?",
+    "text": "what are you talking about?"
+  },
+  {
+    "id": "what are you talking about?",
+    "text": "sunday is mother's day."
+  },
+  {
+    "id": "sunday is mother's day.",
+    "text": "this sunday?"
+  },
+  {
+    "id": "this sunday?",
+    "text": "of course. it's all over the news."
+  },
+  {
+    "id": "of course. it's all over the news.",
+    "text": "i thought it was next sunday."
+  },
+  {
+    "id": "i thought it was next sunday.",
+    "text": "well, you'd better get her something."
+  },
+  {
+    "id": "well, you'd better get her something.",
+    "text": "i'll get her a nice card."
+  },
+  {
+    "id": "i'll get her a nice card.",
+    "text": "is that it?"
+  },
+  {
+    "id": "is that it?",
+    "text": "yes. that's all i ever give her."
+  },
+  {
+    "id": "yes. that's all i ever give her.",
+    "text": "she raised you, and all you ever give her is a card?"
+  },
+  {
+    "id": "she raised you, and all you ever give her is a card?",
+    "text": "it's okay. she knows that i love her."
+  },
+  {
+    "id": "i don't like our flag.",
+    "text": "what's the matter with it?"
+  },
+  {
+    "id": "what's the matter with it?",
+    "text": "it's too much like other flags."
+  },
+  {
+    "id": "it's too much like other flags.",
+    "text": "yes, a lot of flags have stripes."
+  },
+  {
+    "id": "yes, a lot of flags have stripes.",
+    "text": "a flag should be pretty."
+  },
+  {
+    "id": "a flag should be pretty.",
+    "text": "what should our flag look like?"
+  },
+  {
+    "id": "what should our flag look like?",
+    "text": "it should have a pretty woman on it."
+  },
+  {
+    "id": "it should have a pretty woman on it.",
+    "text": "that's ridiculous!"
+  },
+  {
+    "id": "that's ridiculous!",
+    "text": "you don't like pretty women?"
+  },
+  {
+    "id": "you don't like pretty women?",
+    "text": "of course i do. but not on our flag!"
+  },
+  {
+    "id": "of course i do. but not on our flag!",
+    "text": "every nation should have a pretty woman on their flag."
+  },
+  {
+    "id": "every nation should have a pretty woman on their flag.",
+    "text": "you can't go to war carrying a flag with a woman on it!"
+  },
+  {
+    "id": "i had a busy morning.",
+    "text": "what did you do?"
+  },
+  {
+    "id": "what did you do?",
+    "text": "i watered all the plants."
+  },
+  {
+    "id": "i watered all the plants.",
+    "text": "you have a lot of plants."
+  },
+  {
+    "id": "you have a lot of plants.",
+    "text": "then i did my laundry."
+  },
+  {
+    "id": "then i did my laundry.",
+    "text": "that takes some time."
+  },
+  {
+    "id": "that takes some time.",
+    "text": "i took the dog for a walk."
+  },
+  {
+    "id": "i took the dog for a walk.",
+    "text": "i'll bet he enjoyed his walk."
+  },
+  {
+    "id": "i'll bet he enjoyed his walk.",
+    "text": "i vacuumed the entire house."
+  },
+  {
+    "id": "i vacuumed the entire house.",
+    "text": "that's a lot of work."
+  },
+  {
+    "id": "that's a lot of work.",
+    "text": "and then i made lunch."
+  },
+  {
+    "id": "and then i made lunch.",
+    "text": "i'll bet you were hungry!"
+  },
+  {
+    "id": "i don't have long distance service with my home phone.",
+    "text": "so how do you make long distance calls?"
+  },
+  {
+    "id": "so how do you make long distance calls?",
+    "text": "i use a calling card."
+  },
+  {
+    "id": "i use a calling card.",
+    "text": "where do you get that?"
+  },
+  {
+    "id": "where do you get that?",
+    "text": "i buy it at the dollar store."
+  },
+  {
+    "id": "i buy it at the dollar store.",
+    "text": "how much is it?"
+  },
+  {
+    "id": "how much is it?",
+    "text": "it's one dollar for 100 minutes."
+  },
+  {
+    "id": "it's one dollar for 100 minutes.",
+    "text": "that's only a penny a minute!"
+  },
+  {
+    "id": "that's only a penny a minute!",
+    "text": "it's a great price. but you have to dial a lot of numbers."
+  },
+  {
+    "id": "it's a great price. but you have to dial a lot of numbers.",
+    "text": "how many?"
+  },
+  {
+    "id": "how many?",
+    "text": "first you dial seven numbers, then ten numbers, then ten more numbers."
+  },
+  {
+    "id": "first you dial seven numbers, then ten numbers, then ten more numbers.",
+    "text": "yikes. i think i'll keep my long distance service."
+  },
+  {
+    "id": "do you go to college?",
+    "text": "yes, i do."
+  },
+  {
+    "id": "yes, i do.",
+    "text": "what college do you go to?"
+  },
+  {
+    "id": "what college do you go to?",
+    "text": "i go to pasadena city college."
+  },
+  {
+    "id": "i go to pasadena city college.",
+    "text": "do you like it?"
+  },
+  {
+    "id": "do you like it?",
+    "text": "oh, yes, i really like it."
+  },
+  {
+    "id": "oh, yes, i really like it.",
+    "text": "why do you like it?"
+  },
+  {
+    "id": "why do you like it?",
+    "text": "because it has great teachers."
+  },
+  {
+    "id": "because it has great teachers.",
+    "text": "what else?"
+  },
+  {
+    "id": "what else?",
+    "text": "i like all my classmates, too."
+  },
+  {
+    "id": "i like all my classmates, too.",
+    "text": "anything else?"
+  },
+  {
+    "id": "anything else?",
+    "text": "yes. it's not expensive!"
+  },
+  {
+    "id": "i lost my new pen.",
+    "text": "where did you lose it?"
+  },
+  {
+    "id": "where did you lose it?",
+    "text": "i don't know."
+  },
+  {
+    "id": "i don't know.",
+    "text": "when did you lose it?"
+  }
+]

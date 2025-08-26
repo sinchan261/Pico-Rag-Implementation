@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "what's the rush?",
+    "text": "i have to get off the phone now."
+  },
+  {
+    "id": "i have to get off the phone now.",
+    "text": "i'm not ready to get off the phone with you."
+  },
+  {
+    "id": "i'm not ready to get off the phone with you.",
+    "text": "there are other things i need to take care of."
+  },
+  {
+    "id": "there are other things i need to take care of.",
+    "text": "what is it that you need to do? "
+  },
+  {
+    "id": "what is it that you need to do? ",
+    "text": "please don't be nosey."
+  },
+  {
+    "id": "please don't be nosey.",
+    "text": "i'm not being nosey, it's just a question."
+  },
+  {
+    "id": "i'm not being nosey, it's just a question.",
+    "text": "you don't need to worry about that."
+  },
+  {
+    "id": "you don't need to worry about that.",
+    "text": "that was mean to say."
+  },
+  {
+    "id": "that was mean to say.",
+    "text": "i am very sorry, but i must go."
+  },
+  {
+    "id": "well, it was nice talking to you.",
+    "text": "it was nice talking to you too."
+  },
+  {
+    "id": "it was nice talking to you too.",
+    "text": "we should really hang out again."
+  },
+  {
+    "id": "we should really hang out again.",
+    "text": "that would be fun."
+  },
+  {
+    "id": "that would be fun.",
+    "text": "where do you want to go?"
+  },
+  {
+    "id": "where do you want to go?",
+    "text": "i think we should go out to eat."
+  },
+  {
+    "id": "i think we should go out to eat.",
+    "text": "that sounds good."
+  },
+  {
+    "id": "that sounds good.",
+    "text": "all right, so i'll see you then."
+  },
+  {
+    "id": "all right, so i'll see you then.",
+    "text": "i'll call you later."
+  },
+  {
+    "id": "i'll call you later.",
+    "text": "okay, i'll talk to you later then."
+  },
+  {
+    "id": "okay, i'll talk to you later then.",
+    "text": "see you later."
+  },
+  {
+    "id": "see you later.",
+    "text": "bye."
+  },
+  {
+    "id": "i enjoyed talking to you.",
+    "text": "i enjoyed talking to you too."
+  },
+  {
+    "id": "i enjoyed talking to you too.",
+    "text": "we should hang out some time."
+  },
+  {
+    "id": "we should hang out some time.",
+    "text": "i think that would be nice."
+  },
+  {
+    "id": "i think that would be nice.",
+    "text": "is there anything you would like to do next time?"
+  },
+  {
+    "id": "is there anything you would like to do next time?",
+    "text": "do you want to go out to eat?"
+  },
+  {
+    "id": "do you want to go out to eat?",
+    "text": "i'd like that."
+  },
+  {
+    "id": "i'd like that.",
+    "text": "so i'll see you next time."
+  },
+  {
+    "id": "so i'll see you next time.",
+    "text": "i'm going to call you soon. "
+  },
+  {
+    "id": "i'm going to call you soon. ",
+    "text": "i'll talk to you later."
+  },
+  {
+    "id": "i'll talk to you later.",
+    "text": "see you soon."
+  },
+  {
+    "id": "see you soon.",
+    "text": "goodbye."
+  },
+  {
+    "id": "i had fun talking to you.",
+    "text": "it was really nice talking to you also."
+  },
+  {
+    "id": "it was really nice talking to you also.",
+    "text": "i think we should really do something sometime."
+  },
+  {
+    "id": "i think we should really do something sometime.",
+    "text": "that should be loads of fun."
+  },
+  {
+    "id": "that should be loads of fun.",
+    "text": "what do you want to do next time?"
+  },
+  {
+    "id": "what do you want to do next time?",
+    "text": "would you like to go to dinner or something?"
+  },
+  {
+    "id": "would you like to go to dinner or something?",
+    "text": "yeah, let's do that."
+  },
+  {
+    "id": "yeah, let's do that.",
+    "text": "okay, until next time then."
+  },
+  {
+    "id": "okay, until next time then.",
+    "text": "i'll call you so we can set that up."
+  },
+  {
+    "id": "i'll call you so we can set that up.",
+    "text": "talk to you then."
+  },
+  {
+    "id": "talk to you then.",
+    "text": "all right, see you."
+  },
+  {
+    "id": "where do you live?",
+    "text": "i live in pasadena."
+  },
+  {
+    "id": "i live in pasadena.",
+    "text": "where is pasadena?"
+  },
+  {
+    "id": "where is pasadena?",
+    "text": "it's in california."
+  },
+  {
+    "id": "it's in california.",
+    "text": "is it in northern california?"
+  },
+  {
+    "id": "is it in northern california?",
+    "text": "no. it's in southern california."
+  },
+  {
+    "id": "no. it's in southern california.",
+    "text": "is pasadena a big city?"
+  },
+  {
+    "id": "is pasadena a big city?",
+    "text": "it's pretty big."
+  },
+  {
+    "id": "it's pretty big.",
+    "text": "how big is \"pretty big\"?"
+  },
+  {
+    "id": "how big is \"pretty big\"?",
+    "text": "it has about 140,000 people."
+  },
+  {
+    "id": "it has about 140,000 people.",
+    "text": "how big is los angeles?"
+  },
+  {
+    "id": "how big is los angeles?",
+    "text": "it has about 3 million people."
+  },
+  {
+    "id": "do you have a car?",
+    "text": "yes, i do."
+  },
+  {
+    "id": "yes, i do.",
+    "text": "what kind of car do you have?"
+  },
+  {
+    "id": "what kind of car do you have?",
+    "text": "i have a honda."
+  },
+  {
+    "id": "i have a honda.",
+    "text": "is it new?"
+  },
+  {
+    "id": "is it new?",
+    "text": "it was new in 2003."
+  },
+  {
+    "id": "it was new in 2003.",
+    "text": "so, it's pretty old now."
+  },
+  {
+    "id": "so, it's pretty old now.",
+    "text": "yes, it is. but it still looks good."
+  },
+  {
+    "id": "yes, it is. but it still looks good.",
+    "text": "do you take good care of it?"
+  },
+  {
+    "id": "do you take good care of it?",
+    "text": "oh, yes. i wash it once a week."
+  },
+  {
+    "id": "oh, yes. i wash it once a week.",
+    "text": "do you change the oil?"
+  },
+  {
+    "id": "do you change the oil?",
+    "text": "my mechanic changes the oil twice a year."
+  },
+  {
+    "id": "do you have a girlfriend?",
+    "text": "no, i don't. do you?"
+  },
+  {
+    "id": "no, i don't. do you?",
+    "text": "i don't have a girlfriend, either."
+  },
+  {
+    "id": "i don't have a girlfriend, either.",
+    "text": "why not?"
+  },
+  {
+    "id": "why not?",
+    "text": "i don't know. maybe i'm not rich enough."
+  },
+  {
+    "id": "i don't know. maybe i'm not rich enough.",
+    "text": "girls like guys with money."
+  },
+  {
+    "id": "girls like guys with money.",
+    "text": "they sure do."
+  },
+  {
+    "id": "they sure do.",
+    "text": "they like guys with new cars."
+  },
+  {
+    "id": "they like guys with new cars.",
+    "text": "i don't have money or a new car."
+  },
+  {
+    "id": "i don't have money or a new car.",
+    "text": "me, neither."
+  },
+  {
+    "id": "me, neither.",
+    "text": "but girls like guys who are funny."
+  },
+  {
+    "id": "but girls like guys who are funny.",
+    "text": "maybe we should learn some good jokes."
+  },
+  {
+    "id": "where are you going?",
+    "text": "i have to walk the dog."
+  },
+  {
+    "id": "i have to walk the dog.",
+    "text": "what kind of dog do you have?"
+  },
+  {
+    "id": "what kind of dog do you have?",
+    "text": "i have a little poodle."
+  },
+  {
+    "id": "i have a little poodle.",
+    "text": "poodles bark a lot."
+  },
+  {
+    "id": "poodles bark a lot.",
+    "text": "they sure do."
+  },
+  {
+    "id": "they sure do.",
+    "text": "they bark at everything."
+  },
+  {
+    "id": "they bark at everything.",
+    "text": "they never shut up."
+  },
+  {
+    "id": "they never shut up.",
+    "text": "why did you get a poodle?"
+  },
+  {
+    "id": "why did you get a poodle?",
+    "text": "it's my mom's dog."
+  },
+  {
+    "id": "it's my mom's dog.",
+    "text": "so she likes poodles."
+  },
+  {
+    "id": "so she likes poodles.",
+    "text": "she says they're good watchdogs."
+  },
+  {
+    "id": "can i borrow $5?",
+    "text": "sure. why do you need it?"
+  },
+  {
+    "id": "sure. why do you need it?",
+    "text": "i want to buy lunch."
+  },
+  {
+    "id": "i want to buy lunch.",
+    "text": "where's your money?"
+  },
+  {
+    "id": "where's your money?",
+    "text": "it's not in my wallet."
+  },
+  {
+    "id": "it's not in my wallet.",
+    "text": "your wallet is empty?"
+  },
+  {
+    "id": "your wallet is empty?",
+    "text": "i don't have even one dollar in it."
+  },
+  {
+    "id": "i don't have even one dollar in it.",
+    "text": "being broke is no fun."
+  },
+  {
+    "id": "being broke is no fun.",
+    "text": "even if it's only for a short while."
+  },
+  {
+    "id": "even if it's only for a short while.",
+    "text": "it's always good to have friends."
+  },
+  {
+    "id": "it's always good to have friends.",
+    "text": "friends will lend you money when you're broke."
+  },
+  {
+    "id": "friends will lend you money when you're broke.",
+    "text": "as long as you pay them back."
+  },
+  {
+    "id": "let's go to the beach.",
+    "text": "that's a great idea."
+  },
+  {
+    "id": "that's a great idea.",
+    "text": "we haven't been in a while."
+  },
+  {
+    "id": "we haven't been in a while.",
+    "text": "we haven't been in a month."
+  },
+  {
+    "id": "we haven't been in a month.",
+    "text": "the last time we went, you almost drowned."
+  },
+  {
+    "id": "the last time we went, you almost drowned.",
+    "text": "no, i didn't."
+  },
+  {
+    "id": "no, i didn't.",
+    "text": "then why did the lifeguard dive into the water?"
+  },
+  {
+    "id": "then why did the lifeguard dive into the water?",
+    "text": "i think he wanted to cool off."
+  },
+  {
+    "id": "i think he wanted to cool off.",
+    "text": "he swam right up to you."
+  },
+  {
+    "id": "he swam right up to you.",
+    "text": "and then he turned right around."
+  },
+  {
+    "id": "and then he turned right around.",
+    "text": "maybe you're right."
+  },
+  {
+    "id": "maybe you're right.",
+    "text": "maybe we should get going."
+  },
+  {
+    "id": "are you married?",
+    "text": "no. i'm divorced."
+  },
+  {
+    "id": "no. i'm divorced.",
+    "text": "when did you get divorced?"
+  },
+  {
+    "id": "when did you get divorced?",
+    "text": "i got divorced two years ago."
+  },
+  {
+    "id": "i got divorced two years ago.",
+    "text": "why did you get divorced?"
+  },
+  {
+    "id": "why did you get divorced?",
+    "text": "my wife left me."
+  },
+  {
+    "id": "my wife left me.",
+    "text": "why did she leave you?"
+  },
+  {
+    "id": "why did she leave you?",
+    "text": "she said she didn't love me anymore."
+  },
+  {
+    "id": "she said she didn't love me anymore.",
+    "text": "wow! that's terrible."
+  },
+  {
+    "id": "wow! that's terrible.",
+    "text": "yes, it was."
+  },
+  {
+    "id": "yes, it was.",
+    "text": "why didn't she love you anymore?"
+  },
+  {
+    "id": "why didn't she love you anymore?",
+    "text": "she fell in love with my best friend."
+  },
+  {
+    "id": "i'm bored.",
+    "text": "what's on tv?"
+  },
+  {
+    "id": "what's on tv?",
+    "text": "nothing."
+  },
+  {
+    "id": "nothing.",
+    "text": "there must be something on tv!"
+  },
+  {
+    "id": "there must be something on tv!",
+    "text": "nothing that's interesting."
+  },
+  {
+    "id": "nothing that's interesting.",
+    "text": "what about that new game show?"
+  },
+  {
+    "id": "what about that new game show?",
+    "text": "which one?"
+  },
+  {
+    "id": "which one?",
+    "text": "\"deal or no deal\""
+  },
+  {
+    "id": "\"deal or no deal\"",
+    "text": "tell me you're joking."
+  },
+  {
+    "id": "tell me you're joking.",
+    "text": "i love that show."
+  },
+  {
+    "id": "i love that show.",
+    "text": "i watched it once. that was enough."
+  },
+  {
+    "id": "i watched it once. that was enough.",
+    "text": "it's on right now. let's watch it together."
+  },
+  {
+    "id": "i like living here.",
+    "text": "i agree. pasadena is a nice city."
+  },
+  {
+    "id": "i agree. pasadena is a nice city.",
+    "text": "it's not too big."
+  },
+  {
+    "id": "it's not too big.",
+    "text": "and it's not too small."
+  },
+  {
+    "id": "and it's not too small.",
+    "text": "it has great weather all year long."
+  },
+  {
+    "id": "it has great weather all year long.",
+    "text": "it has the rose parade."
+  },
+  {
+    "id": "it has the rose parade.",
+    "text": "it has beautiful houses."
+  },
+  {
+    "id": "it has beautiful houses.",
+    "text": "it has wonderful restaurants."
+  },
+  {
+    "id": "it has wonderful restaurants.",
+    "text": "it has great schools."
+  },
+  {
+    "id": "it has great schools.",
+    "text": "it's close to the mountains."
+  },
+  {
+    "id": "it's close to the mountains.",
+    "text": "the people are friendly."
+  },
+  {
+    "id": "the people are friendly.",
+    "text": "i'm not ever going to leave."
+  },
+  {
+    "id": "we need a new mattress.",
+    "text": "what's the matter with this one?"
+  },
+  {
+    "id": "what's the matter with this one?",
+    "text": "it's not comfortable."
+  },
+  {
+    "id": "it's not comfortable.",
+    "text": "it seems fine to me."
+  },
+  {
+    "id": "it seems fine to me.",
+    "text": "i toss and turn all night."
+  },
+  {
+    "id": "i toss and turn all night.",
+    "text": "you should stop drinking coffee."
+  },
+  {
+    "id": "you should stop drinking coffee.",
+    "text": "look at these marks on my arms."
+  },
+  {
+    "id": "look at these marks on my arms.",
+    "text": "what are they?"
+  },
+  {
+    "id": "what are they?",
+    "text": "they are bites."
+  },
+  {
+    "id": "they are bites.",
+    "text": "did the cat bite you?"
+  },
+  {
+    "id": "did the cat bite you?",
+    "text": "no. the bedbugs in that mattress bit me."
+  },
+  {
+    "id": "no. the bedbugs in that mattress bit me.",
+    "text": "okay. let's get a new mattress."
+  },
+  {
+    "id": "my laptop is so slow.",
+    "text": "buy a new one."
+  },
+  {
+    "id": "buy a new one.",
+    "text": "i would if i had the money."
+  },
+  {
+    "id": "i would if i had the money.",
+    "text": "why is it so slow?"
+  },
+  {
+    "id": "why is it so slow?",
+    "text": "that's a good question."
+  },
+  {
+    "id": "that's a good question.",
+    "text": "did you take it to a computer shop?"
+  },
+  {
+    "id": "did you take it to a computer shop?",
+    "text": "i would if i had the money."
+  },
+  {
+    "id": "i would if i had the money.",
+    "text": "well, i guess you have to live with it."
+  },
+  {
+    "id": "well, i guess you have to live with it.",
+    "text": "sometimes i want to throw it out the window."
+  },
+  {
+    "id": "sometimes i want to throw it out the window.",
+    "text": "you don't want to do that."
+  },
+  {
+    "id": "you don't want to do that.",
+    "text": "why not?"
+  },
+  {
+    "id": "why not?",
+    "text": "you might hit someone in the head."
+  },
+  {
+    "id": "what's for dinner?",
+    "text": "i'm not sure."
+  },
+  {
+    "id": "i'm not sure.",
+    "text": "how about a pizza?"
+  },
+  {
+    "id": "how about a pizza?",
+    "text": "you had pizza for lunch."
+  },
+  {
+    "id": "you had pizza for lunch.",
+    "text": "but i love pizza."
+  },
+  {
+    "id": "but i love pizza.",
+    "text": "everybody loves pizza."
+  },
+  {
+    "id": "everybody loves pizza.",
+    "text": "so why can't i have pizza for dinner?"
+  },
+  {
+    "id": "so why can't i have pizza for dinner?",
+    "text": "because you need variety."
+  },
+  {
+    "id": "because you need variety.",
+    "text": "what's \"variety?"
+  },
+  {
+    "id": "what's \"variety?",
+    "text": "different thingsÂ—not the same thing all the time."
+  },
+  {
+    "id": "different thingsÂ—not the same thing all the time.",
+    "text": "you mean, like a pepperoni pizza instead of a cheese pizza?"
+  },
+  {
+    "id": "you mean, like a pepperoni pizza instead of a cheese pizza?",
+    "text": "no, i mean a salad instead of a pizza."
+  },
+  {
+    "id": "we need to save money.",
+    "text": "why do we need to save money?"
+  },
+  {
+    "id": "why do we need to save money?",
+    "text": "because we need to buy a house."
+  },
+  {
+    "id": "because we need to buy a house.",
+    "text": "but a house is so expensive."
+  },
+  {
+    "id": "but a house is so expensive.",
+    "text": "that's why we need to save money."
+  },
+  {
+    "id": "that's why we need to save money.",
+    "text": "how much do we need to save?"
+  },
+  {
+    "id": "how much do we need to save?",
+    "text": "we need to save enough for a down payment."
+  },
+  {
+    "id": "we need to save enough for a down payment.",
+    "text": "how much is that?"
+  },
+  {
+    "id": "how much is that?",
+    "text": "that's about $30,000."
+  },
+  {
+    "id": "that's about $30,000.",
+    "text": "thirty thousand dollars! that will take forever."
+  },
+  {
+    "id": "thirty thousand dollars! that will take forever.",
+    "text": "not if we save every penny."
+  },
+  {
+    "id": "not if we save every penny.",
+    "text": "okay. here's seven pennies."
+  },
+  {
+    "id": "the ocean is so big.",
+    "text": "you can't see the end of it."
+  },
+  {
+    "id": "you can't see the end of it.",
+    "text": "it goes on and on forever."
+  },
+  {
+    "id": "it goes on and on forever.",
+    "text": "and it's deep, too."
+  },
+  {
+    "id": "and it's deep, too.",
+    "text": "i think it's five miles deep."
+  },
+  {
+    "id": "i think it's five miles deep.",
+    "text": "are there fish at the bottom?"
+  },
+  {
+    "id": "are there fish at the bottom?",
+    "text": "there are fish at the top and the bottom."
+  },
+  {
+    "id": "there are fish at the top and the bottom.",
+    "text": "are there more fish or more people?"
+  },
+  {
+    "id": "are there more fish or more people?",
+    "text": "i think there are more fish."
+  },
+  {
+    "id": "i think there are more fish.",
+    "text": "i hope so. i love to eat fish."
+  },
+  {
+    "id": "i'm upset with my mom.",
+    "text": "why is that?"
+  },
+  {
+    "id": "why is that?",
+    "text": "i warned her about her new boyfriend. she didn't listen to me."
+  },
+  {
+    "id": "i warned her about her new boyfriend. she didn't listen to me.",
+    "text": "what happened?"
+  },
+  {
+    "id": "what happened?",
+    "text": "i gave her $1,000 for her birthday. i told her to spend it on herself."
+  },
+  {
+    "id": "i gave her $1,000 for her birthday. i told her to spend it on herself.",
+    "text": "that was very nice of you."
+  },
+  {
+    "id": "that was very nice of you.",
+    "text": "i found out that she gave it to her new boyfriend."
+  },
+  {
+    "id": "i found out that she gave it to her new boyfriend.",
+    "text": "why did she do that?"
+  },
+  {
+    "id": "why did she do that?",
+    "text": "he said he would buy her a nice ring."
+  },
+  {
+    "id": "he said he would buy her a nice ring.",
+    "text": "what's wrong with that?"
+  },
+  {
+    "id": "what's wrong with that?",
+    "text": "he went to las vegas. he lost it all gambling."
+  },
+  {
+    "id": "he went to las vegas. he lost it all gambling.",
+    "text": "i hope your mom broke up with him."
+  },
+  {
+    "id": "do animals talk to each other?",
+    "text": "of course they talk to each other."
+  },
+  {
+    "id": "of course they talk to each other.",
+    "text": "what do they talk about?"
+  },
+  {
+    "id": "what do they talk about?",
+    "text": "they talk about other animals."
+  },
+  {
+    "id": "they talk about other animals.",
+    "text": "what else do they talk about?"
+  },
+  {
+    "id": "what else do they talk about?",
+    "text": "they talk about food and the weather."
+  },
+  {
+    "id": "they talk about food and the weather.",
+    "text": "do they talk about us?"
+  },
+  {
+    "id": "do they talk about us?",
+    "text": "of course they talk about us."
+  },
+  {
+    "id": "of course they talk about us.",
+    "text": "what do they say about us?"
+  },
+  {
+    "id": "what do they say about us?",
+    "text": "they say that we are funny-looking."
+  },
+  {
+    "id": "they say that we are funny-looking.",
+    "text": "ha! we're not funny-looking; animals are funny-looking."
+  },
+  {
+    "id": "ha! we're not funny-looking; animals are funny-looking.",
+    "text": "we're funny-looking because we wear clothes."
+  },
+  {
+    "id": "i have to clean the house.",
+    "text": "yes, it's very dirty."
+  },
+  {
+    "id": "yes, it's very dirty.",
+    "text": "you can help me."
+  },
+  {
+    "id": "you can help me.",
+    "text": "why me?"
+  },
+  {
+    "id": "why me?",
+    "text": "because you helped make it dirty."
+  },
+  {
+    "id": "because you helped make it dirty.",
+    "text": "what do you want me to do?"
+  },
+  {
+    "id": "what do you want me to do?",
+    "text": "i want you to clean the bathroom."
+  },
+  {
+    "id": "i want you to clean the bathroom.",
+    "text": "oh, that's easy."
+  },
+  {
+    "id": "oh, that's easy.",
+    "text": "clean the sink, the tub, the counter, and the toilet."
+  },
+  {
+    "id": "clean the sink, the tub, the counter, and the toilet.",
+    "text": "that's a lot of work."
+  },
+  {
+    "id": "that's a lot of work.",
+    "text": "tell me when you finish."
+  },
+  {
+    "id": "tell me when you finish.",
+    "text": "i don't think so. you'll just give me more work."
+  },
+  {
+    "id": "you're watching too much tv.",
+    "text": "what do you mean?"
+  },
+  {
+    "id": "what do you mean?",
+    "text": "i mean you're wasting your life."
+  },
+  {
+    "id": "i mean you're wasting your life.",
+    "text": "i'm having fun."
+  },
+  {
+    "id": "i'm having fun.",
+    "text": "you're sitting there with your mouth open."
+  },
+  {
+    "id": "you're sitting there with your mouth open.",
+    "text": "who cares?"
+  },
+  {
+    "id": "who cares?",
+    "text": "i care. do something."
+  },
+  {
+    "id": "i care. do something.",
+    "text": "okay. i did something."
+  },
+  {
+    "id": "okay. i did something.",
+    "text": "what did you do?"
+  },
+  {
+    "id": "what did you do?",
+    "text": "i turned up the volume."
+  },
+  {
+    "id": "i turned up the volume.",
+    "text": "that's not what i meant by \"do something.\""
+  },
+  {
+    "id": "that's not what i meant by \"do something.\"",
+    "text": "will you do something? leave me alone."
+  },
+  {
+    "id": "did you write a letter to grandma?",
+    "text": "yes, i did."
+  },
+  {
+    "id": "yes, i did.",
+    "text": "did you tell her about school?"
+  },
+  {
+    "id": "did you tell her about school?",
+    "text": "i told her that school is fun."
+  },
+  {
+    "id": "i told her that school is fun.",
+    "text": "did you put the letter in an envelope?"
+  },
+  {
+    "id": "did you put the letter in an envelope?",
+    "text": "yes, and i sealed the envelope."
+  },
+  {
+    "id": "yes, and i sealed the envelope.",
+    "text": "did you put a stamp on the envelope?"
+  },
+  {
+    "id": "did you put a stamp on the envelope?",
+    "text": "i couldn't find any stamps."
+  },
+  {
+    "id": "i couldn't find any stamps.",
+    "text": "they're in the kitchen drawer."
+  },
+  {
+    "id": "they're in the kitchen drawer.",
+    "text": "okay. i just put a stamp on the envelope."
+  },
+  {
+    "id": "okay. i just put a stamp on the envelope.",
+    "text": "give me the envelope, and i'll mail it for you."
+  },
+  {
+    "id": "give me the envelope, and i'll mail it for you.",
+    "text": "when is grandma going to learn about e-mail?"
+  },
+  {
+    "id": "why are you yawning?",
+    "text": "i'm sleepy."
+  },
+  {
+    "id": "i'm sleepy.",
+    "text": "why don't you go to bed?"
+  },
+  {
+    "id": "why don't you go to bed?",
+    "text": "i want to watch this tv show."
+  },
+  {
+    "id": "i want to watch this tv show.",
+    "text": "maybe you should record it."
+  },
+  {
+    "id": "maybe you should record it.",
+    "text": "the tape recorder is broken."
+  },
+  {
+    "id": "the tape recorder is broken.",
+    "text": "then you should watch the rerun."
+  },
+  {
+    "id": "then you should watch the rerun.",
+    "text": "why? i'm watching the original."
+  },
+  {
+    "id": "why? i'm watching the original.",
+    "text": "but you'll be asleep in about one minute."
+  },
+  {
+    "id": "but you'll be asleep in about one minute.",
+    "text": "i'm just yawning because the commercials are on."
+  },
+  {
+    "id": "i'm just yawning because the commercials are on.",
+    "text": "okay. i'll tell you how the show ends."
+  },
+  {
+    "id": "okay. i'll tell you how the show ends.",
+    "text": "zzz."
+  },
+  {
+    "id": "it's sunday.",
+    "text": "so?"
+  },
+  {
+    "id": "so?",
+    "text": "you know what that means."
+  },
+  {
+    "id": "you know what that means.",
+    "text": "i forgot."
+  },
+  {
+    "id": "i forgot.",
+    "text": "sunday means we go to church."
+  },
+  {
+    "id": "sunday means we go to church.",
+    "text": "oh, yeah."
+  },
+  {
+    "id": "oh, yeah.",
+    "text": "put on a coat and tie."
+  },
+  {
+    "id": "put on a coat and tie.",
+    "text": "why?"
+  },
+  {
+    "id": "why?",
+    "text": "to show respect to god and others."
+  },
+  {
+    "id": "to show respect to god and others.",
+    "text": "i'm glad sunday is only once a week."
+  },
+  {
+    "id": "i'm glad sunday is only once a week.",
+    "text": "i hope god didn't hear that."
+  },
+  {
+    "id": "i hope god didn't hear that.",
+    "text": "he'll forgive me."
+  },
+  {
+    "id": "did you feed the cat?",
+    "text": "i'll do that in a minute."
+  },
+  {
+    "id": "i'll do that in a minute.",
+    "text": "the cat is meowing. he's hungry."
+  },
+  {
+    "id": "the cat is meowing. he's hungry.",
+    "text": "okay. i'll feed him right now."
+  },
+  {
+    "id": "okay. i'll feed him right now.",
+    "text": "you shouldn't make him wait."
+  },
+  {
+    "id": "you shouldn't make him wait.",
+    "text": "i was doing my homework."
+  },
+  {
+    "id": "i was doing my homework.",
+    "text": "the cat doesn't care about your homework."
+  },
+  {
+    "id": "the cat doesn't care about your homework.",
+    "text": "the cat doesn't care about anything."
+  },
+  {
+    "id": "the cat doesn't care about anything.",
+    "text": "that's the way cats are."
+  },
+  {
+    "id": "that's the way cats are.",
+    "text": "all they think about is themselves."
+  },
+  {
+    "id": "all they think about is themselves.",
+    "text": "maybe we should get rid of him."
+  },
+  {
+    "id": "maybe we should get rid of him.",
+    "text": "of course not! he's family."
+  },
+  {
+    "id": "i hate shaving.",
+    "text": "me too."
+  },
+  {
+    "id": "me too.",
+    "text": "i just cut myself again."
+  },
+  {
+    "id": "i just cut myself again.",
+    "text": "did you use a new blade?"
+  },
+  {
+    "id": "did you use a new blade?",
+    "text": "it doesn't matter. old blades cut, new blades cut."
+  },
+  {
+    "id": "it doesn't matter. old blades cut, new blades cut.",
+    "text": "maybe you should use an electric shaver."
+  },
+  {
+    "id": "maybe you should use an electric shaver.",
+    "text": "they make a lot of noise, but they don't give a close shave."
+  },
+  {
+    "id": "they make a lot of noise, but they don't give a close shave.",
+    "text": "maybe you should stop shaving."
+  },
+  {
+    "id": "maybe you should stop shaving.",
+    "text": "and grow a beard?"
+  },
+  {
+    "id": "and grow a beard?",
+    "text": "sure. why not?"
+  },
+  {
+    "id": "sure. why not?",
+    "text": "because food and other stuff sticks in my beard."
+  },
+  {
+    "id": "because food and other stuff sticks in my beard.",
+    "text": "hmm. here's an idea. put cream on your face and have the cat lick it off."
+  },
+  {
+    "id": "excuse me.",
+    "text": "yes?"
+  },
+  {
+    "id": "yes?",
+    "text": "are you reading this paper?"
+  },
+  {
+    "id": "are you reading this paper?",
+    "text": "oh, no. help yourself."
+  },
+  {
+    "id": "oh, no. help yourself.",
+    "text": "i asked because the paper is sitting next to you."
+  },
+  {
+    "id": "i asked because the paper is sitting next to you.",
+    "text": "thank you. that's polite of you to ask."
+  },
+  {
+    "id": "thank you. that's polite of you to ask.",
+    "text": "some people would just pick it up."
+  },
+  {
+    "id": "some people would just pick it up.",
+    "text": "yes, i know. some people are rude."
+  },
+  {
+    "id": "yes, i know. some people are rude.",
+    "text": "i always try to be polite."
+  }
+]
