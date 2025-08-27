@@ -5,3 +5,7 @@ pyaudio
 transformers
 torch
 ollama
+edge-tts
+python-vlc
+langdetect
+pygame

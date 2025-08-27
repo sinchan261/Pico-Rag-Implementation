@@ -29,68 +29,6 @@
 
 
 
-# import ollama
-# from core.rag_engine import RAGengine
-# class ConversationEngine:
-#     def __init__(self, model="phi3:medium"):
-#         self.model = model
-
-#         self.rag = RAGengine()
-#         self.history = [
-#             {
-#                 "role": "system",
-#                 "content": (
-#                     "You are Pico, a friendly AI companion. Respond conversationally with:\n"
-#                     "1. Natural follow-up questions\n"
-#                     "2. Occasional humor when appropriate\n"
-#                     "3. Concise but thoughtful answers\n"
-#                     "4. Context awareness from previous messages"
-#                 )
-#             }
-#         ]
-
-#         # 🔥 Warm-up (so first response is instant)
-#         try:
-#             ollama.chat(
-#                 model=self.model,
-#                 messages=[{"role": "user", "content": "warmup"}],
-#                 options={"num_predict": 1}  # very fast warmup
-#             )
-#         except Exception:
-#             pass
-
-#     def generate(self, user_input: str) -> str:
-#         try:
-#             context_docs = self.rag.retrieve(user_input)
-#             context_text = "\n".join(context_docs)
-#             # Add user input to history
-#             self.history.append({
-#                 "role": "user",
-#                 "content": f"{user_input}\n\nRelevant info:\n{context_text}"
-#             })
-
-#             # Stream response from Ollama
-#             stream = ollama.chat(
-#                 model=self.model,
-#                 messages=self.history,
-#                 options={"num_predict": 80},  # limit reply length for speed
-#                 stream=True
-#             )
-
-#             reply = ""
-#             for chunk in stream:
-#                 content = chunk["message"]["content"]
-#                 reply += content
-#                 print(content, end="", flush=True)  # prints as Pico types
-
-#             print()  # new line after streaming
-
-#             # Save assistant reply to history
-#             self.history.append({"role": "assistant", "content": reply})
-
-#             return reply
-#         except Exception as e:
-#             return f"Let's talk about something else. (error: {e})"
 import ollama
 from core.rag_engine import RAGengine
 
@@ -99,7 +37,8 @@ class ConversationEngine:
         self.model = model
         self.rag = RAGengine(use_reranker=use_reranker)
 
-        # Persistent conversation history
+    # core/conversation.py - REPLACE THE ENTIRE SYSTEM PROMPT
+
         self.history = [
             {
                 "role": "system",
@@ -123,12 +62,12 @@ class ConversationEngine:
             }
         ]
 
-        # 🔥 Warm-up model so first response is fast
+        # 🔥 Warm-up (so first response is instant)
         try:
             ollama.chat(
                 model=self.model,
                 messages=[{"role": "user", "content": "warmup"}],
-                options={"num_predict": 1}
+                options={"num_predict": 1}  # very fast warmup
             )
         except Exception:
             pass
